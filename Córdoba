@@ -591,10 +591,6 @@ https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 HARRY POTTER" tvg-logo="https://i.ibb.co/FVDm8wL/Whats-App-Image-2024-03-22-at-14-36-33.jpg" group-title="24/7",24/7 HARRY POTTER
-http://masterprotv2.com:8080//live/56976915910wspztv/220622ztv/34479.ts
-
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346138/os0793nnsdcby18gttcg.png" tvg-id="filmandarts.ar" group-title="Cine, Novelas y Series",Film & Arts 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
@@ -613,6 +609,27 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
+
+#EXTINF:-1 xui-id="173218" tvg-id="" tvg-name="24/7 - Bob Esponja" tvg-logo="https://i.pinimg.com/736x/64/0d/89/640d898d3e37ac19a0061584a107c126.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Bob Esponja
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AxTBKp2PEeOtxUTnlQ6rrz/ts
+
+#EXTINF:-1 xui-id="197060" tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="https://original.fontsinuse.com/fontsinuse.com/use-images/N197/197967/197967.jpeg" group-title="24/7 EXCLUSIVOS",24/7 - El Chavo del 8
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Bq7UT3ZY1gfT0iL-H0DqxQ/ts
+
+#EXTINF:-1 xui-id="419520" tvg-id="" tvg-name="24/7 Coraje El Perro Cobarde" tvg-logo="https://i.pinimg.com/originals/34/df/61/34df6125095daabc33bf79ed3fd5e808.png" group-title="24/7 EXCLUSIVOS",24/7 Coraje El Perro Cobarde
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1BwXUIGC-V5RrcfoJjUXjuJ/ts
+
+#EXTINF:-1 xui-id="284573" tvg-id="" tvg-name="24/7 Marvel 1" tvg-logo="https://wallpapercave.com/wp/wp2700186.jpg" group-title="24/7 EXCLUSIVOS",24/7 Marvel 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1BoylGz6SRcf2jVXxWwLYUj/ts
+
+#EXTINF:-1 xui-id="285198" tvg-id="" tvg-name="24/7 Harry Potter" tvg-logo="https://logos-world.net/wp-content/uploads/2020/04/Harry-Potter-Logo.png" group-title="24/7 EXCLUSIVOS",24/7 Harry Potter
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Bwfkr3D8-EngKutIaT_xs5/ts
+
+#EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 Los Simpson 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1CKWEKfa9ofDoBCDJTNsFTx/ts
+
+#EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 Dragon Ball Z 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1ADCNDjG520fjizE4nHoUaz/ts
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
