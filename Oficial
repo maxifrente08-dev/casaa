@@ -80,7 +80,7 @@ https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=3000
-https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+http://138.59.227.20:8000/play/a097/index.m3u8
 
 #EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="ALTERNATIVOS 2",TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
