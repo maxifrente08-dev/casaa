@@ -1,4 +1,4 @@
-#EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER*
+#EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
@@ -100,19 +100,37 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
 
-#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 
+
+#EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium z
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
+http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
+
+
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 1
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
 #EXTVLCOPT:http-referer=https://web.flow.com.ar/
 #EXTVLCOPT:network-caching=5000
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 
-#EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
-#EXTVLCOPT:http-referer=https://web.flow.com.ar/
-#EXTVLCOPT:network-caching=5000
-https://sea3mr6j.83870203.net:8443/hls/eka6jtsowcqgv6.m3u8?s=rGiGw3puFGKGCtu1JAuvvw&e=1778530672
+#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium prueba*
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
+#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=same-site
+https://joy.media.edge-apps.net/hls/mkXx84wvvE_P0eEGT4zaTVOYb-KoRmm_1wg52_Sf58mTmJ2mL7PiFJC0TTrf1d0w6ggmxLp1Ctj9U2X0CuqkPPO80u7Hfscws_06XQ/56cl9-6dffj-hb9op-hik52_1080p/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 2
+
+#EXTINF:-1 tvg-id="espn.premium" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/8N0vY5p.png" group-title="Deportes", ESPN Premium 2*
+https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=9bc7fe1c159b440fd4b074a269d72b0e70d477ec-f2-1778725465-1778671465
+
+
+
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=12000
 #EXTVLCOPT:http-reconnect=true
@@ -121,6 +139,12 @@ https://sea3mr6j.83870203.net:8443/hls/eka6jtsowcqgv6.m3u8?s=rGiGw3puFGKGCtu1JAu
 https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", TNT Sports z
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
+
 #EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports HD
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
 #EXTVLCOPT:network-caching=8000
@@ -128,10 +152,20 @@ https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 #EXTVLCOPT:http-buffer-size=10485760
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/8pW4jPj.png" group-title="Deportes", TNT Sports
-https://zb533.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=0d92470231cb8147ffc511dab1b64b43a51dcfb2-50-1778531997-1778477997
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://i.postimg.cc/WbsZGtb2/Fondo_Oscuro.png" group-title="Deportes", TNT Sports Premium prueba
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
+#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=same-site
+https://joy.media.edge-apps.net/hls/9cqQ9maSaskRnartFAaORvCuY8Lmhyalkg11epj1L_vHekxh_5RFAL1ThqnM6uFXaFEfH9ZstZlhpzv6QQB0lvI-Ps_qZZGUbAddWw/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
-#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS PREMIUM* 2
+
+#EXTINF:-1 tvg-id="TNTSports" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/8pW4jPj.png" group-title="Deportes", TNT Sports 2
+https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=af1153e2bc36cbe30689e35414b3a3476cf3a254-c2-1778725544-1778671544
+
+#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS PREMIUM* 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=12000
 #EXTVLCOPT:http-reconnect=true
@@ -144,10 +178,18 @@ https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=3000
-https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://i.ibb.co/tK20mxz/tycsports.png" group-title="Deportes", TyC Internacional*
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERer=https://web.flow.com.ar/
+#HTTP-ORIGIN=https://web.flow.com.ar
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=cross-site
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_cenc/TyC_Internacional.mpd
+
 
 
 
@@ -251,44 +293,3 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tigosports.com.py/
 https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
-
-#EXTINF:-1 tvg-id="DSports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes", DSports 
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#HTTP-REFERER=https://www.streameast.xyz/
-#HTTP-ORIGIN=https://www.streameast.xyz
-https://doc1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=3568b9630b2699e0c4b5c3bcbe25d97ce4b557a5-5e-1778534612-1778480612
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 2
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:network-caching=6500
-#EXTVLCOPT:http-reconnect=true
-http://38.210.3.64:8090/play/a0je/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 3
-#EXTVLCOPT:network-caching=4000
-http://138.59.227.20:8000/play/a0ft/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
-#EXTVLCOPT:network-caching=5000
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2 
-
-https://tv.nousiptv.com:8443/Henrymaria/Perato/32882
-
-
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus 
-
-https://doc1.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.242.127&token=3d484a1c78af3a9fedd0f0c082c3c91d04f05516-18-1778534250-1778480250
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-
-#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="Deportes", Flow Sports
-
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
