@@ -160,40 +160,16 @@ https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="[TODONOT].Todo.Noticias.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/800/542/0/0/859370090736.png" group-title="Interés General", TN 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#HTTP-REFERER=https://web.flow.com.ar/
-#HTTP-ORIGIN=https://web.flow.com.ar
-#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
-#HTTP-SEC-CH-UA-PLATFORM="Windows"
-#HTTP-SEC-CH-UA-MOBILE=?0
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
+http://138.59.227.20:8000/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-id="La TV Pública (ARG).ar" tvg-logo="https://i.postimg.cc/5t1Qr2mk/LEP.png" group-title="Interés General", TV Pública 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#HTTP-REFERER=https://web.flow.com.ar/
-#HTTP-ORIGIN=https://web.flow.com.ar
-#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
-#HTTP-SEC-CH-UA-PLATFORM="Windows"
-#HTTP-SEC-CH-UA-MOBILE=?0
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
+http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="Interés General", eltrece 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#HTTP-REFERER=https://web.flow.com.ar/
-#HTTP-ORIGIN=https://web.flow.com.ar
-#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
-#HTTP-SEC-CH-UA-PLATFORM="Windows"
-#HTTP-SEC-CH-UA-MOBILE=?0
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
+http://138.59.227.20:8000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce*
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
