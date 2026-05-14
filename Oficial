@@ -270,8 +270,7 @@ http://38.210.3.64:8090/play/a0je/index.m3u8
 
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
-https://qzv4jmsc.fubohd.com/dsports2/mono.m3u8?token=9a6ee1b2afe00be35914d6682d8428894b2ad934-ce-1778806599-1778788599
-
+http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus+
 
