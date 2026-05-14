@@ -527,13 +527,21 @@ https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
-
+#EXTINF:0,Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+http://45.181.122.46:8090/play/a03d
 
 #EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a058/index.m3u8
 
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://45.181.122.46:8090/play/a01p
 
+#EXTINF:0,RCN Novelas
+#EXTVLCOPT:network-caching=1000
+http://45.181.122.46:8090/play/a02l
 
 #EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space
 #EXTVLCOPT:network-caching=1000
