@@ -138,16 +138,8 @@ http://138.59.227.20:8000/play/a06k/index.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
 #EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" group-title="Interés General", Canal 10 Córdoba 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#HTTP-REFERER=https://web.flow.com.ar/
-#HTTP-ORIGIN=https://web.flow.com.ar
-#HTTP-SEC-CH-UA="Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
-#HTTP-SEC-CH-UA-PLATFORM="Windows"
-#HTTP-SEC-CH-UA-MOBILE=?0
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_C/Canal10_CBA_HD.mpd
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
