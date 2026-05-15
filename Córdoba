@@ -116,13 +116,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium z
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv
-#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium z
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
