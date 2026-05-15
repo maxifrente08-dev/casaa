@@ -268,6 +268,9 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
 http://108.175.13.7/play?token=79c56b02-96ad-4d9a-b72c-83ec592e209c
 
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus 2
+https://doc1.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.202.246&token=c856482e67a9ee4e049aadd2f88596aa3ef05dd8-9d-1778924223-1778870223
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
