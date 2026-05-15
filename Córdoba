@@ -95,7 +95,7 @@ http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://i.postimg.cc/3wJGsKBB/eltrece_2.png" group-title="Interés General", eltrece 
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://138.59.227.20:8000/play/a07b/index.m3u8
+http://45.5.151.147:8000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce*
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
