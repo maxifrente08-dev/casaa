@@ -233,7 +233,7 @@ http://177.10.184.193:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="⭐ ALTERNATIVOS 4 ⭐" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 2
 #EXTVLCOPT:network-caching=5000
-http://191.97.14.162:8000/play/a016/index.m3u8
+http://108.175.13.7/play?token=5943e30e-14b0-4049-ba9f-9b108ce07026
 
 #EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
@@ -287,9 +287,9 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 http://138.59.227.20:8000/play/a0ft/index.m3u8
 
 
-#EXTINF:-1 tvg-id="DSports.ar" tvg-name="DSports 1" group-title="Deportes", DSports 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 2
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.214.240&token=7aacf5c2bf36b8d8d2908264d8da15032702ceec-12-1778647803-1778593803
+http://108.175.13.7/play?token=084ad458-d69f-4545-a201-3e6d1fb20539
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
@@ -301,14 +301,9 @@ http://38.210.3.64:8090/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
 http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
-
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus+
 
-http://190.238.43.117:8000/play/a09f/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749237097/ktodxvqmqpbo1lhl452v.png" tvg-id="DeporTV.ar" group-title="Deportes",Deportv 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
+http://108.175.13.7/play?token=497f1b60-640a-406a-8b5a-48d14360df61
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
