@@ -289,7 +289,7 @@ https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
 #EXTINF:1 CUID="215" tvg-name="Nickelodeon" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/800/542/0/0/70239189071229.png" tvg-id="Nickelodeon.ar" group-title="Infantil",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://190.7.19.197:232/play/a03e/index.m3u8
+http://45.5.151.147:8000/play/a00x/index.m3u8
 
 
 #EXTINF:1 CUID="214" tvg-name="Nick Jr" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" tvg-id="NickJr.ar" group-title="Infantil",Nick Jr 
