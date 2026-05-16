@@ -112,7 +112,7 @@ http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
 #HTTP-SEC-FETCH-DEST=empty
 #HTTP-SEC-FETCH-MODE=cors
 #HTTP-SEC-FETCH-SITE=same-site
-https://joy.media.edge-apps.net/hls/Yr4jlNYRhLR-fW8gmyuxC8c-4P3eWWmgGWOJ7QtA8hKrcBcHGXQwKKo1zAsMs5hv6NLbs72F_hBGFy7_6ZedZrh30V-P8VqdYBrM8Q/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+https://joy.media.edge-apps.net/hls/jX3SHwnxgUrZ8l2OQLsWf1O1G4JvUJK8-nYwrh4CQNOIvgEZrqHnz9rf-mznZFzBTHJhNmaCT8YtEXaBnUiXcMZLxBEd8BV_9g6jtQ/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 3
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
@@ -132,7 +132,7 @@ http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-buffer-size=10485760
 #EXTVLCOPT:http-referer=https://www.google.com/
-https://joy.media.edge-apps.net/hls/02qdCeH4s48FVZtp2Trg3N2Q1UNBi6JlwWnkyRkToI9aYd7Zg-SVn6w76nmr6zcj--3h83bVSBwdP28t-AbhvvynM0qc8YszN6FqJQ/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
+https://joy.media.edge-apps.net/hls/kt4ORDMY4AuRMfQvvCULkjhQkZECUgY1oIizVBYgiaLca0bXaS1ojP2ZqDTJ7vidXkmAZb3W_GoFpMp5rQ2mw9IQ-QE30Yjsw026vg/hg35c-k15n6-nn351-lje0m_720p/index.m3u8
 
 #EXTINF:0 tvg-id="TNT.Sports.AR" tvg-name="TNT Sports HD" group-title="ARGENTINA (PERSONAL)",TNT Sports3
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
