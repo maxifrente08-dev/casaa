@@ -96,7 +96,7 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
 
-#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium
+#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium2
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://webplayer.joy.edge-apps.net/
 #HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
@@ -112,15 +112,6 @@ https://joy.media.edge-apps.net/hls/jX3SHwnxgUrZ8l2OQLsWf1O1G4JvUJK8-nYwrh4CQNOI
 #KODIPROP:inputstream.adaptive.max_bandwidth=10000000
 http://zapster.trapemn.tv:1935/Zapsterv2/ESPNPremiumHD.steam/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium2
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
-#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
-#HTTP-SEC-FETCH-DEST=empty
-#HTTP-SEC-FETCH-MODE=cors
-#HTTP-SEC-FETCH-SITE=same-site
-https://joy.media.edge-apps.net/hls/jX3SHwnxgUrZ8l2OQLsWf1O1G4JvUJK8-nYwrh4CQNOIvgEZrqHnz9rf-mznZFzBTHJhNmaCT8YtEXaBnUiXcMZLxBEd8BV_9g6jtQ/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM 3
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
