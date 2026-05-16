@@ -96,6 +96,14 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 #EXTINF:-1 ch-number="11" tvg-id="El Doce CANAL 12 DE CORDOBA.ar" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Interés General", eldoce
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CBA.mpd
 
+#EXTINF:-1 tvg-id="Joy.720p" tvg-logo="https://acortar.link/logo-nextel-joy" group-title="Variedades", espn premium
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://webplayer.joy.edge-apps.net/
+#HTTP-ORIGIN=https://webplayer.joy.edge-apps.net
+#HTTP-SEC-FETCH-DEST=empty
+#HTTP-SEC-FETCH-MODE=cors
+#HTTP-SEC-FETCH-SITE=same-site
+https://joy.media.edge-apps.net/hls/jX3SHwnxgUrZ8l2OQLsWf1O1G4JvUJK8-nYwrh4CQNOIvgEZrqHnz9rf-mznZFzBTHJhNmaCT8YtEXaBnUiXcMZLxBEd8BV_9g6jtQ/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium z
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
