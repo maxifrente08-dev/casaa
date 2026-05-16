@@ -103,7 +103,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_C/Canal_12_CB
 #HTTP-SEC-FETCH-DEST=empty
 #HTTP-SEC-FETCH-MODE=cors
 #HTTP-SEC-FETCH-SITE=same-site
-https://joy.media.edge-apps.net/hls/fG1ppVf4VQ6c_DJVuVar8VGWMZrL93aUUP3uePsTOB0ZN8wfW5M-2iw_u2SLF-jyWC2-2yUroqaIfZyiCKP0ULn0ZfGwXYu8zphbQw/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+https://joy.media.edge-apps.net/hls/fG1ppVf4VQ6c_DJVuVar8VGWMZrL93aUUP3uePsTOB0ZN8wfW5M-2iw_u2SLF-jyWC2-2yUroqaIfZyiCKP0ULn0ZfGwXYu8zphbQw/56cl9-6dffj-hb9op-hik52_1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium z
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
