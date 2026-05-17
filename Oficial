@@ -247,7 +247,7 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.202.246&token=560a1168ee587c447ff1071f0e3b3c14c02c6505-55-1779063707-1779009707
+https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.202.246&token=ff9284fa8025fe2f5641b1ab82397807d5bd4d9a-77-1779082147-1779028147
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
