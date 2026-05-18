@@ -403,10 +403,6 @@ http://177.10.184.193:8000/play/a058/index.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/Space/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space
-#EXTVLCOPT:network-caching=1000
-http://177.10.184.193:8000/play/a061/index.m3u8
-
 #EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
@@ -419,10 +415,8 @@ https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 #KODIPROP:inputstream.adaptive.max_bandwidth=10000000
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 
-http://177.10.184.193:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal*
+http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" tvg-id="Golden.ar" group-title="Cine, Novelas y Series",Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
