@@ -299,6 +299,10 @@ https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
 
+
+#EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST (S)
+http://190.7.19.197:232/play/a01w/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="Infantil",Canal Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
@@ -439,6 +443,12 @@ http://177.10.184.193:8000/play/a09v/index.m3u8
 
 #EXTINF:-1 xui-id="173218" tvg-id="" tvg-name="24/7 - Bob Esponja" tvg-logo="https://i.pinimg.com/736x/64/0d/89/640d898d3e37ac19a0061584a107c126.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Bob Esponja
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AxTBKp2PEeOtxUTnlQ6rrz/ts
+
+#EXTINF:-1 xui-id="413004" tvg-id="" tvg-name="24/7 Looney Tunes Parte 2" tvg-logo="https://i.postimg.cc/bDC8w4pM/LT-Blue.jpg" group-title="24/7 EXCLUSIVOS",24/7 Looney Tunes clásico 
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1CQIqIcR7ERjKnK4N92OcZ6/ts
+
+#EXTINF:-1 xui-id="413006" tvg-id="" tvg-name="24/7 Looney Tunes NUEVOS" tvg-logo="https://i.postimg.cc/pyfY3xVf/looney-tunes-new-logo-2024-by-orbitcruz28-dgqjkfu-fullview.jpg" group-title="24/7 EXCLUSIVOS",24/7 Looney Tunes NUEVOS
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1CwfPcYasJfh0jcoz_jX4Tk/ts
 
 #EXTINF:-1 xui-id="197060" tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="https://original.fontsinuse.com/fontsinuse.com/use-images/N197/197967/197967.jpeg" group-title="24/7 EXCLUSIVOS",24/7 - El Chavo del 8
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Bq7UT3ZY1gfT0iL-H0DqxQ/ts
