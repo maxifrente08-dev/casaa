@@ -385,6 +385,12 @@ https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a058/index.m3u8
 
+#EXTINF:-1 tvg-id="Space" tvg-logo="https://i.postimg.cc/t4x8gY6m/space.png" group-title="Cine y Series", Space z
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
+http://zapster.trapemn.tv:1935/CD-LATAM/Space/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="Space.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/space-lam.png", Space
