@@ -410,13 +410,6 @@ https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://i.postimg.cc/vB6GvXqP/studio-universal.png" group-title="Cine y Series", Studio Universal z *
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv
-#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/CD-LATAM/Studio-Universal/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal 
 http://177.10.184.193:8000/play/a05q/index.m3u8
