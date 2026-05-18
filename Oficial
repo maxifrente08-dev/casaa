@@ -338,14 +338,6 @@ http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
 
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.postimg.cc/zX8yP6mG/hbo.png" group-title="Cine Premium", HBO z
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv
-#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/CD-LATAM/HBO/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
