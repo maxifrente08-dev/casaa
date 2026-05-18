@@ -1,23 +1,24 @@
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/8cmYmZ8K/espn.png" group-title="Deportes", ESPN HD z
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/8cmYmZ8K/espn.png" group-title="Deportes", ESPN 
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
 #KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/Zapsterv2/ESPNHD.steam/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/ESPN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/mrcXW0t3/espn2.png" group-title="Deportes", ESPN 2 HD z
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.postimg.cc/mrcXW0t3/espn2.png" group-title="Deportes", ESPN 2 
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
 #KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/Zapsterv2/ESPN2HD.steam/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/ESPN2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/fLYS3vS2/espn3.png" group-title="Deportes", ESPN 3 HD z
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/fLYS3vS2/espn3.png" group-title="Deportes", ESPN 3 
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
 #KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/Zapsterv2/ESPN3HD.steam/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/ESPN3/playlist.m3u8
+
 
 
 
