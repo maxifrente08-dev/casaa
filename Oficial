@@ -410,12 +410,6 @@ https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="TNT.ar" tvg-name="TNT" CUID="46" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="ALTERNATIVOS 2",TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
-
-
 #EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://i.postimg.cc/vB6GvXqP/studio-universal.png" group-title="Cine y Series", Studio Universal z *
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #HTTP-REFERER=https://zapster.trapemn.tv/
