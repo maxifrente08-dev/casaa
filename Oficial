@@ -402,6 +402,13 @@ http://177.10.184.193:8000/play/a061/index.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://i.postimg.cc/mrhw39v5/tnt.png" group-title="Cine y Series", TNT z
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#HTTP-REFERER=https://zapster.trapemn.tv/
+#HTTP-ORIGIN=https://zapster.trapemn.tv
+#KODIPROP:inputstream.adaptive.max_bandwidth=10000000
+http://zapster.trapemn.tv:1935/CD-LATAM/TNT/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="TNT.ar" tvg-name="TNT" CUID="46" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="ALTERNATIVOS 2",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
