@@ -183,21 +183,18 @@ http://38.210.3.64:8090/play/a0e6/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://38.210.3.64:8090/play/a0bu/index.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 2*
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://181.205.130.194:4000/play/a08n
 
-#EXTINF:-1 tvg-id="ESPN 2 A" group-title="⭐ ALTERNATIVOS 4 ⭐" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 3
+#EXTINF:-1 tvg-id="ESPN 2 A" group-title="⭐ ALTERNATIVOS 4 ⭐" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 2
 #EXTVLCOPT:network-caching=5000
 http://191.97.14.162:8000/play/a016/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 4
+#EXTINF:0 tvg-id="ESPN 3.co" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0jb/index.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 5
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 4
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 
@@ -247,7 +244,7 @@ http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports.webp",DSports op3
-http://190.61.41.181:8000/play/a0r5/index.m3u8
+http://38.210.3.64:8090/play/a0je/index.m3u8
 
 
 
