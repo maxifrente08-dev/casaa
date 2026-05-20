@@ -240,20 +240,15 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.238.91&token=f7602184f9761f3fe42e26f806af3d9ebe0a2af2-90-1779322176-1779268176
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 2
-http://38.210.3.64:8090/play/a0je/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="Deportes" ch-number="125",DSports op3
-http://201.230.121.85:8000/play/a0yv/index.m3u8
-
-#EXTINF:0,DIRECTV SPORT op4
+#EXTINF:0,DIRECTV SPORT op2
 #EXTVLCOPT:network-caching=1000
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports.webp",DSports op5
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports.webp",DSports op3
 http://190.61.41.181:8000/play/a0r5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 4
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
 
