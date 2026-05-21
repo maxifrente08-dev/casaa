@@ -1,3 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Dsports_UY" tvg-name="DSports UY" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Deportes", DSports UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=143c71292a6dd58404efad283b220539:9fceff2f3d70e2f569d5565407d7f743
+https://cdn.cvattv.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd
+
+#EXTINF:-1 tvg-id="Dsports2_UY" tvg-name="DSports 2 UY" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Deportes", DSports 2 UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=969a3f92b501140c840243fb52e2bde0:d9957d1813667c03e67f6b21632ea7b4
+https://cdn.cvattv.com.ar/live/c7eds/Dsports2_UY/SA_Live_dash_enc/Dsports2_UY.mpd
+
+#EXTINF:-1 tvg-id="Dsports_Plus_UY" tvg-name="DSports Plus UY" tvg-logo="https://i.postimg.cc/mk9jsWhc/Logo-1.png" group-title="Deportes", DSports Plus UY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517d3690fb9e64f95a9272958a84df32:b563bc52ea05c1e7002a996f688b08b9
+https://cdn.cvattv.com.ar/live/c7eds/Dsports_Plus_UY/SA_Live_dash_enc/Dsports_Plus_UY.mpd
+
+
+
+
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
