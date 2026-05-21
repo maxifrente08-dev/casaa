@@ -236,9 +236,12 @@ https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/in
 https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.238.91&token=625ee859305549bc57cb1b67a51a122b01fa8d8e-86-1779421712-1779367712
 
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/RGNJyM4D/SPORTS.jpg",DIRECTV SPORTSi909
+#EXTINF:-1tvg-logo="https://i.ibb.co/RGNJyM4D/SPORTS.jpg",DIRECTV SPORTS op2
 http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 
+#EXTINF:11,DirecTV SPORt op 3
+#EXTVLCOPT:network-caching=1000
+http://217.26.190.76:8888/play/a0co/index.m3u8
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
 http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
