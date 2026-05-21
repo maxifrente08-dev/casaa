@@ -251,10 +251,11 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 
-#EXTINF:0,DirecTv Sportsiiii
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a0ft/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSportsii8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18
+#EXTVLCOPT:network-caching=6500
+#EXTVLCOPT:http-reconnect=true
+http://38.210.3.64:8090/play/a0je/index.m3u8
 
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
