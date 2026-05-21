@@ -164,13 +164,13 @@ https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
-http://cablemaxsigloxxi.com:8000/play/a0t2/index.m3u8?hls
+http://38.210.3.64:8090/play/a0jd/index.m3u8
 
 #EXTINF:0,ESPN 6 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
-http://cablemaxsigloxxi.com:8000/play/a0t1/index.m3u8?hls
+http://38.210.3.64:8090/play/a0dj/index.m3u8
 
 #EXTINF:0,ESPN 7 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
