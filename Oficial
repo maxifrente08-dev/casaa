@@ -251,11 +251,9 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 
-#EXTINF:-1 tvg-name="DIRECTV SPORTS 2" group-title="Deportes",DIRECTV SPORTS 2**
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5
-https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd
+#EXTINF:0,DirecTv Sportsiiii
+#EXTVLCOPT:network-caching=1000
+http://138.59.227.20:8000/play/a0ft/index.m3u8
 
 
 
