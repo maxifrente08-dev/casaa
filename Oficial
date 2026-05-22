@@ -102,9 +102,11 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium prueba 
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 http://45.5.149.220:8000/play/a03m/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://bestleague.world/img/espnpr.webp",ESPN Premium prueba 2*
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
 
 
@@ -194,6 +196,7 @@ http://191.97.14.162:8000/play/a016/index.m3u8
 http://38.210.3.64:8090/play/a0jb/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 4
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 
@@ -220,15 +223,18 @@ https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.238.91&to
 
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/RGNJyM4D/SPORTS.jpg",DIRECTV SPORTS op2*
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=5000
 http://8.243.126.131:8000/play/a05a/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-2.png" group-title="• LATINO DEPORTES •",DSPORTS 2
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
 
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZaOEz30p0g-i75/m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
