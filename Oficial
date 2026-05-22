@@ -104,8 +104,9 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium prueba 
 http://45.5.149.220:8000/play/a03m/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://bestleague.world/img/espnpr.webp",ESPN Premium prueba 2
-http://45.5.151.147:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/espnpr.webp",ESPN Premium prueba 2*
+https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255-rEVRCCYWyv7gnH4RHpdF/m3u8
+
 
 #EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="Deportes", TNT Sports z
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
