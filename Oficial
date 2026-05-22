@@ -215,7 +215,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports (i)
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://8c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.238.91&token=cc0415471d2f76b5fd10ff54486a269c82b6be9e-bd-1779455351-1779401351
+https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.238.91&token=92864e2fc140b067e95eeae0ea328f1f14240c82-39-1779469311-1779415311
 
 
 #EXTINF:-1tvg-logo="https://i.ibb.co/RGNJyM4D/SPORTS.jpg",DIRECTV SPORTS op2*
@@ -228,7 +228,7 @@ http://domestipo1.online:80/live/ser682mun/5w49evr21/69549.m3u8
 
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - DIRECTV SPORTS PLUS SD" tvg-logo="http://descargas.podzone.net/logos/-Directv-sports-plus.png" group-title="• LATINO DEPORTES •",DSPORTS plus
-https://14c51.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.238.91&token=21644b5b88456651d1ab4f5afecedb16bf4c2c43-85-1779455395-1779401395
+https://8c51.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.238.91&token=d1e25c07c7782268032c433371a756fd8b265fab-ef-1779469372-1779415372
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
