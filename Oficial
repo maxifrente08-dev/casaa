@@ -413,6 +413,10 @@ http://177.10.184.193:8000/play/a09v/index.m3u8
 #EXTINF:-1 xui-id="173218" tvg-id="" tvg-name="24/7 - Bob Esponja" tvg-logo="https://i.pinimg.com/736x/64/0d/89/640d898d3e37ac19a0061584a107c126.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Bob Esponja
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AxTBKp2PEeOtxUTnlQ6rrz/ts
 
+#EXTINF:-1 xui-id="302521" tvg-id="" tvg-name="24/7  Tom y Jerry" tvg-logo="https://i.pinimg.com/originals/7a/9c/ac/7a9caccd78fa6600f2c3d6626f16f27a.jpg" group-title="24/7 EXCLUSIVOS",24/7  Tom y Jerry
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1DN84LDOym65DmTSzWfd3t7/ts
+
+
 #EXTINF:-1 xui-id="413004" tvg-id="" tvg-name="24/7 Looney Tunes Parte 2" tvg-logo="https://i.postimg.cc/bDC8w4pM/LT-Blue.jpg" group-title="24/7 EXCLUSIVOS",24/7 Looney Tunes clásico 
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1CQIqIcR7ERjKnK4N92OcZ6/ts
 
@@ -421,6 +425,10 @@ https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Cwf
 
 #EXTINF:-1 xui-id="197060" tvg-id="" tvg-name="24/7 - El Chavo del 8" tvg-logo="https://original.fontsinuse.com/fontsinuse.com/use-images/N197/197967/197967.jpeg" group-title="24/7 EXCLUSIVOS",24/7 - El Chavo del 8
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1Bq7UT3ZY1gfT0iL-H0DqxQ/ts
+
+#EXTINF:-1 xui-id="305082" tvg-id="" tvg-name="24/7 El Chapulín Colorado" tvg-logo="https://i1.sndcdn.com/artworks-000128938584-y6fy34-t500x500.jpg" group-title="24/7 EXCLUSIVOS",24/7 El Chapulín Colorado
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AMcWfa4YFtO_wzoh-eBSvZ/ts
+
 
 #EXTINF:-1 xui-id="419520" tvg-id="" tvg-name="24/7 Coraje El Perro Cobarde" tvg-logo="https://i.pinimg.com/originals/34/df/61/34df6125095daabc33bf79ed3fd5e808.png" group-title="24/7 EXCLUSIVOS",24/7 Coraje El Perro Cobarde
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1BwXUIGC-V5RrcfoJjUXjuJ/ts
