@@ -81,9 +81,9 @@ http://zapster.trapemn.tv:1935/Zapsterv2/ElTreceHD.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 
-#EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium j
+#EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium j*
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://joy.media.edge-apps.net/hls/i2MYWQVGBzXopBzbMFSd11124I8p1gKt04wGEjnXaqdC4qI5ugI_zaMV12b5KMKm-cVsFfIn13z-mUBGHzADPX_TL7dyesAVDQx9/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
+https://joy.media.edge-apps.net/hls/0BA9jVGvJzmTTzMrdkWQj4fuUls7rOWWFSEv-7rN2GDH-Lvm0skC7nDZsJrEul_JZsagiEOkUgqqSpaFm0gGFPh226YaImqKOVVj/56cl9-6dffj-hb9op-hik52_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-logo="https://i.postimg.cc/mD38mN3X/espn-premium.png" group-title="Deportes", ESPN Premium z
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
