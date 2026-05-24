@@ -170,7 +170,8 @@ http://38.210.3.64:8090/play/a0e6/index.m3u8
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://38.210.3.64:8090/play/a0bu/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a02d/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="⭐ ALTERNATIVOS 4 ⭐" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 2
