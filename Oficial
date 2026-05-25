@@ -232,8 +232,8 @@ https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZ
 
 #EXTINF:-1 tvg-id="dsports" tvg-name="dsports #1" tvg-logo="" group-title="LATINOAMERICA",dsports prueba
 http://108.175.13.7/play?token=2281fc99-52d7-4cf5-b66d-8a8ed1bb0144
-#EXTINF:-1 tvg-id="dsports2" tvg-name="dsports2 #1" tvg-logo="" group-title="LATINOAMERICA",dsports2 prueba*
-http://108.175.13.7/play?token=32bb8abe-4173-4106-b678-7502114e2419
+#EXTINF:-1 tvg-id="dsports2" tvg-name="dsports2 #1" tvg-logo="" group-title="LATINOAMERICA",dsports2 prueba
+http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
