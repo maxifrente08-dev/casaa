@@ -228,6 +228,13 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://normielista.xyz/play/WeGp9-6ip9ha82mR7aBx4EhMSjDmuNXKdT3JtsGI255t9Qg__VZaOEz30p0g-i75/m3u8
 
+
+
+#EXTINF:-1 tvg-id="dsports" tvg-name="dsports #1" tvg-logo="" group-title="LATINOAMERICA",dsports prueba
+http://108.175.13.7/play?token=2281fc99-52d7-4cf5-b66d-8a8ed1bb0144
+#EXTINF:-1 tvg-id="dsports2" tvg-name="dsports2 #1" tvg-logo="" group-title="LATINOAMERICA",dsports2 prueba
+http://108.175.13.7/play?token=b8c3cdf9-bf2b-46ac-85cc-a8c79faf1396
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
