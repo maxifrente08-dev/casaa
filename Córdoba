@@ -44,9 +44,12 @@ http://138.59.227.20:8000/play/a06k/index.m3u8
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10.ar" tvg-logo="https://i.postimg.cc/d01Cq2c4/canal-10-cordoba.png" group-title="Interés General", Canal 10 Córdoba 
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CCC", CANAL 10 CORDOBA
+#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/canal10cordoba.json
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
+http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc4eds%2FCanal10_CBA_HD%2FSA_Live_dash_enc%2FCanal10_CBA_HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36
+
 
 
 #EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="CCC", TELEFE CORDOBA
