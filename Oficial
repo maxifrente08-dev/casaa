@@ -199,12 +199,12 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="CCC", DSPORTS*
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="CCC", DSPORTS
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports.json|User-Agent=okhttp/4.12.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:live-caching=5000
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:live-caching=10000
 http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1057-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd
 
 
