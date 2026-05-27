@@ -216,16 +216,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.max_bandwidth=3000000
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
-http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1057-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Deportes",DSports opc 2
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:live-caching=8000
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
-
-
+http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1057-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1057/1057_DIRECTV_SPORTS_ARG_DASH/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="CCC", DSPORTS 2 
@@ -236,11 +227,6 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 #EXTVLCOPT:live-caching=5000
 http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1063-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1063/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="CCC", DSPORTS 2 opc 2
-#EXTVLCOPT:network-caching=8000
-#EXTVLCOPT:live-caching=8000
-http://zapster.trapemn.tv:1935/zapster/disney-channel-new.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="CCC", DSPORTS +
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports_plus.json|User-Agent=okhttp/4.12.0
@@ -249,9 +235,6 @@ http://zapster.trapemn.tv:1935/zapster/disney-channel-new.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
 http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1071-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1071/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd
-
-#EXTINF:-1 tvg-id="DSportsPlus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png", DSports+ opc 2
-https://pecdl1.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=179.37.244.25&token=e62c5932cbde3fe3ec153c8782321002d95c9289-a2-1779942710-1779888710
 
 
 
