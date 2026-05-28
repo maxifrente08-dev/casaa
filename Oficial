@@ -51,12 +51,12 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 
 
-#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefe
+#EXTINF:-1 ch-number="11" tvg-id="TELEFE.ar" tvg-logo="https://i.postimg.cc/3RL18YkS/Telefe.png" group-title="Interés General", Telefez
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.max_bandwidth=2500000
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
-http://74.208.30.121/a524/tracks-v1a1/mono.m3u8
+http://138.59.227.20:8000/play/a08a/index.m3u8
 
 
 
