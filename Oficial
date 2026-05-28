@@ -56,7 +56,7 @@ https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #KODIPROP:inputstream.adaptive.max_bandwidth=2500000
 #EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:live-caching=5000
-http://zapster.trapemn.tv:1935/Zapsterv2/TelefeHD.stream/playlist.m3u8
+http://74.208.30.121/a524/tracks-v1a1/mono.m3u8
 
 
 
