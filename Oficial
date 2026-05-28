@@ -125,8 +125,7 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
-
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN*
@@ -191,8 +190,7 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="ALTERNATIVOS 2",FOX SPORTS z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
-
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports.png?raw=true" group-title="Deportes",Fox Sport opc 2
 #EXTVLCOPT:network-caching=2000
@@ -200,12 +198,11 @@ http://138.59.227.20:8000/play/a085/index.m3u8
 
 #EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="Deportes",Fox Sports 2 z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
-
-
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 
 #EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="Deportes",Fox Sports 3 z
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
+
 
 
 
