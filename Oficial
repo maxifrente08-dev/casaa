@@ -178,21 +178,11 @@ http://205.235.6.29:8000/play/a0pz/index.m3u8
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", BOCA VS CATOLICA
 https://8c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=179.37.226.68&token=087742811a0447b7734d69357090ba0e8874cff9-10-1780060984-1780006984
 
-#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS boca
+#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
 
-#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="ALTERNATIVOS 2",FOX SPORTS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://138.59.227.20:8000/play/a085/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png", Fox Sports opc 2
-http://74.208.30.121/a184/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/7e1299b80b71c9be5e9047aee6b1e20b9a5146c7/icons/07-FoxSports.png?raw=true" group-title="Deportes",Fox Sport opc 3
-#EXTVLCOPT:network-caching=2000
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
 
 #EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="Deportes",Fox Sports 2 z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
