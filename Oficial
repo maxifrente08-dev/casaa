@@ -105,15 +105,14 @@ http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1071-aws-da-mt.vrioott.
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=5000
 https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="ALTERNATIVOS 2",ESPN 2
