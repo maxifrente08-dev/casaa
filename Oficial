@@ -355,7 +355,7 @@ http://177.10.184.193:8000/play/a058/index.m3u8
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
 #KODIPROP:inputstream.adaptive.max_bandwidth=10000000
-http://zapster.trapemn.tv:1935/CD-LATAM/Space/playlist.m3u8
+http://177.10.184.193:8000/play/a061/index.m3u8
 
 
 #EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
