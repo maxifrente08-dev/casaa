@@ -10,7 +10,8 @@ https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 
 #EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="Argentina",Argentina 12 (S)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
+http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="CRONICA TV.ar" tvg-name="CRONICA TV" CUID="9" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="ALTERNATIVOS 2",CRONICA TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
@@ -25,12 +26,14 @@ https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 #EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="ALTERNATIVOS 2",C5N
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
+http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
+
 
 #EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
+
 
 
 
@@ -48,7 +51,8 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 #EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="ALTERNATIVOS 2",AMERICATV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=4000
-https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
+http://zapster.trapemn.tv:1935/Zapster/AmericaTV.stream/playlist.m3u8
+
 
 
 #EXTINF:0,Telefe HD
@@ -107,30 +111,22 @@ http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1071-aws-da-mt.vrioott.
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN*
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=5000
-https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://i.postimg.cc/T5YBc3cB/ESPN-1-Argentina.png" group-title="Deportes", ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn.png", ESPN 1
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://www.reportetv.com.ar/logos/espn2.png" group-title="Deportes", ESPN 2 HD
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="ALTERNATIVOS 2",ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-3.png", ESPN 3
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
 
-https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
-
-#EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="ALTERNATIVOS 2",ESPN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
-
-#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="ALTERNATIVOS 2",ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
+#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-4.png", ESPN 4
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 #EXTINF:0,ESPN 5 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
