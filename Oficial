@@ -82,7 +82,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="CCC", DSPORTS
-https://pre.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=179.37.220.125&token=5979ceb84c2506fb5f120a66259ea8fae7c04590-a6-1780448632-1780394632
+http://177.53.152.117:8000/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="CCC", DSPORTS*cambiar-y-volver
 #KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/dsports.json|User-Agent=okhttp/4.12.0
