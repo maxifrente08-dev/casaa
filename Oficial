@@ -10,8 +10,7 @@ https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 
 #EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="Argentina",Argentina 12 (S)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
-
+https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 #EXTINF:0 tvg-id="CRONICA TV.ar" tvg-name="CRONICA TV" CUID="9" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="ALTERNATIVOS 2",CRONICA TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
@@ -35,9 +34,6 @@ http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 
 
-
-
-
 #EXTINF:0 tvg-id="CANAL 26.ar" tvg-name="CANAL 26" CUID="10" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="ALTERNATIVOS 2",CANAL 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
@@ -46,7 +42,8 @@ https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
 #EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="ALTERNATIVOS 2",EL NUEVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-http://138.59.227.20:8000/play/a08k/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+
 
 #EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="ALTERNATIVOS 2",AMERICATV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -75,15 +72,13 @@ http://zapster.trapemn.tv:1935/zapster/tn-new.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="ALTERNATIVOS 2",TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-http://138.59.227.20:8000/play/a095/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+
 
 #EXTINF:0 tvg-id="EL TRECE SATELITAL.ar" tvg-name="EL TRECE SATELITAL" CUID="14" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="ALTERNATIVOS 2",EL TRECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="CCC", DSPORTS*cambiar-y-volver
@@ -111,22 +106,35 @@ http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1071-aws-da-mt.vrioott.
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
+#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
+
+
+#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN*
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn.png", ESPN 1
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2" tvg-logo="https://www.reportetv.com.ar/logos/espn2.png" group-title="Deportes", ESPN 2 HD
-#EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:live-caching=5000
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
+ 
+#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="ALTERNATIVOS 2",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
+https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-3.png", ESPN 3
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="ALTERNATIVOS 2",ESPN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="ESPN4" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/espn-4.png", ESPN 4
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
+https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
+
+#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="ALTERNATIVOS 2",ESPN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 #EXTINF:0,ESPN 5 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
@@ -218,8 +226,6 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 
 #KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
@@ -230,28 +236,31 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mp
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://138.59.227.20:8000/play/a06w/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://138.59.227.20:8000/play/a08x/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
+
+#EXTINF:-1 group-title="-",Nickelodeon HD
+http://cablemaxsigloxxi.com:8000/play/a02s/index.m3u8?hls
 
 #EXTINF:0,Nick Jr
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a07s/index.m3u8
 #EXTINF:0,Nickelodeon
 #EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a08y/index.m3u8
+http://cablemaxsigloxxi.com:8000/play/a081/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://138.59.227.20:8000/play/a083/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
 
 
 
 #EXTINF:0,Pakapaka
 #EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a05t/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="Infantil",Baby TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -296,27 +305,45 @@ http://cablemaxsigloxxi.com:8000/play/a07t/index.m3u8?hls
 
 http://138.59.227.20:8000/play/a069/index.m3u8
 
-#EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a07m/index.m3u8
-#EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a07o/index.m3u8
-#EXTINF:0,HBO Family
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a07p/index.m3u8
-#EXTINF:0,HBO Mundi
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a06f/index.m3u8
-#EXTINF:0,HBO Plus
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a07n/index.m3u8
-#EXTINF:0,HBO Signature
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a06h/index.m3u8
-#EXTINF:0,HBO Xtreme
-#EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a06g/index.m3u8
+EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+
+#EXTINF:0 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="ALTERNATIVOS 2",HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
+
+#EXTINF:0 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="ALTERNATIVOS 2",HBO +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
+
+#EXTINF:0 tvg-id="HBO POP.ar" tvg-name="HBO POP" CUID="71" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345430/sj8snppqk04loiqjaaqm.png" group-title="ALTERNATIVOS 2",HBO POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
+
+#EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="ALTERNATIVOS 2",HBO XTREME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+
+#EXTINF:0 tvg-id="HBO MUNDI.ar" tvg-name="HBO MUNDI" CUID="73" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344600/z0ecxrdo1hm2paiy4vab.png" group-title="ALTERNATIVOS 2",HBO MUNDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+
+#EXTINF:0 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="ALTERNATIVOS 2",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+
+#EXTINF:0 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="ALTERNATIVOS 2",HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
 
 #EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
@@ -334,11 +361,12 @@ http://177.10.184.193:8000/play/a061/index.m3u8
 #EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-http://138.59.227.20:8000/play/a087/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
 #EXTINF:0,TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal*
 http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
 
@@ -347,7 +375,7 @@ http://cablemaxsigloxxi.com:8000/play/a06e/index.m3u8?hls
 #EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="ALTERNATIVOS 2",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-http://138.59.227.20:8000/play/a09d/index.m3u8
+https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
