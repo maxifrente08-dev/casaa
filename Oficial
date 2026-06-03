@@ -149,9 +149,6 @@ https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0jd/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-5-ar.png", ESPN 5 opc 2
-http://74.208.30.121/a167/tracks-v1a1/mono.m3u8
-
 #EXTINF:0,ESPN 6 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
