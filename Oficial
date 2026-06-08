@@ -406,6 +406,8 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Series Comedias - Casados con Hijos (ARG)(e)(720)" tvg-logo="https://media.themoviedb.org/t/p/w500_and_h282_face/b4MWFEp2lSBgIo6byrRvqRXXz8e.jpg" group-title="24/7 SERIES COMEDIAS",Casados con hijos
+http://tv.zeuspro.xyz:8080/andmolina1/aafZRV6EqV/165556
 
 #EXTINF:-1 xui-id="173218" tvg-id="" tvg-name="24/7 - Bob Esponja" tvg-logo="https://i.pinimg.com/736x/64/0d/89/640d898d3e37ac19a0061584a107c126.jpg" group-title="24/7 EXCLUSIVOS",24/7 - Bob Esponja
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AxTBKp2PEeOtxUTnlQ6rrz/ts
@@ -442,6 +444,9 @@ https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1CKW
 #EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 Dragon Ball Z 
 http://tv.zeuspro.xyz:8080/andmolina1/aafZRV6EqV/179022
 
+#EXTINF:-1 xui-id="418558" tvg-id="" tvg-name="24/7 Yu-Gi-Oh!" tvg-logo="https://toppng.com/uploads/preview/serie-llamada-yu-gi-oh-asi-que-esperemos-nos-tengan-yu-gi-oh-logo-11563182595avd29dtyrj.png" group-title="24/7 EXCLUSIVOS",24/7 Yu-Gi-Oh!
+https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1A5DjHB1G_6Cyoo7H8GYqKD/ts
+
 
 #EXTINF:-1 group-title="-",adult swim
 http://138.59.227.20:8000/play/a08d/index.m3u8
