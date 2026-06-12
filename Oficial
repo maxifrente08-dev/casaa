@@ -66,6 +66,10 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 
 https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 ch-number="11" tvg-id="Encuentro.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png" group-title="Interés General", DSports 2 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_wl/Telefe_Internacional.mpd
 
 
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN
