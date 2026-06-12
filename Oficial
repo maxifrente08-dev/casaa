@@ -98,6 +98,12 @@ https://ablklrzaaaaaaaamjp7szxdgfshgz.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀", DSPORTS
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", dspors 
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
 #EXTINF:-1 ch-number="11" tvg-id="Encuentro.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png" group-title="Interés General", DSports 2 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
