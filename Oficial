@@ -235,7 +235,7 @@ https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="INFANTILES",Nickelodeon
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-http://38.210.3.64:8090/play/a0d3/index.m3u8?hls
+http://190.7.19.197:232/play/a03e/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="INFANTILES",Nick Jr
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
