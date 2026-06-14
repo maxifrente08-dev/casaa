@@ -1,18 +1,3 @@
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="🇦🇷ARGENTINA🇦🇷",Telefe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Android 10; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m7VPzP-t3TiRboXAjemMyQ","k":"0G9QnEGOtvGy_Ct2ZEUyiw"}],"type":"temporary"}
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="🇦🇷ARGENTINA🇦🇷",Telefe Internacional
-#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9AwHrBRP5UkD1rDRS6kKlQ","k":"OvXVovguqGPAkVlYLJCSpg"}],"type":"temporary"}
-https://aca-live4-ott.izzigo.tv/6/out/u/dash/TELEFE-HD-H265/default.mpd
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
@@ -62,8 +47,6 @@ https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=4000
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="🇦🇷ARGENTINA🇦🇷", TELEFE
