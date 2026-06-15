@@ -1,10 +1,3 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="🇦🇷ARGENTINA🇦🇷",Telefe Internacional
-#EXTVLCOPT:http-user-agent=izzigo/11.6.5(4)_prd izzigo ahh (Linux;Android 10) ExoPlayerLib/2.14.2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9AwHrBRP5UkD1rDRS6kKlQ","k":"OvXVovguqGPAkVlYLJCSpg"}],"type":"temporary"}
-https://aca-live4-ott.izzigo.tv/6/out/u/dash/TELEFE-HD-H265/default.mpd
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
