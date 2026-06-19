@@ -106,6 +106,9 @@ https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
+#EXTINF:0 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", DISNEY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://st.streamtpday1.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.205.130&token=c5b8d288f82b7590f3ce111f10d27e9ae7b6581b-e7-1781947145-1781893145
 
 #EXTINF:-1 tvg-name="TyC Sports Play" tvg-logo="https://i.ibb.co/bsFcWYm/tycsportplay.png" group-title="⚽ TyC Sports Play",TyC Sports Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
