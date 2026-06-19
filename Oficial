@@ -95,9 +95,16 @@ http://zapster.trapemn.tv:1935/zapster/dsports1/playlist.m3u8
 http://209.14.108.45:8000/play/a0br
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀",DSPORTSopc4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀",DSPORTSopc4*
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+#EXTVLCOPT:file-caching=5000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=500
 https://ablklrzaaaaaaaamjp7szxdgfshgz.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
 
