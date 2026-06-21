@@ -383,11 +383,15 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
+
+#EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7",El chavo 24/7
+http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
+
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩24/7⏪" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB Esponja 24/7
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
 #EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 Los Simpson 
-https://holy-dew-10ad.jet-1968.workers.dev
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 Dragon Ball Z 
