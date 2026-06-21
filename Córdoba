@@ -42,7 +42,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 http://138.59.227.20:8000/play/a05y/index.m3u8
 #EXTINF:0,TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/zapster/tn-new.stream/playlist.m3u8
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Argentina", Canal 10 Córdoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w2054293155_b913840.m3u8
