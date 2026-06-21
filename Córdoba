@@ -65,29 +65,42 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=676bf
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀",DSPORTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀",DSPORT
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+
+
+#EXTINF:0 tvg-id="DSPORTS.ar" tvg-name="DSPORTS" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdud7OubZw9h9g_5m9GwOTjpikETjU_A0YUr6IyfbupaEi2olXLnCIIbt-FYHAFKV1Uk6CADSrhFS6msx7EHNmNxCu1bdbJKisaKItdt_bPFHnXPto6gEvEr-hoNxpdQreH2ckXrVlSOcaUtBD5P3Kur-9aP2V6R32NfOCHWvJcusD57fWjLuWPN6y3sE/s200/dsports-2022.png" group-title="Argentina TV", DSPORTS opc2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://zapster.trapemn.tv:1935/zapster/dsports1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes🏀",DSPORTSopc3*
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://ablklrzaaaaaaaamjp7szxdgfshgz.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:live-caching=5000
+#EXTVLCOPT:file-caching=5000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=500
+https://teveplay.net/api/stream/71c3ad1a68e49b31/index.m3u8
 
-#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="⚽Deportes🏀",DSPORTS opc2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
-
-#EXTINF:-1 ch-number="11" tvg-id="Encuentro.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png" group-title="Interés General", DSports 2 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db71325e4256f5f16b348b3b1b7832a:c664b811a97edc555da47c1d22482542
-https://ablklrzaaaaaaaamjkudxoh6taw35.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="⚽DEPORTES🏀", Dsports +
+#EXTINF:0 tvg-id="DSPORTS 2.ar" tvg-name="DSPORTS 2" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiktAFCC_ySIgpwL8hFBAV9X9Bcl9Sfut6gJzTtdGAArduq-IoSOMFY15zFJY6kMHer-JllZUl5yzaj9jVNsd3TmVBu_NF2VaCoa4PV01qhjJIv7MryXXjWKmRO6pb4cDrnAvQLXHZYyf6GONC3oPhFkite9-ZHyXXmKw_F1rYTz_L0KlQ-UFUU3BS1wQ/s200/DSports_2_2022.webp" group-title="⚽Deportes🏀", DSPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=da81f7165f73c884fc1dcf0bf3bd4bb5:3f8d519997196db76631dd4b427f53f6
-https://ablklrzaaaaaaaamisf6uy7d6mtud.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
+https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="⚽DEPORTES🏀", Dsports +1
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
+https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 #EXTINF:0, ESPN Premium z
 http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
