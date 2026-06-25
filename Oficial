@@ -1,13 +1,3 @@
-#EXTINF:-1 tvg-id="Paka_Paka" tvg-name="Paka Paka" tvg-logo="" group-title="Infantiles", Paka Paka
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c08a216e60d4a608e06e2dcaedd66ed:511e18bf0161c820e35fb31fb0fd7269
-#EXTMYB:alt_drm="clearkey" license_key="7c08a216e60d4a608e06e2dcaedd66ed:511e18bf0161c820e35fb31fb0fd7269"
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36","Origin":"https://nowtv.express.com.ar","Referer":"https://nowtv.express.com.ar/"}
-https://anbalancer.express.com.ar/live/c1eds/Paka_Paka/SA_DASH_cipix/Paka_Paka.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTMxMzA0NjQsInBhdGgiOiIvbGl2ZS9jMWVkcy9QYWthX1Bha2EvU0FfREFTSF9jaXBpeC9QYWthX1Bha2EubXBkIiwic2lwIjoiMTkwLjE5My4wLjEwNyIsImRldmljZV9pZCI6IjE2OTk0MzQiLCJjbGllbnRfaWQiOiI3NjIyMSIsInNlc3Npb25fZHVyYXRpb24iOiIyODgwMCJ9.25ZuakPxuxB1zNFqTXt1vmhDnTM6-cjmd_fMFgg4qh4vJ2wBPVBGC0FIU7ewiUHo1oKN2CHOg18isGlEvMx1eA&dvr_window_length=30&token=WPKtsRxaVIVVwQg9qdj51FCs81CEtcDG
-
-
-
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
