@@ -1,15 +1,3 @@
-#EXTINF:-1 group-title="CANALES",F1 EXCLUSIVO
-http://br1.urutelam.com:8073/F1%20EXCLUSIVO?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:-1 group-title="CANALES",Eventos
-http://br1.urutelam.com:8073/Eventos%20?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:-1 group-title="CANALES",Eventos 2
-http://br1.urutelam.com:8073/Eventos%202?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-#EXTINF:-1 group-title="CANALES",Espn Premium HD
-http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
-
-
-
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
@@ -26,7 +14,7 @@ https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 
 #EXTINF:-1  tvg-id="CronicaTV.ar.uy" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" tvg-group="Noticias", Cronica
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-http://zapster.trapemn.tv:1935/CD-LATAM/CronicaTVHD.stream/playlist.m3u8
+https://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="Noticias",A24
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
