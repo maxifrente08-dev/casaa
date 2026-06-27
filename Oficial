@@ -1,8 +1,3 @@
-#EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="Argentina",Argentina 12 (S)
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
-
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
@@ -63,7 +58,7 @@ http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="🇦🇷ARGENTINA🇦🇷", TELEFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/zapster/telefe.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="🇦🇷ARGENTINA🇦🇷", TELEFE opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
