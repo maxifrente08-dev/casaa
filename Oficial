@@ -196,7 +196,7 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL", Dazn f1
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://000963.videx.lol/videx/daznf1/index.m3u8?key=ade9eb51ccb2dc1872d19d497293c247475f01a22fa8f116072b374d96d2459d&expires=1782873278
+https://000963.videx.lol/videx/daznf1/index.m3u8?key=b57732af83daad73ec1a05c5233efb65dca8e1a117383e14f3da7752ec7921b8&expires=1782880858
 
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
