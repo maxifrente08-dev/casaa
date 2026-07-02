@@ -102,9 +102,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 
 
 
-#EXTINF:0 tvg-id="DSPORTS 2.ar" tvg-name="DSPORTS 2" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiktAFCC_ySIgpwL8hFBAV9X9Bcl9Sfut6gJzTtdGAArduq-IoSOMFY15zFJY6kMHer-JllZUl5yzaj9jVNsd3TmVBu_NF2VaCoa4PV01qhjJIv7MryXXjWKmRO6pb4cDrnAvQLXHZYyf6GONC3oPhFkite9-ZHyXXmKw_F1rYTz_L0KlQ-UFUU3BS1wQ/s200/DSports_2_2022.webp" group-title="⚽Deportes🏀", DSPORTS 2
+#EXTINF:0 tvg-id="DSPORTS 2.ar" tvg-name="DSPORTS 2" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiktAFCC_ySIgpwL8hFBAV9X9Bcl9Sfut6gJzTtdGAArduq-IoSOMFY15zFJY6kMHer-JllZUl5yzaj9jVNsd3TmVBu_NF2VaCoa4PV01qhjJIv7MryXXjWKmRO6pb4cDrnAvQLXHZYyf6GONC3oPhFkite9-ZHyXXmKw_F1rYTz_L0KlQ-UFUU3BS1wQ/s200/DSports_2_2022.webp" group-title="⚽Deportes🏀", DSPORTS 2*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/mnk43-52770-i8de-38gip.m3u8
+https://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/DSports_2_2022.png/revision/latest?cb=20221115002249&path-prefix=es" group-title="⚽Deportes🏀", DSPORTS 2 opc2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
