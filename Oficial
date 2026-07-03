@@ -198,6 +198,10 @@ https://khala.skylivehd.com/disney5/tracks-v1a1/mono.m3u8?ip=179.37.227.184&toke
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://000963.videx.lol/videx/daznf1/index.m3u8?key=04ce4ea42c538c97209d44b5f34fecb0cc4693e51f5aa34a0f16eab51121625c&expires=1783101531
 
+#EXTINF:-1 group-title="PACK FUTBOL", Dazn f1
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://9p441zo96v8m.78655371.net:8443/hls/2twhx.m3u8?s=wVofIw9rvhL9kTOnXXw3vA&e=1783116590
+
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
