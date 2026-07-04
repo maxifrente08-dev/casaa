@@ -192,15 +192,15 @@ http://38.210.3.64:8090/play/a0jb/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 4*
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://khala.skylivehd.com/disney5/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=ec2027a0d0d6cf53572e3d163cf082ca85a3c788-54-1783139426-1783085426
+https://khala.skylivehd.com/disney6/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=8880320e3906ec8c6a23233c80be1204ffb82279-3c-1783187433-1783133433
 
 #EXTINF:-1 group-title="PACK FUTBOL", Dazn f1
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://000963.videx.lol/videx/daznf1/index.m3u8?key=04ce4ea42c538c97209d44b5f34fecb0cc4693e51f5aa34a0f16eab51121625c&expires=1783101531
+https://9p441zo96v8m.78655371.net:8443/hls/2twhx.m3u8?s=xjQMbP_aWhkTDaqvMuprBQ&e=1783164124
 
 #EXTINF:-1 group-title="PACK FUTBOL", F1 Camaras
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://khala.skylivehd.com/disney6/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=86f98a9add028a265ab1b8a40f255488e383a661-5e-1783140353-1783086353
+https://khala.skylivehd.com/disney5/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=c8d08ebd3ce4fc3d47a29c0d1def27a5bff52d19-40-1783187743-1783133743
 
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
