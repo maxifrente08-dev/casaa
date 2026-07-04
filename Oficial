@@ -196,12 +196,7 @@ https://wp.streamtp.sbs/disney6/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=cf
 
 #EXTINF:-1 group-title="PACK FUTBOL", Dazn f1
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://tt.domain77654422122.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=8f1454cc32a48b92c7f8bab84343b8a18db5ecb7-25-1783204074-1783150074
-
-#EXTINF:-1 group-title="PACK FUTBOL", F1 Camaras
-#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://pw.streamtp.sbs/disney3/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=7f53f9b53c17efd6c37c7f25c3164f36bede974a-88-1783207865-1783153865
-
+https://ss.domain77654422122.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=85966b7df09d43b6ae52e08306fb07bb22a734c2-c9-1783227107-1783173107
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
