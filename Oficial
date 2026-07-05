@@ -192,7 +192,7 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 4
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://pw.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=5a0272b34adc198d69250b36ada1ec41e26d0669-15-1783302435-1783248435
+https://khala.skylivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=9e2e26a980c8beb59a18d3fd3da28ad1f6ae0309-80-1783303239-1783249239
 
 #EXTINF:-1 group-title="PACK FUTBOL", Dazn f1
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -200,7 +200,7 @@ https://tt.domain77654422122.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&
 
 #EXTINF:-1 group-title="PACK FUTBOL", F1 Camaras
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://wp.streamtp.sbs/disney2/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=11cca20c787a472bf7243dbb874058ece154dd62-4b-1783302334-1783248334
+https://khala.skylivehd.com/disney3/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=896a62687daf36a866d903d8358c43f1a550408b-79-1783303309-1783249309
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
