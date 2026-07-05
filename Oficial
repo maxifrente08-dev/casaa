@@ -198,9 +198,9 @@ https://khala.skylivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=179.37.227.184&toke
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://tt.domain77654422122.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=01d4b18958ec351eaff323e879e543b7130dad45-04-1783287568-1783233568
 
-#EXTINF:-1 group-title="PACK FUTBOL", F1 Camaras
+#EXTINF:-1 group-title="PACK FUTBOL", F1 Camarasz
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://khala.skylivehd.com/disney3/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=896a62687daf36a866d903d8358c43f1a550408b-79-1783303309-1783249309
+https://khala.skylivehd.com/disney3/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=d55909de36d782860e8c3b7d91d4a5c95772dcc4-12-1783303497-1783249497
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
