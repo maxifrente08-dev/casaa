@@ -198,6 +198,10 @@ https://khala.skylivehd.com/disney10/tracks-v1a1/mono.m3u8?ip=179.37.227.184&tok
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://tt.domain77654422122.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=01d4b18958ec351eaff323e879e543b7130dad45-04-1783287568-1783233568
 
+#EXTINF:-1 group-title="PACK FUTBOL", F1 Camaras
+#HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://wp.streamtp.sbs/disney2/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=11cca20c787a472bf7243dbb874058ece154dd62-4b-1783302334-1783248334
+
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes🏀",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
