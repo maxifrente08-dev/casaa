@@ -192,7 +192,7 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 4
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://wp.streamtp.sbs/disney6/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=cf3cde599dd1d24dc756859d14eda56dcb99ff68-60-1783226699-1783172699
+https://khala.skylivehd.com/disney10/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=09441d9fa2dccc7244f2a55a22e5e2f11e545063-7b-1783275346-1783221346
 
 #EXTINF:-1 group-title="PACK FUTBOL", Dazn f1
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
