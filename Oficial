@@ -7,7 +7,7 @@ https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 
-#EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="Argentina",Argentina 12
+#EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="argentina",Argentina 12
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
 
@@ -120,14 +120,12 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 
-#EXTINF:0
-group-title="⚽Deportes",TyC Sports Play*
+#EXTINF:0 group-title="⚽Deportes",TyC Sports Play*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
-#EXTINF:0
-group-title="⚽Deportes", TYC SPORTS opc2
+#EXTINF:0 group-title="⚽Deportes", TYC SPORTS opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8
 
@@ -156,22 +154,19 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
-#EXTINF:0
-group-title="⚽Deportes", ESPN 5 HD
+#EXTINF:-1 group-title="⚽Deportes", ESPN 5 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0jd/index.m3u8
 
-#EXTINF:0
-group-title="⚽Deportes",ESPN 6 HD
+#EXTINF:-1 group-title="⚽Deportes",ESPN 6 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
 http://38.210.3.64:8090/play/a0dj/index.m3u8
 
-#EXTINF:0
-group-title="⚽Deportes",ESPN 7 HD
+#EXTINF:-1 group-title="⚽Deportes",ESPN 7 HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
@@ -187,7 +182,7 @@ http://38.210.3.64:8090/play/a0bu/index.m3u8
 #EXTVLCOPT:network-caching=5000
 http://191.97.14.162:8000/play/a016/index.m3u8
 
-#EXTINF:0 tvg-id="ESPN 3.co" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 3
+#EXTINF:-1 tvg-id="ESPN 3.co" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.18
 #EXTVLCOPT:network-caching=6500
 #EXTVLCOPT:http-reconnect=true
