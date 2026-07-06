@@ -194,9 +194,9 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://pw.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=dd283b9d8e3244088d37350a922bc728c982ce90-7c-1783306004-1783252004
 
-#EXTINF:-1 group-title="Disney", Dazn f1x
+#EXTINF:-1 group-title="Disney", Dazn f1
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://mm.domain77654422122.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.227.184&token=206c54450bfb4dbf2b561a603ad8c5144495dd21-8b-1783306086-1783252086
+http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
 
 #EXTINF:-1 group-title="Disney", F1 Camarasz
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
