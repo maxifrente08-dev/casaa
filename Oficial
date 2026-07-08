@@ -196,8 +196,9 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 https://khala.skylivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=179.37.199.143&token=14f3c6e3c7deb0cf2a94ddfbb101591fe9ec7d9d-86-1783372824-1783318824
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
-http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/31834/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1*
+http://latinplaytv.xyz:8080/live/Oscar2208chieu/GX9vqaWbZ7/155616.ts
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opc 2
 http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6071/index.m3u8
