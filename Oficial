@@ -193,7 +193,7 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 2🏎️
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://khala.skylivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=179.37.199.143&token=14f3c6e3c7deb0cf2a94ddfbb101591fe9ec7d9d-86-1783372824-1783318824
+https://wp.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=179.37.203.145&token=657e2c4f691e3cf42e2cb7bd9af6be28505b0c3f-f8-1783570935-1783516935
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1*
