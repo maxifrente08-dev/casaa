@@ -173,21 +173,13 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=5c86e237317c2231ac1bc130e995fad6:dcacf7b239ee03df3c69ca11dbcde4eb
-
-#EXTINF:-1 ch-number="11" tvg-id="Flow Sports.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/53028730071359.png" group-title="Deportes", Flow Sports
-
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_C/Eventos1HD.mpd
-
 #EXTINF:0,CINE.AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
 #EXTINF:0,CineCanal
 #EXTVLCOPT:network-caching=1000
-http://cablemaxsigloxxi.com:8000/play/a0t0/index.m3u8?hls
-#EXTINF:-1 tvg-id="Canal59" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Televisa_logo.svg/512px-Televisa_logo.svg.png" group-title="TV",Cinecanal
+http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
+
 #EXTINF:0, FX 
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a0d2/index.m3u8
