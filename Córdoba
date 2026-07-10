@@ -278,14 +278,17 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTINF:0, Novelas y Series" - Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/52eb-m1lik-hb373-d4bn1.m3u8
+
 #EXTINF:-1 tvg-id="Regionales" tvg-name="Univision" group-title="TV",Univisión
 https://regionales.saohgdasregions.fun:9092/MjAwLjEwNS4xMDUuMjQy/9_.m3u8?token=CvlHvUY9zoQsPQ_6-zJZPw&expires=1780295592
+
 #EXTINF:-1 tvg-id="WKAQDT1" tvg-name="Telemundo Puerto Rico" group-title="Puerto Rico",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
 #EXTINF:-1 tvg-id="Canal01" tvg-name="Canal de las Estrellas" group-title="TV", Canal de las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="Canal12" tvg-name="Tln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Televisa_logo.svg/512px-Televisa_logo.svg.png" group-title="TV",Tln
-https://regionales.saohgdasregions.fun:9092/MjAwLjEwNS4xMDUuMjQy/12_.m3u8?token=1K-_94HgEnH9M67h5Lp1IQ&expires=1780293727
+http://138.59.227.20:8000/play/a07y/index.m3u8
+
 #EXTINF:0, Novelas y Series" - Novelisima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/jlg10-a783n-d578n-mo8ch.m3u8
