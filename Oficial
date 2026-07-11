@@ -89,9 +89,7 @@ https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d95265
 
 #EXTINF:0 tvg-id="DSPORTS.ar" tvg-name="DSPORTS" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdud7OubZw9h9g_5m9GwOTjpikETjU_A0YUr6IyfbupaEi2olXLnCIIbt-FYHAFKV1Uk6CADSrhFS6msx7EHNmNxCu1bdbJKisaKItdt_bPFHnXPto6gEvEr-hoNxpdQreH2ckXrVlSOcaUtBD5P3Kur-9aP2V6R32NfOCHWvJcusD57fWjLuWPN6y3sE/s200/dsports-2022.png" group-title="⚽Deportes", DSPORTS opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/zapster/dsports1/playlist.m3u8
-
-
+https://zapster.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
