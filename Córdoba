@@ -44,8 +44,8 @@ http://138.59.227.20:8000/play/a05y/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="Argentina", Canal 10 Córdoba
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w2054293155_b913840.m3u8
+#EXTINF:-1 tvg-id="canal10.cordoba" tvg-name="Canal 10 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Can10_c%C3%B3rdoba.png" group-title="Argentina",Canal 10 Córdoba*
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783830690/ei/QsRSavrZDqf41sQP5dGzyA4/ip/200.105.105.242/id/uIWXHIQxPQk.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEXH5Z4dIcpyc8QQ37CnMuuPvy0F410-ApRU5nvfTxdCnyWY9gVLt-jvE7COefcy7NnMCrNkZ3NS/spc/SQ-umpKS2utM2h2kGL9kT4hkPIUnoTLxCWxA_3WWA7h8Oe_e5A/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALgL1lF2Q1Isq2ECKTxmxtx9TmxFVr0rL5_kCYYgoyaiAiEAsR7VYf3EKvkZX7o2DSeMqxHxS6ULsjyK2ELzpfCVOHg%3D/file/index.m3u8
 
 #EXTINF:0 tvg-id="TELEFE SANTA FE.ar" tvg-name="TELEFE SANTA FE" CUID="13" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345039/k7wex8tz5j0sazltjb1n.png" group-title="ALTERNATIVOS 2",TELEFE buenos aires
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
