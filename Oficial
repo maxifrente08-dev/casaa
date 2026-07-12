@@ -10,6 +10,9 @@ https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/
 #EXTVLCOPT:network-caching=3000	https://cdndirector.dailymotion.com/cdn/live/video/xaafjc0.m3u8?sec=V_wPRXZZYeJSfUns8P0wr-tobjtYOlTGFxVXPdDE-B2pYnUKfCe5Fe8m1yJe6bE_HZFp8mVzlQRgZjX6IZZZEy8mABeAh1EjXpW7uAdByBNxwEd76vg1EG8F_ppZA-lS&dmTs=863598&dmV1st=eaf5ffb9-d9ff-44ce-a6d9-1aec40a5f07f
 
 
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-name="Telefe Córdoba" tvg-logo="https://cordoba.mitelefe.com/media/cache/post/8x9/logo-cordoba-360x31-691cca3a27af9.png" group-title="Nacionales",Telefe Córdoba
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://geo.dailymotion.com/","Origin":"https://geo.dailymotion.com"}
+https://telerium.tv/dm/xaafjc0.m3u8
 
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
