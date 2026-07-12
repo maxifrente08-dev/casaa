@@ -26,9 +26,9 @@ https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_
 
 https://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 
-#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N
+#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://138.59.227.20:8000/play/a05v/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783838371/ei/Q-JSasn_DPKHobIP5PugiAc/ip/2802:8010:64b4:b900:f0be:8d21:c621:bb82/id/xWG-47NFsTg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-uxax4vopj55gb-x1xz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEV3fyAg3oWC_S9ihdOmkRfqfjw4oiHeLkYfeE69pqBxgxjGLrNDo6sWbyiXMtRP5CwzoF09MCN9/spc/SQ-umhD2fPMHxWxj_53sW-rA2_GHf4ots5i44KZSAn17p0kwyg/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2126250/met/1783816773,/mh/BS/mm/44/mn/sn-uxax4vopj55gb-x1xz/ms/lva/mv/m/mvi/4/pl/41/rmhost/rr3---sn-uxax4vopj55gb-x1xz.googlevideo.com/rms/lva,lva/smhost/rr9---sn-uxax4vopj55gb-x1xl.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565115,52017147/mt/1783816351/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgJ_OSd8wbMd7ffbQicz2SvjMF46L0_NGJvMWtZ64Nj00CIFovJjoYylzH69kHUUOlkZnVi4c8uGmVEfIBIVDmJ8sP/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIhANu3uu6ckJXMcpihbWy0AWAHbT2D_8-Ar7bE-XGQmk6XAiBt-t16dALTkcYYyOTRf4LuDzliLrk8K4W9PGmU1NUWRA%3D%3D/playlist/index.m3u8
 
 
 
