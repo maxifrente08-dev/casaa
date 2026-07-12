@@ -1,3 +1,9 @@
+#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://youtube-stream-link.vercel.app/live/xWG-47NFsTg.m3u8
+
+
+
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://telefeb.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/7cb03829-36c0-4363-b053-2de6745541a8:SCL2/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8
