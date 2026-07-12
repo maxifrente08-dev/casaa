@@ -70,7 +70,7 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 #EXTINF:0 tvg-id="EL TRECE SATELITAL.ar" tvg-name="EL TRECE SATELITAL" CUID="14" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="argentina",EL TRECE*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+http://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
 
 #EXTINF:0,el 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
