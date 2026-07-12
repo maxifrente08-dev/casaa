@@ -33,7 +33,7 @@ https://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_5
 
 #EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783860302/ei/7jdTaqCICaCb-LAPlJPHoQU/ip/179.37.214.140/id/xWG-47NFsTg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/AZFlqhP6eyWFZ0tqi9Y-xG7JozqqM7TpxFUc51e-pY78eVgRYZFq19cmD4oIYBqbfq-ZTKRkbs1-asxI/spc/SQ-umm-FYzzLhHAJmxUqcBEzM1_pKc7iVjl-P6731ZOHaDSIyQ/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAJZCVyhcOiiSOpiN6Fc4ZwkZ7tzffNG8J_pYPPYjJHGbAiBs06l_VdlKoWLOsn8puMrwcyYrogtDGVAFIUli01FQhg%3D%3D/file/index.m3u8
+http://138.59.227.20:8000/play/a05v/index.m3u8
 
 #EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
