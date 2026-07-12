@@ -3,6 +3,14 @@
 https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/fa5217ed-3747-4791-99ec-c0b161fb4734:SCL2/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8?aid=69dfb44d09ecc98dc876969f&uid=Zc0FG0NfktQ2Q4fZb8mqaggDvw1OXMjo&sid=ST92X4kjSFLptNknDvoVPhhY6HMzUpXM&pid=3saPokxTCLf7Fn8QEyidCDUEDx9OhDdn&pid_dvr=Kc5Wgx6KWHTdMbWdjFZyIwIQW5o86MpH&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=Eg0kaJnZcqMvPXxzrjTw6oXTVXc0yKTvizMjgoHmBTBDckpZSDDgU0QVZiVnMutlGWRnmZOafJE&adInsertionGoogleStreamId=fa5217ed-3747-4791-99ec-c0b161fb4734%3ASCL2&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223saPokxTCLf7Fn8QEyidCDUEDx9OhDdn%22%2Csu&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1783928568407&ot=uWNU5qqqFAlE7iECiF1qeg&proto=https&pz=us
 
 
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/El_Trece_Logo.svg" group-title="Nacionales",El Trece1
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://geo.dailymotion.com","Origin":"https://geo.dailymotion.com"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
+#EXTVLCOPT:network-caching=3000	https://cdndirector.dailymotion.com/cdn/live/video/xaafjc0.m3u8?sec=V_wPRXZZYeJSfUns8P0wr-tobjtYOlTGFxVXPdDE-B2pYnUKfCe5Fe8m1yJe6bE_HZFp8mVzlQRgZjX6IZZZEy8mABeAh1EjXpW7uAdByBNxwEd76vg1EG8F_ppZA-lS&dmTs=863598&dmV1st=eaf5ffb9-d9ff-44ce-a6d9-1aec40a5f07f
+
+
+
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
