@@ -195,7 +195,7 @@ http://38.226.210.46:8000/play/a05q/index.m3u8
 
 
 #EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 2
-https://dai.google.com/linear/hls/pa/event/vMJA71PVRkq6xVextOamcQ/stream/414463b3-0fe4-47df-af30-6a8fc2e12319:SCL2/variant/f2b81e9945a9e1e4b32317014da4dc47/bandwidth/5091638.m3u8
+https://dai.google.com/linear/hls/pa/event/vMJA71PVRkq6xVextOamcQ/stream/a62f5849-204f-4419-bf79-0e989dc89966:SCL2/variant/049888c0ddacfb11fc9a01e970e12c6c/bandwidth/3441673.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1*
