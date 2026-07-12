@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Am%C3%A9rica_Televisi%C3%B3n_logo_%282021%29.svg" group-title="Nacionales",América TV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://vav.edge-apps.net/","Origin":"https://vav.edge-apps.net"}
+https://vav.edge-apps.net/livenv/ame_live/playlist.m3u8
+
+
+
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
