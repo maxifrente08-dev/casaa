@@ -192,12 +192,12 @@ http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
 https://dai.google.com/linear/hls/pa/event/vMJA71PVRkq6xVextOamcQ/stream/a62f5849-204f-4419-bf79-0e989dc89966:SCL2/variant/049888c0ddacfb11fc9a01e970e12c6c/bandwidth/3441673.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1*
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
 http://latinplaytv.xyz:8080/live/Oscar2208chieu/GX9vqaWbZ7/155616.ts
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opc 2
-http://xtef2r1k.russtv.net/iptv/N9HD5PAR5NG9FK/6071/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opc2
+https://tvorb.net/ZTV/6918-live.m3u8
 
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes",FOX SPORTS
