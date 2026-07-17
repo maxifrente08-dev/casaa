@@ -189,7 +189,7 @@ http://186.33.40.97:8789/play/22
 
 
 #EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney 2
-https://dai.google.com/linear/hls/pa/event/vMJA71PVRkq6xVextOamcQ/stream/a62f5849-204f-4419-bf79-0e989dc89966:SCL2/variant/049888c0ddacfb11fc9a01e970e12c6c/bandwidth/3441673.m3u8
+https://pw.streamtp.sbs/disney1/index.m3u8?token=524e8384d43f9810ae982ec698704db76d035963-e3-1784304436-1784250436&ip=179.37.196.66
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
