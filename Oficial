@@ -441,10 +441,11 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
 https://jmp2.uk/stvp-USBD3300004RH
 
-#EXTINF:-1 tvg-id="VEVO POP ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Vevo_2016_logo.png" group-title="MÚSICALES🎶", VEVO POP ESPAÑOL
+#EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="MÚSICALES🎶", MUSIC TOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://d3e0llp20n59j5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fs5u02h1uaofy/playlist.m3u8
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="CCC", UN POCO DE RUIDO
