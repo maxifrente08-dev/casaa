@@ -220,18 +220,15 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
 
-
-#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="⚽Deportes",ESPN PREMIUM 3
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="⚽Deportes",ESPN PREMIUM opc2
 #EXTVLCOPT:http-user-agent=Pack_Flow_AndroidTV/1.0
 #EXTVLCOPT:http-referer=https://web.flow.com.ar/
 #EXTVLCOPT:network-caching=2000
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="DEPORTES", ESPN PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/espn_premium.json
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc7eds%2FFox_Sports_Premiun_HD%2FSA_Live_dash_enc%2FFox_Sports_Premiun_HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
-
+#EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="DEPORTES", ESPN PREMIUM opc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="⚽Deportes", TNT Sports z*
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -240,22 +237,14 @@ http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%
 http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="⚽Deportes",TNT SPORTS PREMIUM z
+#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="⚽Deportes",TNT SPORTS opc2
 #EXTVLCOPT:http-user-agent=CLARO_VIDEO/1.0 (Linux; Android 10; Smart TV)
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-buffer-size=10485760
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="DEPORTES", TNT SPORTS opc3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/tnt_sports.json
-http://186.148.224.170:81/renovar.php?uri=http%3A%2F%2Fchromecast.cvattv.com.ar%2Flive%2Fc6eds%2FTNT_Sports_HD%2FSA_Live_dash_enc%2FTNT_Sports_HD.mpd&check=http%3A%2F%2Ftk.maxvps.top%2FAutoTK%2FArchivo_TTL_1197112026_KTV.json&ua=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+SM-G973F%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Mobile+Safari%2F537.36|Origin=https://portal.app.flow.com.ar&User-Agent=Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)&x-flow-origin="Android"
-
-
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
