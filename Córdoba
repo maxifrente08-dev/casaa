@@ -59,8 +59,6 @@ http://138.59.227.20:8000/play/a06k/index.m3u8
 #EXTINF:0, Bravo TV | AR
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="canal10.cordoba" tvg-name="Canal 10 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Can10_c%C3%B3rdoba.png" group-title="Argentina",el doce
-	https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783858559/ei/HzFTaqusHPmtobIP0YfWoAo/ip/2802%3A8010%3A64b4%3Ab900%3Af0be%3A8d21%3Ac621%3Abb82/id/nndzeKDSjuc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/ARmQxEX83eDRDrraVdH3BaV1EF8QgoatxGmXfM4X5q3M_GW4-Wiv-VR1LMXQFrgrfGGtX1v4EmpKengM/spc/SQ-umrvRAFUnPppKRMSWMKdsRfJ_rFdIQm_sHGWM7c3i9d1Y9g/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhAMpqQhHBWghadiTLs99p4HSdFwX9lhVyxLmL2lPkjWC3AiAwkE2dvnadS-BR75hjryp5PJDInAZL2Bsn7vJ2bQ2iMA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="Terra Mia TV" group-title="Música Internacional",Terra Mia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=676bf06b14af8a55efbf676b4990cc0d
