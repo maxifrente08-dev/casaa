@@ -152,30 +152,40 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
-#EXTINF:-1 group-title="-",ESPN 5
-http://200.59.191.177:8000/play/a0p1/index.m3u8?
 
-#EXTINF:-1 group-title="-",ESPN 6
-http://200.59.191.177:8000/play/a0oi/index.m3u8?
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://38.224.231.47:8000/play/a032/index.m3u8?hls
 
-#EXTINF:-1 group-title="-",ESPN 7
-http://200.59.191.177:8000/play/a0p2/index.m3u8?
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://38.224.231.47:8000/play/a02w/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ESPN 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://38.224.231.47:8000/play/a049/index.m3u8?hls
+
 
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", ESPN EXTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://200.59.191.177:8000/play/a0o2/index.m3u8?
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://38.224.231.47:8000/play/a03s/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", ESPN EXTRA 2
 #EXTVLCOPT:network-caching=5000
 http://191.97.14.162:8000/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3.co" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:network-caching=6500
-#EXTVLCOPT:http-reconnect=true
-http://186.33.40.97:8789/play/22 
+#EXTINF:-1 tvg-id="ESPN PREMIUM" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png", ESPN PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://38.224.231.47:8000/play/a03w/index.m3u8?hls
+
 
 
 #EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney F1
