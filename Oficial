@@ -152,28 +152,19 @@ https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
-#EXTINF:-1 group-title="⚽Deportes", ESPN 5 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:network-caching=6500
-#EXTVLCOPT:http-reconnect=true
-http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5
+http://200.59.191.177:8000/play/a0p1/index.m3u8?
 
-#EXTINF:-1 group-title="⚽Deportes",ESPN 6 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:network-caching=6500
-#EXTVLCOPT:http-reconnect=true
-http://38.210.3.64:8090/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6
+http://200.59.191.177:8000/play/a0oi/index.m3u8?
 
-#EXTINF:-1 group-title="⚽Deportes",ESPN 7 HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.18
-#EXTVLCOPT:network-caching=6500
-#EXTVLCOPT:http-reconnect=true
-http://38.210.3.64:8090/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7
+http://200.59.191.177:8000/play/a0p2/index.m3u8?
 
 
 #EXTINF:0 tvg-id="ESPN.cl" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", ESPN EXTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://38.210.3.64:8090/play/a0bu/index.m3u8
+http://200.59.191.177:8000/play/a0o2/index.m3u8?
 
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", ESPN EXTRA 2
