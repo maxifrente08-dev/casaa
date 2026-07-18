@@ -170,9 +170,13 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/variant.
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="⚽Deportes",ESPN*
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN*
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8113ca483fed6872a8db8c1e32b48cb2:895fe3b51a531a69afcef8eb1417aed5
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_arg)/variant.mpd
+
 
 
 
