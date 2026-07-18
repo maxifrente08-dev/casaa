@@ -1,10 +1,10 @@
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
+http://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" tvg-id="CNN en Español.ar" group-title="Noticias",CNN en Español
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
+http://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
 
 #EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="argentina",Argentina 12
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
@@ -12,13 +12,13 @@ http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playli
 
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="argentina",A24
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 
-https://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+http://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
 
 #EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="argentina",C5N
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -26,25 +26,25 @@ http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+http://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
 
 #EXTINF:0 tvg-id="CANAL 26.ar" tvg-name="CANAL 26" CUID="10" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="argentina",CANAL 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
+http://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
 
 
 
 #EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="argentina",EL NUEVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+http://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
 
 
 #EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="argentina",AMERICATV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=4000
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:0,canal 5 rosario
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -55,7 +55,7 @@ http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=675cb5adcd788bdee4af50518b041626:b28bf4d4eec81cb96e6ca9a0c022dcd5
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(telefe_arg)/manifest.mpd
+http://dish-arg.akamaized.net/Content/DASH/Live/channel(telefe_arg)/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE opc2
@@ -66,11 +66,11 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="argentina",TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="argentina",TV PUBLICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/El_Trece_Logo.svg" group-title="Nacionales",El Trece
@@ -89,19 +89,19 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5e4bb046f274791c52cd4b73956b82e:ae51f5539228fcdf04fa13f4bdd8b7b3
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
+http://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORT opc2
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
-https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+http://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORTS opc3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","45bbd582f220f438f896450d8306a3f2":"582c6ba7f64bbc0f2d91c6b0c265760c"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 
 #EXTINF:0 tvg-id="DSPORTS 2.ar" tvg-name="DSPORTS 2" CUID="16" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiktAFCC_ySIgpwL8hFBAV9X9Bcl9Sfut6gJzTtdGAArduq-IoSOMFY15zFJY6kMHer-JllZUl5yzaj9jVNsd3TmVBu_NF2VaCoa4PV01qhjJIv7MryXXjWKmRO6pb4cDrnAvQLXHZYyf6GONC3oPhFkite9-ZHyXXmKw_F1rYTz_L0KlQ-UFUU3BS1wQ/s200/DSports_2_2022.webp" group-title="⚽Deportes", DSPORTS 2
@@ -113,7 +113,7 @@ http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
-https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
+http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 #EXTINF:0 group-title="⚽Deportes", TYC SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -124,12 +124,12 @@ http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=197ca823ac5f4e48573f9f87113c7d7a:c30eefbf2e79a97b0340e0877f4cdbf5
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/variant.mpd
+http://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/variant.mpd
 
 #EXTINF:0 group-title="⚽Deportes",TyC Sports Play*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+http://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
 
 
@@ -143,7 +143,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8113ca483fed6872a8db8c1e32b48cb2:895fe3b51a531a69afcef8eb1417aed5
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_arg)/variant.mpd
+http://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_arg)/variant.mpd
 
 
 
@@ -152,17 +152,17 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_arg)/variant.mpd
 #EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="⚽Deportes",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
+http://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
 
 #EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="⚽Deportes",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
+http://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
 #EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="⚽Deportes",ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
+http://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 5
@@ -211,7 +211,7 @@ http://latinplaytv.xyz:8080/live/Oscar2208chieu/GX9vqaWbZ7/155616.ts
 
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="⚽Deportes",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
+http://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
 
 
 #EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="⚽Deportes",Fox Sports 2 z
@@ -234,11 +234,11 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c29b4e05389dc0493aa29d0debbe5a76:bbccac68c01477eed726fb1c11d54560
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
+http://dish-arg.akamaized.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
 
 #EXTINF:-1 tvg-id="EspnPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="DEPORTES", ESPN PREMIUM opc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+http://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 #EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" group-title="⚽Deportes", TNT Sports z*
 #HTTP-USER-AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -252,20 +252,20 @@ http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7d41f94c41a5943cd836a52a59b7ebc:de0cb81e4146240f61281db5bf0d0ade
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/variant.mpd
+http://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/variant.mpd
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="DEPORTES", TNT SPORTS opc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
+http://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+http://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
+http://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="INFANTILES",Nickelodeon
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -277,15 +277,15 @@ http://38.210.3.64:8090/play/a0nx/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
+http://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
 
 #EXTINF:0,Pakapaka*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
+http://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="Infantil",Baby TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
+http://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
 
 
 #EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST (S)
@@ -293,7 +293,7 @@ http://190.7.19.197:232/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="Infantil",Canal Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+http://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 
 
 #EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E
@@ -301,7 +301,7 @@ http://190.7.19.197:232/play/a00c/index.m3u8
 
 #EXTINF:0 tvg-id="AMC HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
+http://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
 
 
 #EXTINF:-1 tvg-id="CineCanal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/05-Cinecanal.png?raw=true" group-title="Cine",CineCanal
@@ -325,42 +325,42 @@ http://138.59.227.20:8000/play/a069/index.m3u8
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+http://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
 
 #EXTINF:0 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="ALTERNATIVOS 2",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
+http://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
 
 #EXTINF:0 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="ALTERNATIVOS 2",HBO +
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
+http://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
 
 #EXTINF:0 tvg-id="HBO POP.ar" tvg-name="HBO POP" CUID="71" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345430/sj8snppqk04loiqjaaqm.png" group-title="ALTERNATIVOS 2",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
+http://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
 
 #EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="ALTERNATIVOS 2",HBO XTREME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+http://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
 
 #EXTINF:0 tvg-id="HBO MUNDI.ar" tvg-name="HBO MUNDI" CUID="73" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344600/z0ecxrdo1hm2paiy4vab.png" group-title="ALTERNATIVOS 2",HBO MUNDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+http://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
 
 #EXTINF:0 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="ALTERNATIVOS 2",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+http://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 
 #EXTINF:0 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="ALTERNATIVOS 2",HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
+http://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
 
 #EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
@@ -377,19 +377,19 @@ http://177.10.184.193:8000/play/a061/index.m3u8
 #EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+http://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
 
 #EXTINF:0,TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+http://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
 
 #EXTINF:0,Film & Arts 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+http://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 
 #EXTINF:0,Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+http://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal*
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
@@ -398,7 +398,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 #EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="ALTERNATIVOS 2",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+http://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
@@ -421,14 +421,14 @@ http://177.10.184.193:8000/play/a09v/index.m3u8
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩24/7⏪" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB Esponja 24/7
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+http://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
 #EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 Los Simpson 
 http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 
 
 #EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 Dragon Ball Z 
-https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+http://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 
 
@@ -437,20 +437,20 @@ http://138.59.227.20:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7f379c24-0e41-4956-892e-8aad976555b8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+http://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=7f379c24-0e41-4956-892e-8aad976555b8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="NOW90s00s.uk@Default" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 90s-00s
 
-https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=75c457fa-036d-4637-bc61-48af6d50542d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=75c457fa-036d-4637-bc61-48af6d50542d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="MÚSICALES🎶", MTV Rocks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+http://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
 #EXTINF:-1 tvg-id="XITEHits.us@Default" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20250421T234930SQUARE.png" group-title="⏩MUSICALES|XITE⏪", XITE Hits
 
-https://jmp2.uk/stvp-USBD3300004RH
+http://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="MÚSICALES🎶", MUSIC TOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -490,9 +490,3 @@ http://177.10.184.193:8000/play/a040/index.m3u8
 
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo 
 http://138.59.227.20:8000/play/a09f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/GH.png" group-title="CCC", GH 24/7
-#KODIPROP:inputstream.adaptive.license_key=http://cdn.v2ray.com.ar/licencia/t/gran_hermano_cam1.json|User-Agent=okhttp/4.12.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
-http://186.148.224.170:81/manifest_dgo.php?uri=https%3A//1283-aws-da-mt.vrioott.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1283/1283_GRAN_HERMANO_CAMARA_1_DASH/manifest.mpd
