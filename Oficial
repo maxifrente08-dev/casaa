@@ -121,20 +121,18 @@ http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TyC_Sports_logo_%282020%29.svg" group-title="Deportes",TyC Sports opc3
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TyC_Sports_logo_%282020%29.svg" group-title="Deportes",TyC Sports opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=197ca823ac5f4e48573f9f87113c7d7a:c30eefbf2e79a97b0340e0877f4cdbf5
 #EXTVLCOPT:network-caching=4000
-http://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/variant.mpd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(tycsports_arg)/variant.mpd
 
 #EXTINF:0 group-title="⚽Deportes",TyC Sports Play*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 http://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
-
-
 
 
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="⚽Deportes", ESPN
