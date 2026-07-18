@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/C5N_logo_2024.svg" group-title="Nacionales",C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://nowtv.express.com.ar/&Origin=https://nowtv.express.com.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d76e3c33df4a6482ee421a14cb3a3f:50f26f4ae88d11a2c6390484b14feaac
+https://anbalancer.express.com.ar/live/c1eds/C5N/SA_DASH_cipix/C5N.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc
+
+
+
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
