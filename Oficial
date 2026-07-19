@@ -321,55 +321,6 @@ http://200.59.191.177:8000/play/a0pn/index.m3u8?
 http://138.59.227.20:8000/play/a069/index.m3u8
 
 
-
-
-casaa
-Repository navigation
-Code
-Issues
-Pull requests
-Actions
-Confirmar f853ebb
-maxifrente08-dev
-maxifrente08-dev
-autor
-Hace 40 minutos
-Verified
-Oficial
-main
-1 padre
-7617597
-comprometerse
-f853ebb
-Se modificó 1 archivo .
-
-+ 17
-- 61
-Líneas modificadas: 17 adiciones y 61 eliminaciones
-Buscar dentro del código
- 
-‎Oficial‎
-Número de línea del archivo original	Número de línea diferente	Cambio de línea diferencial
-@@ -1,25 +1,3 @@
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Cine y Series",HBO
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/HBO2_logo.svg" group-title="Cine y Series",HBO 2
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbo2_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/HBO_Plus_logo.svg" group-title="Cine y Series",HBO Plus
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hboplus_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/HBO_Family_logo.svg" group-title="Cine y Series",HBO Family
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbofam_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOMundi.ar" tvg-name="HBO Mundi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/HBO_Mundi_logo.svg" group-title="Cine y Series",HBO Mundi
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbomund_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/HBO_Signature_logo.svg" group-title="Cine y Series",HBO Signature
-https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/hbosig_hls/playlist.m3u8
-#EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
-@@ -342,45 +320,23 @@ http://200.59.191.177:8000/play/a0pn/index.m3u8?
-
-http://138.59.227.20:8000/play/a069/index.m3u8
-
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
@@ -401,7 +352,6 @@ https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 #EXTINF:0 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="ALTERNATIVOS 2",HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
-
 
 
 #EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
