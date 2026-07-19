@@ -181,11 +181,11 @@ http://186.33.40.97:8789/play/22
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
-http://latinplaytv.xyz:8080/live/Oscar2208chieu/GX9vqaWbZ7/155616.ts
-
+http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opc2
-https://tvorb.net/ZTV/6918-live.m3u8
+#EXTVLCOPT:network-caching=4000
+http://latinplaytv.xyz:8080/live/Oscar2208chieu/GX9vqaWbZ7/155616.ts
 
 #EXTINF:0,FOX SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
