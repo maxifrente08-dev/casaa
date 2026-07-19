@@ -195,10 +195,10 @@ http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney F1
-http://pw.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=179.37.196.66&token=05cf24a410ee724bbf9598200da0cac1508dee11-59-1784483285-1784429285
+http://pw.streamtp.sbs/disney1/tracks-v1a1/mono.m3u8?ip=179.37.196.66&token=c147a1e0e02354453fbab1c4a3786c51e354236a-9c-1784486076-1784432076
 
 #EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Race Hub
-http://pw.streamtp.sbs/disney6/tracks-v1a1/mono.m3u8?ip=179.37.196.66&token=8094841e66db0c8bcd474d32ad4861f5c6743799-e5-1784483375-1784429375
+http://pw.streamtp.sbs/disney6/tracks-v1a1/mono.m3u8?ip=179.37.196.66&token=4fd4f598f5fec905754bab1291b3a33de693abe3-61-1784486111-1784432111
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
