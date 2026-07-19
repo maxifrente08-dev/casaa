@@ -1,3 +1,20 @@
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="Fox Sports Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Sports_Premium_logo_%28Argentina%29.svg" group-title="Deportes",Fox Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f550e21bc1518f6a9e63a3fab3edc7a:821bbb8c41da972ab4e753e5029ffbdc
+https://dish.akamaized.net/Content/DASH/Live/channel(foxsportsprhd)/variant.mpd
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_logo_2022.svg" group-title="Deportes",Fox Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce5f0570b7f89e2efe19c7bf3c77dae7:d17fdbc7f72e68adf298b71d935864ba
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
+
+
+
+
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
