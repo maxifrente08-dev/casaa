@@ -1,3 +1,30 @@
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TyC_Sports_logo_2017.svg" group-title="Deportes",TyC Sports (Opción 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db41d57853874a1b9865cdf8f62e741c:c03ed92e0c15a7d807d71235143437f5
+https://megatvcdn1-sl.megacable.com.ar/content/live/TyC_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TyC_Sports_logo_2017.svg" group-title="Deportes",TyC Sports (Opción 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae2f06dc3fb4c22955d2b802443c440:c03ed92e0c15a7d807d71235143437f5
+https://megatvcdn1-sl.megacable.com.ar/content/live/TyC_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TyC_Sports_logo_2017.svg" group-title="Deportes",TyC Sports (Opción 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b315a7b84499da15fe50d25d3161c:c03ed92e0c15a7d807d71235143437f5
+https://megatvcdn1-sl.megacable.com.ar/content/live/TyC_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
+
+
+
+
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Cinecanal_logo_2022.svg" group-title="Cine y Series",Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
