@@ -1,18 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
@@ -307,6 +292,14 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
 
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/A%26E_logo_2016.svg" group-title="Cine y Series",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d763a93d9db04895bbdc59750ff6801:a8b918b7bfe3d184b0650fe723434059
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(ae_arg)/variant.mpd
+
+
 #EXTINF:0 tvg-id="AMC HD.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/spain/amc-es.png", AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
@@ -326,12 +319,20 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinecanal_arg)/variant.
 #KODIPROP:inputstream.adaptive.license_key=2266e5d05d1e502c1eb9b3b225043574:61457529fd1f1dbf3a63718f229d6006
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinemax_arg)/variant.mpd
 
-#EXTINF:0 tvg-id="FX.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/fx-lam.png", FX 
-#EXTVLCOPT:network-caching=1000
-http://177.10.184.193:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/FX_logo_2011.svg" group-title="Cine y Series",FX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4916bba87a54eede88a4c5c0b07e4bb1:e09f391974b401bf25f927bf4c1f743e
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(fx_arg)/variant.mpd
 
-#EXTINF:-1 group-title="-",Comedy Central HD
-http://200.59.191.177:8000/play/a0pn/index.m3u8?
+
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Comedy_Central_2018.svg" group-title="Cine y Series",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3ad5fb53e7b4f65d732ce7f03d53a4:e4a1ef4d19cbac85da7f6a29da2c5135
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(comedycentral)/variant.mpd
 
 
 #EXTINF:0 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="ALTERNATIVOS 2",CINEAR
@@ -492,13 +493,34 @@ http://138.59.227.20:8000/play/a06p/index.m3u8
 #EXTINF:1 CUID="163" tvg-name="Discovery Theater HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/800/542/0/0/72670030071181.png" tvg-id="DiscoveryTheater.ar" group-title="Variedades",Discovery Theater 
 http://138.59.227.20:8000/play/a074/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Discovery_Theater_logo.png" group-title="Documentales",Discovery Theater
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bcc29a1959da552b2c4fa6c458d16b6:5ffc4bd5b909d996a0a699a51010bc15
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverytheater)/variant.mpd
+
 
 #EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades",Discovery World
 http://177.10.184.193:8000/play/a0a5/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Discovery_World_logo.svg" group-title="Documentales",Discovery World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=741059a27c32fa19c425e427b5e47850:bb76a0393556deba90fa068bc7e1feec
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryworld)/variant.mpd
+
 
 #EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="Variedades",History 2 
 http://138.59.227.20:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/H2_logo.svg" group-title="Documentales",History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
+https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/manifest.mpd
 
 
 #EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades",History Channel 
@@ -507,3 +529,10 @@ http://177.10.184.193:8000/play/a040/index.m3u8
 
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo
 http://138.59.227.20:8000/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/National_Geographic_logo.svg" group-title="Documentales",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14747c7e082ba58e7391e3712578ee0a:4bcbff3d553e8a8b755a19bb4e93208a
+https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/variant.mpd
