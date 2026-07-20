@@ -289,9 +289,6 @@ http://190.7.19.197:232/play/a01w/index.m3u8
 https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 
 
-#EXTINF:1 CUID="127" tvg-name="AandE HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png" tvg-id="AandE.ar" group-title="Cine, Novelas y Series",A&E
-http://190.7.19.197:232/play/a00c/index.m3u8
-
 #EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/A%26E_logo_2016.svg" group-title="Cine y Series",A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -374,9 +371,12 @@ https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
 https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 
 
-#EXTINF:0 tvg-id="Sony.co" group-title="Películas y Series" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/sony-channel-lam.png", Sony Channel
-http://177.10.184.193:8000/play/a058/index.m3u8
-
+#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Sony_Channel_logo_2019.svg" group-title="Cine y Series",Sony Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61fd8cd30d33031522679dcd5c12025a:6f911424ca5079c9416e2cee730b6f4d
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(sony_arg)/variant.mpd
 
 #EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Space_Channel_Logo_2020.svg" group-title="Cine y Series",Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -475,64 +475,28 @@ http://jmp2.uk/stvp-USBD3300004RH
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="CCC", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
 
-
 #EXTINF:1 CUID="132" tvg-name="Animal Planet" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/800/542/0/0/93120001074605.png" tvg-id="AnimalPlanet.ar" group-title="Variedades",ANIMAL PLANET 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8?
-
 
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades",Discovery Science
 http://138.59.227.20:8000/play/a06p/index.m3u8
 
-
 #EXTINF:1 CUID="163" tvg-name="Discovery Theater HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/800/542/0/0/72670030071181.png" tvg-id="DiscoveryTheater.ar" group-title="Variedades",Discovery Theater 
 http://138.59.227.20:8000/play/a074/index.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Discovery_Theater_logo.png" group-title="Documentales",Discovery Theater
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bcc29a1959da552b2c4fa6c458d16b6:5ffc4bd5b909d996a0a699a51010bc15
-https://dish.akamaized.net/Content/DASH/Live/channel(discoverytheater)/variant.mpd
-
 
 #EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades",Discovery World
 http://177.10.184.193:8000/play/a0a5/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Discovery_World_logo.svg" group-title="Documentales",Discovery World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=741059a27c32fa19c425e427b5e47850:bb76a0393556deba90fa068bc7e1feec
-https://dish.akamaized.net/Content/DASH/Live/channel(discoveryworld)/variant.mpd
-
-
 #EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="Variedades",History 2 
 http://138.59.227.20:8000/play/a06n/index.m3u8
-
-#EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/H2_logo.svg" group-title="Documentales",History 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
-https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/manifest.mpd
-
 
 #EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades",History Channel 
 http://177.10.184.193:8000/play/a040/index.m3u8
 
-
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo
 http://138.59.227.20:8000/play/a09f/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/National_Geographic_logo.svg" group-title="Documentales",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14747c7e082ba58e7391e3712578ee0a:4bcbff3d553e8a8b755a19bb4e93208a
-https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/variant.mpd
