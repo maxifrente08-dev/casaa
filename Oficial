@@ -1,28 +1,9 @@
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TyC_Sports_logo_2017.svg" group-title="Deportes",TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db41d57853874a1b9865cdf8f62e741c:c03ed92e0c15a7d807d71235143437f5
+#KODIPROP:inputstream.adaptive.license_key=db41d57853874a1b9865cdf8f62e741c:c03ed92e0c15a7d807d71235143437f5,6ae2f06dc3fb4c22955d2b802443c440:c03ed92e0c15a7d807d71235143437f5,676b315a7b84499da15fe50d25d3161c:c03ed92e0c15a7d807d71235143437f5
 https://megatvcdn1-sl.megacable.com.ar/content/live/TyC_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/TNT_Sports_Argentina_logo_2021.svg" group-title="Deportes",TNT Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91fdb127559a4d73976ef07928f451b2:e8a970a158d9afe205372dc6ada8a01a
-https://megatvcdn1-sl.megacable.com.ar/content/live/TNT_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
-
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/ESPN_Premium_logo.svg" group-title="Deportes",ESPN Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8108cc522fe34774b2e33497373982b9:b3bb5d578b56b4973b8711f68851a21a
-https://megatvcdn1-sl.megacable.com.ar/content/live/ESPN_Premium_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
-
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Fox_Sports_logo_2022.svg" group-title="Deportes",Fox Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1b436794cf045e1a4f4d2111f89afc7:db9446fefaf908e8ffa682e36da48e82
-https://megatvcdn1-sl.megacable.com.ar/content/live/Fox_Sports_HD/master_wv.m3u8?CN=3e170184-8ead-48e5-94a7-66c05ba4e1f6
-
-
 
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
