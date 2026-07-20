@@ -26,7 +26,7 @@ http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+https://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="CANAL 26.ar" tvg-name="CANAL 26" CUID="10" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="argentina",CANAL 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
