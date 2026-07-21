@@ -357,16 +357,22 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 http://138.59.227.20:8000/play/a06p/index.m3u8
 #EXTINF:1,Discovery Theater 
 http://138.59.227.20:8000/play/a074/index.m3u8
+
 #EXTINF:1,Discovery Turbo 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/22.m3u8
-#EXTINF:1,Discovery World
+
+#EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades",Discovery World
 http://177.10.184.193:8000/play/a0a5/index.m3u8
-#EXTINF:11,History Channel 
+
+#EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="Variedades",History 2 
+http://138.59.227.20:8000/play/a06n/index.m3u8
+
+#EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades",History Channel 
 http://177.10.184.193:8000/play/a040/index.m3u8
-#EXTINF:59,History 2 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/368.m3u8
-#EXTINF:1,Nat Geo 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/36.m3u8
+
+#EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo
+http://138.59.227.20:8000/play/a09f/index.m3u8
+
 #EXTINF:0, Novelas y Series" - Europa Europa 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/caon2-ko5ei-l3gpc-e772c.m3u8
