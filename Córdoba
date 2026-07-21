@@ -352,14 +352,16 @@ https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
 http://200.59.191.177:8000/play/a0js/index.m3u8?
 
 #EXTINF:1,Discovery H&H 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
+http://138.59.227.20:8000/play/a08f/index.m3u8
+
 #EXTINF:1,Discovery Science
 http://138.59.227.20:8000/play/a06p/index.m3u8
+
 #EXTINF:1,Discovery Theater 
 http://138.59.227.20:8000/play/a074/index.m3u8
 
 #EXTINF:1,Discovery Turbo 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/22.m3u8
+http://138.59.227.20:8000/play/a062/index.m3u8
 
 #EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades",Discovery World
 http://177.10.184.193:8000/play/a0a5/index.m3u8
