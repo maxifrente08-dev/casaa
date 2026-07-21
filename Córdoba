@@ -356,7 +356,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8
 #EXTINF:1,Discovery Science
 http://138.59.227.20:8000/play/a06p/index.m3u8
 #EXTINF:1,Discovery Theater 
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/17.m3u8
+http://138.59.227.20:8000/play/a074/index.m3u8
 #EXTINF:1,Discovery Turbo 
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/22.m3u8
 #EXTINF:1,Discovery World
