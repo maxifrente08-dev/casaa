@@ -12,7 +12,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playli
 
 
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
-http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/dvds1151/AR-TV/blob/1fa1197012d99e88de377288070c9a17c3ad6048/icons/02-A24.png?raw=true" group-title="argentina",A24
