@@ -7,7 +7,7 @@ https://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_5
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:0,CRONICA TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-http://zapster.trapemn.tv:1935/CD-LATAM/CronicaTVHD.stream/playlist.m3u8 
+http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8 
 #EXTINF:0, C5N
 http://138.59.227.20:8000/play/a05v/index.m3u8
 #EXTINF:0,CANAL 26
