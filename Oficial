@@ -506,8 +506,6 @@ http://181.78.8.199:8000/play/a0ag/index.m3u8
 http://177.10.184.193:8000/play/a040/index.m3u8
 
 
-#EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo
-http://45.173.201.51:4000/play/a0i7/index.m3u8 
 #EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades",History Channel 
 http://177.10.184.193:8000/play/a040/index.m3u8
 
