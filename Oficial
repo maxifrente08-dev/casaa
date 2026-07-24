@@ -1,3 +1,8 @@
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE opc2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://telefeb.cdn.mdstrm.com/live-stream-secure/69e0fb650d9e3eb5340cdd5c/publish/media_1800.m3u8?token=OMSJsXUEetRwSPJ4txEI2w1rtHBC1XXaGupXZnVVs0vYPb7yAWstc56Ymdg5Trt0IyPug3kR5ua&es=telefeb.cdn.mdstrm.com&proto=https&pz=us&ip=103.50.33.107
+
+
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
