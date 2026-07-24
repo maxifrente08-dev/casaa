@@ -201,8 +201,8 @@ http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 https://se.domain156.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.251.15&token=c2f1829e073416cf217f93d7e4bcbf85fe2b2e0c-3d-1784922148-1784868148
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 en reparación
-http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/125366.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opc2
 http://todotv.net:80/live/Casimiro6363/7273nrnnf/125364.ts
