@@ -196,7 +196,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-ll-hls/live-media.m3
 http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney F1 off
+#EXTINF:-1 group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Disney F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://se.domain156.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.251.15&token=c2f1829e073416cf217f93d7e4bcbf85fe2b2e0c-3d-1784922148-1784868148
 
 
