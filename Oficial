@@ -235,10 +235,8 @@ http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 
-https://si.domain156.xyz/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.251.15&token=8059385cb3f02332141088d9af858b880fe6de52-17-1784938606-1784884606
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1 opc2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
 http://todotv.net:80/live/Casimiro6363/7273nrnnf/125364.ts
 
 
