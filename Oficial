@@ -529,6 +529,10 @@ http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01
 
 http://jmp2.uk/stvp-USBD3300004RH
 
+#EXTINF:-1 tvg-id="BTVMusicaRetro" tvg-name="BTV Música Retro" tvg-logo="" group-title="Música",BTV Música Retro
+http://zapster.trapemn.tv:1935/zapster-hls/BTV_Musica_Retro/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="MÚSICALES🎶", MUSIC TOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
