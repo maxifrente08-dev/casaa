@@ -328,6 +328,14 @@ http://190.7.19.197:232/play/a01w/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 
+#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/DreamWorks_Channel_Logo.png" group-title="Cine",DreamWorks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6c7a488a73c9c780eaea5765ad29a00:08ffa90ee936cbacb10a59bb66aed57d
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
+
 
 #EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/A%26E_logo_2016.svg" group-title="Cine y Series",A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
