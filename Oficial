@@ -439,9 +439,14 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(starchannel_arg)/varian
 #KODIPROP:inputstream.adaptive.license_key=d20d587dfb19ca3e1cccfabb52c03086:0634a6083a88ea08eea626d773d72956
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tnt_arg)/variant.mpd
 
-#EXTINF:0,Film & Arts 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Film%26Arts_logo.svg" group-title="Varios",Film & Arts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c81c90fd06bfcf146cd6b17159d5e3fd:c050a19095c09a4830ae8b185844d200
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/variant.mpd
+
 
 #EXTINF:0,Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
