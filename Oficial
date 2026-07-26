@@ -544,8 +544,14 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO", ANIMAL PLANET 
-http://45.167.1.136:8000/play/a05g 
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Animal_Planet_logo_2018.svg" group-title="Documentales",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2d0a3a4e0f6c5120c07b6c38984962d:6de786017ba5fd9ab8b5a9c312f07cd7
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(animalplanet_arg)/variant.mpd
+ 
 
 
 #EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades",Discovery Science
