@@ -237,8 +237,6 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-ll-hls/live-media.m3
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ESPN 2 A" group-title="Disney" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2024-05/How-to-watch-Partner-FTRs-%28Disney%2B%29.jpg.webp?itok=IskYvWMX", Race hub PRUEBA
-https://s1.domain156.xyz/global/disney2/index.m3u8?token=a16dd20fe1f9275d388a4200e793385ec59fb32d-30-1785101626-1785047626&ip=179.37.238.119
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png",DAZN F1
 http://todotv.net:80/live/Casimiro6363/7273nrnnf/125364.ts
