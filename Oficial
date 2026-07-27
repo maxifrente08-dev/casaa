@@ -461,6 +461,8 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tnt_arg)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_key=aed3f75ea54eb09d19666c2cf8a0f92f:7dcb7673430b36adaaab673ed10e09dc
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntseries_arg)/variant.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", R - TERROR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 #EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Film%26Arts_logo.svg" group-title="Varios",Film & Arts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
