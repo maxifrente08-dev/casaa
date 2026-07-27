@@ -260,17 +260,17 @@ http://177.10.184.193:8000/play/a0d2/index.m3u8
 
 #EXTINF:0,TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
-
+http://zapster.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
 #EXTINF:0, Space
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a061/index.m3u8
 
 
-#EXTINF:0,STAR CHANNEL
+#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+
+http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 
 #EXTINF:0,Studio Universal 
 http://177.10.184.193:8000/play/a05q/index.m3u8
@@ -320,11 +320,13 @@ https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
 #EXTINF:0, Sony Channel
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a058/index.m3u8
-#EXTINF:11,UNIVERSAL CINEMA 
-http://177.10.184.193:8000/play/a0a9/index.m3u8
+
 #EXTINF:0, Novelas y Series" - Kanal D Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/i37hj-60mnd-n2kjo-2bljm.m3u8
+
+#EXTINF:11,UNIVERSAL CINEMA 
+http://177.10.184.193:8000/play/a0a9/index.m3u8
 #EXTINF:0,UNIVERSAL COMEDY 
 http://177.10.184.193:8000/play/a09x/index.m3u8
 #EXTINF:0,UNIVERSAL CRIME 
