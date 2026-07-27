@@ -244,9 +244,11 @@ http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 
-#EXTINF:0,CINE.AR
+#EXTINF:0 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="ALTERNATIVOS 2",CINEAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+
+http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
+
 #EXTINF:0,CineCanal
 #EXTVLCOPT:network-caching=1000
 http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
@@ -254,22 +256,35 @@ http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
 #EXTINF:0, FX 
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a0d2/index.m3u8
+
+
 #EXTINF:0,TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+
+
 #EXTINF:0, Space
 #EXTVLCOPT:network-caching=1000
 http://177.10.184.193:8000/play/a061/index.m3u8
+
+
 #EXTINF:0,STAR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+
 #EXTINF:0,Studio Universal 
 http://177.10.184.193:8000/play/a05q/index.m3u8
 #EXTINF:1, Novelas y Series" - A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
-#EXTINF:0, AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
+
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/AMC_logo.svg" group-title="Cine y Series",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66dd5969eb399a76692be23d7d2f12da:4ea973d4c989d268e2c24dd1d2a9f9dd
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(amc_arg)/variant.mpd
+
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
@@ -318,15 +333,24 @@ http://177.10.184.193:8000/play/a09w/index.m3u8
 http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:0,UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
+
+
 #EXTINF:7200,WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+
+
 #EXTINF:0, Novelas y Series" - Film & Arts 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+
+
 #EXTINF:0, Novelas y Series" - Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+
+
+
 #EXTINF:7200,Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
