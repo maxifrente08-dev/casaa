@@ -196,8 +196,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn4_arg)/variant.mpd
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
-
+http://38.226.49.253:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
