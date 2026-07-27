@@ -33,17 +33,18 @@ https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/ciudad-magazine.png", Ciudad Magazine
 http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
 
-#EXTINF:7200,VOLVER
+#EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4da9d532e89c8d7f6cba837ede7f3a1:8d568a2838a7c03f3cf2e206e76a3012
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(volver_arg)/variant.mpd
 
 
-#EXTINF:36, Argentinisima Satelital | AR
-https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:0,CNN en Espaol
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" tvg-id="CNN en Español.ar" group-title="Noticias",CNN en Español
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
-
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
 
 #EXTINF:0, El Nueve
 http://138.59.227.20:8000/play/a08k/index.m3u8
