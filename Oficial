@@ -1,26 +1,3 @@
-#EXTINF:-1 tvg-id="USA | ESPN" tvg-name="USA | ESPN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES", 158 | ESPN
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=3534410893&_cdn_token=1884d58e6acae25ab3c3c096cc4b3cefd5a2bc39
-
-#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/250px-ESPN2_logo.svg.png" group-title="DEPORTES", 159 | ESPN 2
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=3534411101&_cdn_token=ee00dd3a3222822b3858d31e6d5f06f9d4e6ee54
-
-#EXTINF:-1 tvg-id="USA | ESPN 3" tvg-name="USA | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/250px-ESPN3_Logo.png" group-title="DEPORTES", 160 | ESPN 3
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=3534411405&_cdn_token=85d83da943d5b336577e79d59a5d1633b7776e67
-
-#EXTINF:-1 tvg-id="USA | ESPN 4" tvg-name="USA | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png" group-title="DEPORTES", 161 | ESPN 4
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=3534411533&_cdn_token=6756f5b914b973227dc69f3c77cadf4418d4290f
-
-#EXTINF:-1 tvg-id="USA | ESPN 5" tvg-name="USA | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png" group-title="DEPORTES", 162 | ESPN 5
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
-
-#EXTINF:-1 tvg-id="USA | ESPN 6" tvg-name="USA | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/250px-ESPN_6_logo.svg.png" group-title="DEPORTES", 163 | ESPN 6
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN6/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN6_stream_0n&_cdn_session=3534412037&_cdn_token=838a4c3501f854001a1b2a14cd50ec8a07f2121f
-
-#EXTINF:-1 tvg-id="USA | ESPN 7" tvg-name="USA | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/250px-ESPN_7_logo.svg.png" group-title="DEPORTES", 164 | ESPN 7
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN7/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=3534412477&_cdn_token=f1651ec4d9fe391d3c2fb7239c904ce251c247fa
-
-
-
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -492,7 +469,8 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/varian
 
 #EXTINF:0,Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=3548294076&_cdn_token=2a04d01af27252f9b03ccf8715eebf36d9efbee2
+
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal*
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
