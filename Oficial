@@ -536,6 +536,12 @@ http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01
 
 http://jmp2.uk/stvp-USBD3300004RH
 
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="MÚSICALES🎶", MTV Rocks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+
+
 #EXTINF:-1 tvg-id="BTVMusicaRetro" tvg-name="BTV Música Retro" tvg-logo="" group-title="Música",BTV Música Retro
 http://zapster.trapemn.tv:1935/zapster-hls/BTV_Musica_Retro/playlist.m3u8
 
