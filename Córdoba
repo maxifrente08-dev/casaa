@@ -323,7 +323,8 @@ http://177.10.184.193:8000/play/a058/index.m3u8
 
 #EXTINF:0, Novelas y Series" - Kanal D Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/i37hj-60mnd-n2kjo-2bljm.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
+
 
 #EXTINF:11,UNIVERSAL CINEMA 
 http://177.10.184.193:8000/play/a0a9/index.m3u8
@@ -386,10 +387,12 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 
 #EXTINF:0, Novelas y Series" - Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/52eb-m1lik-hb373-d4bn1.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=3534424581&_cdn_token=c07bcf36958cd7a82e8d982411beeacb20b0e363
+
 
 #EXTINF:-1 tvg-id="Regionales" tvg-name="Univision" group-title="TV",Univisión
-https://regionales.saohgdasregions.fun:9092/MjAwLjEwNS4xMDUuMjQy/9_.m3u8?token=CvlHvUY9zoQsPQ_6-zJZPw&expires=1780295592
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=3534490741&_cdn_token=20c6f636730c8f3b3b66653cf481e053dfe208ab
+
 
 #EXTINF:-1 tvg-id="WKAQDT1" tvg-name="Telemundo Puerto Rico" group-title="Puerto Rico",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
@@ -400,7 +403,8 @@ http://138.59.227.20:8000/play/a07y/index.m3u8
 
 #EXTINF:0, Novelas y Series" - Novelisima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/jlg10-a783n-d578n-mo8ch.m3u8
+https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
+
 
 #EXTINF:0, Novelas y Series" - A3Series 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
@@ -416,11 +420,13 @@ http://138.59.227.20:8000/play/a08c/index.m3u8
 
 #EXTINF:0, Novelas y Series" - TNT Novelas 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNTNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNTNOVELAS_stream_rn&_cdn_session=3534425173&_cdn_token=46880975a3954dbff50e91a7e68f60eadcdae495
+
 
 #EXTINF:0,El Gourmet (C) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=3547982372&_cdn_token=547885d1aa366add5036da4ad0e1fface003ad9e
+
 
 #EXTINF:1,ANIMAL PLANET 
 http://200.59.191.177:8000/play/a0js/index.m3u8?
@@ -451,7 +457,8 @@ http://138.59.227.20:8000/play/a09f/index.m3u8
 
 #EXTINF:0, Novelas y Series" - Europa Europa 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/caon2-ko5ei-l3gpc-e772c.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=3534425941&_cdn_token=ea47581bba60bf095c72bf58f392431076bef985
+
 
 #EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7",El chavo 24/7 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
