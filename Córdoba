@@ -133,23 +133,43 @@ http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
 
 
-#EXTINF:0,ESPN*
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=5000
-https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="⚽Deportes", ESPN 
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN*
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8113ca483fed6872a8db8c1e32b48cb2:895fe3b51a531a69afcef8eb1417aed5
+#EXTVLCOPT:network-caching=4000
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn_arg)/variant.mpd 
+
+#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="⚽Deportes",ESPN 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd71a595f5b61225be82193536bd891b:279d9fb593bf5b8a4b4350171f6139fa
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn2_arg)/variant.mpd
 
 
-#EXTINF:0,ESPN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
+#EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="⚽Deportes",ESPN 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56cffe75198fa81600c625883f10ede1:87e203fb99dded387fd481126e7c5178
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn3_arg)/variant.mpd
 
-#EXTINF:0,ESPN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
 
-#EXTINF:0,ESPN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
+#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="⚽Deportes",ESPN 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50d56945c41f3c8fc0154c414aa2f842:572883af19d1589aec3d40af47dfd179
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn4_arg)/variant.mpd
 
 
 
@@ -188,9 +208,6 @@ http://186.33.40.97:8789/play/22
 #EXTINF:0,FOX SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
-#EXTINF:0,Fox Sport opc 2
-#EXTVLCOPT:network-caching=2000
-http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:1,Fox Sports 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
