@@ -337,17 +337,20 @@ http://177.10.184.193:8000/play/a09v/index.m3u8
 
 #EXTINF:7200,WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
 
 #EXTINF:0, Novelas y Series" - Film & Arts 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c81c90fd06bfcf146cd6b17159d5e3fd:c050a19095c09a4830ae8b185844d200
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/variant.mpd
 
 
 #EXTINF:0, Novelas y Series" - Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=3548294076&_cdn_token=2a04d01af27252f9b03ccf8715eebf36d9efbee2
 
 
 
@@ -378,6 +381,7 @@ https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
 #EXTINF:0,Canal Infantil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+
 #EXTINF:0, Novelas y Series" - Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://joy.nx-pc.edge-apps.net/hls/52eb-m1lik-hb373-d4bn1.m3u8
@@ -411,9 +415,11 @@ http://138.59.227.20:8000/play/a08c/index.m3u8
 #EXTINF:0, Novelas y Series" - TNT Novelas 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2.m3u8
+
 #EXTINF:0,El Gourmet (C) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
+
 #EXTINF:1,ANIMAL PLANET 
 http://200.59.191.177:8000/play/a0js/index.m3u8?
 
