@@ -515,6 +515,11 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png", PARAMOUNT+ - ANIME
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="-", ADULT SWIM 
+http://138.59.227.20:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png", MARVEL 24/7
 http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
@@ -529,15 +534,9 @@ http://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS", LOS SIMPSON 24/7
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
-
-
 #EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 DRAGÓN BALL Z - SAGA DE MAJIN BOO" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",DRAGÓN BALL Z 24/7
 http://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="-", ADULT SWIM 
-http://138.59.227.20:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
