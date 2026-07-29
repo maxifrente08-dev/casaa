@@ -78,7 +78,7 @@ http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png" group-title="argentina", TELEFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,7 +87,7 @@ http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(telefe_arg)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE opc2
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo=https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/800/542/0/0/57769025072354.png" group-title="argentina", TELEFE opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
@@ -106,7 +106,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tn)/variant.mpd
 http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://media.telebajocero.com/p/3a65f6aa049d1e30b0d9d942af3cdd1c/adjuntos/225/imagenes/000/773/0000773224/el-trecejpg.jpg?0000-00-00-00-00-00" group-title="Nacionales",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/800/542/0/0/42552730073067.png" group-title="Nacionales",El Trece
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://www.eltrecetv.com.ar/","Origin":"https://www.eltrecetv.com.ar"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
