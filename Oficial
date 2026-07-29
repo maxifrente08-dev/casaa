@@ -487,7 +487,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/varian
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=3548294076&_cdn_token=2a04d01af27252f9b03ccf8715eebf36d9efbee2
 
 
-#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General", STUDIO UNIVERSAL 
+#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://i.postimg.cc/PrmQzBjx/Fondo_oscuro.png" group-title="General", STUDIO UNIVERSAL 
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 
@@ -537,7 +537,7 @@ http://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="-", ADULT SWIM 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="-", ADULT SWIM 
 http://138.59.227.20:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
