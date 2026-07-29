@@ -515,9 +515,6 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png", PARAMOUNT+ - ANIME
-https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="-", ADULT SWIM 
 http://138.59.227.20:8000/play/a08d/index.m3u8
 
