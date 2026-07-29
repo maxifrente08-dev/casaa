@@ -308,7 +308,7 @@ http://38.210.3.64:8090/play/a0nx/index.m3u8?hls
 http://zapster.trapemn.tv:1935/zapster-hls/cartoonnetwork.stream/playlist.m3u8
 
 
-#EXTINF:0, PAKAPAKA
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/800/542/0/0/46888977071492.png" group-title="Infantil",PAKAPAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
 
@@ -318,7 +318,7 @@ http://190.7.19.197:232/play/a01w/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/DreamWorks_Channel_Logo.png" group-title="Cine", DREAMWORKS 
+#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD"  tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/36735087077133.png" group-title="Cine", DREAMWORKS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -327,7 +327,7 @@ http://190.7.19.197:232/play/a01w/index.m3u8
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/A%26E_logo_2016.svg" group-title="Cine y Series",A&E
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png"  group-title="Cine y Series",A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -335,14 +335,14 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.m
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(ae_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/AMC_logo.svg" group-title="Cine y Series",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66dd5969eb399a76692be23d7d2f12da:4ea973d4c989d268e2c24dd1d2a9f9dd
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(amc_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/AMC_logo.svg" group-title="Series",AMC SERIES 
+#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD"  tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Series",AMC SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -351,21 +351,21 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(amc_arg)/variant.mpd
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(amcseries_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Cinecanal_logo_2022.svg" group-title="Cine y Series", CINECANAL 
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Cine y Series", CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be58a09e881df744508b1ff0b10f9624:02a94b3bbd46a5381fe4a63d2b848491
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinecanal_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cinemax_2016.svg" group-title="Cine y Series", CINEMAX 
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax HD" tvg-logo="https://i.postimg.cc/kGzB3hC6/Logo.png" group-title="Cine y Series", CINEMAX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2266e5d05d1e502c1eb9b3b225043574:61457529fd1f1dbf3a63718f229d6006
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinemax_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/FX_logo_2011.svg" group-title="Cine y Series",FX
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -373,7 +373,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinemax_arg)/variant.mp
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(fx_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Comedy_Central_2018.svg" group-title="Cine y Series", COMEDY CENTRAL 
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
