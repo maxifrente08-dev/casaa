@@ -480,14 +480,6 @@ https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
 
-#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://i.postimg.cc/Vvs0qHB0/Fondo-Oscuro-2.png" group-title="Varios", FILM & ARTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c81c90fd06bfcf146cd6b17159d5e3fd:c050a19095c09a4830ae8b185844d200
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/variant.mpd
-
 
 #EXTINF:-1 tvg-id="Golden.co" tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png", GOLDEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
@@ -581,6 +573,15 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="CCC", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://i.postimg.cc/Vvs0qHB0/Fondo-Oscuro-2.png" group-title="Varios", FILM & ARTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c81c90fd06bfcf146cd6b17159d5e3fd:c050a19095c09a4830ae8b185844d200
+https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/variant.mpd
+
 
 #EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/Sx1KbQ8q/Animal_Planet.png" group-title="Documentales", ANIMAL PLANET 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
