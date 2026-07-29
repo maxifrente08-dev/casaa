@@ -432,14 +432,14 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Sony_Channel_logo_2019.svg" group-title="Cine y Series", SONY CHANNEL 
+#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61fd8cd30d33031522679dcd5c12025a:6f911424ca5079c9416e2cee730b6f4d
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(sony_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Space_Channel_Logo_2020.svg" group-title="Cine y Series", SPACE 
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -448,21 +448,21 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(space_arg)/variant.mpd
 
 
 
-#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Star_Channel_2021.svg" group-title="Cine y Series", STAR CHANNEL 
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad4a7a7f3840844fa7188581387bb22a:a4a387411c220b879db932bb95f7e1ac
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(starchannel_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNT_Logo_2016.svg" group-title="Cine y Series",TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d20d587dfb19ca3e1cccfabb52c03086:0634a6083a88ea08eea626d773d72956
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tnt_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TNT_Series_logo.svg" group-title="Series",TNT SERIES 
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Series",TNT SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -473,7 +473,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntseries_arg)/variant.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", R - TERROR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
-#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Film%26Arts_logo.svg" group-title="Varios", FILM & ARTS
+#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://i.postimg.cc/Vvs0qHB0/Fondo-Oscuro-2.png" group-title="Varios", FILM & ARTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -482,7 +482,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/variant.mpd
 
 
-#EXTINF:0, GOLDEN 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png" GOLDEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=3548294076&_cdn_token=2a04d01af27252f9b03ccf8715eebf36d9efbee2
 
