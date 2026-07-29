@@ -106,7 +106,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tn)/variant.mpd
 http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/El_Trece_Logo.svg" group-title="Nacionales",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://media.telebajocero.com/p/3a65f6aa049d1e30b0d9d942af3cdd1c/adjuntos/225/imagenes/000/773/0000773224/el-trecejpg.jpg?0000-00-00-00-00-00" group-title="Nacionales",El Trece
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://www.eltrecetv.com.ar/","Origin":"https://www.eltrecetv.com.ar"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
