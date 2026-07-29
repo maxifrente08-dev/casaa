@@ -93,7 +93,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="argentina",TN*
+#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="argentina",TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -139,7 +139,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntsports_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS opc2*
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS opc2
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
@@ -193,7 +193,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(espn4_arg)/variant.mpd
 
 
 
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 5*
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
@@ -239,7 +239,7 @@ http://todotv.net:80/live/Casimiro6363/7273nrnnf/125364.ts
 
 
 
-#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes",Fox Sports 1
+#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -247,21 +247,21 @@ http://todotv.net:80/live/Casimiro6363/7273nrnnf/125364.ts
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
 
 
-#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://logo.m3uassets.com/foxsports2.png" tvg-id="FOXSports2.ar" group-title="⚽Deportes",Fox Sports 2 z
+#EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/68625850072785.png" group-title="⚽Deportes",FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 
-#EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://logo.m3uassets.com/foxsports3.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes",Fox Sports 3 z
+#EXTINF:1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" tvg-id="FOXSports3.ar" group-title="⚽Deportes",FOX SPORTS 3 
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORTS
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5e4bb046f274791c52cd4b73956b82e:ae51f5539228fcdf04fa13f4bdd8b7b3
 #EXTVLCOPT:network-caching=4000
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORT opc2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORTS opc2
 http://zapster.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORTS opc3
@@ -276,7 +276,7 @@ http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5
 http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="⚽Deportes", Dsports +1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="⚽Deportes", DSPORTS +
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
@@ -285,40 +285,40 @@ http://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37d
 
 
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil",Disney Channel
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="Infantil", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/disney-channel-new.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil",Disney Jr
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="Infantil", DISNEY JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="INFANTILES",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="INFANTILES", NICKELODEON 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://190.7.19.197:232/play/a03e/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="INFANTILES",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="INFANTILES", NICK JR 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://38.210.3.64:8090/play/a0nx/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",CARTOON NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-hls/cartoonnetwork.stream/playlist.m3u8
 
 
-#EXTINF:0,Pakapaka* 
+#EXTINF:0, PAKAPAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
 
 
-#EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST (S) 
+#EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
 http://190.7.19.197:232/play/a01w/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/DreamWorks_Channel_Logo.png" group-title="Cine",DreamWorks
+#EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/DreamWorks_Channel_Logo.png" group-title="Cine", DREAMWORKS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -342,7 +342,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(ae_arg)/variant.mpd
 #KODIPROP:inputstream.adaptive.license_key=66dd5969eb399a76692be23d7d2f12da:4ea973d4c989d268e2c24dd1d2a9f9dd
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(amc_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/AMC_logo.svg" group-title="Series",AMC Series
+#EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/AMC_logo.svg" group-title="Series",AMC SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -351,14 +351,14 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(amc_arg)/variant.mpd
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(amcseries_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Cinecanal_logo_2022.svg" group-title="Cine y Series",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Cinecanal_logo_2022.svg" group-title="Cine y Series", CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be58a09e881df744508b1ff0b10f9624:02a94b3bbd46a5381fe4a63d2b848491
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinecanal_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cinemax_2016.svg" group-title="Cine y Series",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cinemax_2016.svg" group-title="Cine y Series", CINEMAX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -373,7 +373,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(cinemax_arg)/variant.mp
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(fx_arg)/variant.mpd
 
 
-#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Comedy_Central_2018.svg" group-title="Cine y Series",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Comedy_Central_2018.svg" group-title="Cine y Series", COMEDY CENTRAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -432,14 +432,14 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Sony_Channel_logo_2019.svg" group-title="Cine y Series",Sony Channel
+#EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Sony_Channel_logo_2019.svg" group-title="Cine y Series", SONY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61fd8cd30d33031522679dcd5c12025a:6f911424ca5079c9416e2cee730b6f4d
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(sony_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Space_Channel_Logo_2020.svg" group-title="Cine y Series",Space
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Space_Channel_Logo_2020.svg" group-title="Cine y Series", SPACE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -448,7 +448,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(space_arg)/variant.mpd
 
 
 
-#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Star_Channel_2021.svg" group-title="Cine y Series",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Star_Channel_2021.svg" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -462,7 +462,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(starchannel_arg)/varian
 #KODIPROP:inputstream.adaptive.license_key=d20d587dfb19ca3e1cccfabb52c03086:0634a6083a88ea08eea626d773d72956
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(tnt_arg)/variant.mpd
 
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TNT_Series_logo.svg" group-title="Series",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TNT_Series_logo.svg" group-title="Series",TNT SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -473,7 +473,7 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(tntseries_arg)/variant.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX5MvIrXeh_m7dC68oFuef-NtrT9325lXvnS9pZycnQ&s=10", R - TERROR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
-#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Film%26Arts_logo.svg" group-title="Varios",Film & Arts
+#EXTINF:-1 tvg-id="FilmAndArts.ar" tvg-name="Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Film%26Arts_logo.svg" group-title="Varios", FILM & ARTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -482,12 +482,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 https://dish-arg.akamaized.net/Content/DASH/Live/channel(filmandarts_arg)/variant.mpd
 
 
-#EXTINF:0,Golden 
+#EXTINF:0, GOLDEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=3548294076&_cdn_token=2a04d01af27252f9b03ccf8715eebf36d9efbee2
 
 
-#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General",Studio Universal*
+#EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://github.com/dvds1151/AR-TV/blob/4c55c900be0daf209b7ca639f083f6d0fbf7f010/icons/05-StudioUniversal.png?raw=true" group-title="General", STUDIO UNIVERSAL 
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 
@@ -496,9 +496,9 @@ http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Ent Family
+#EXTINF:-1 tvg-logo="", ETN FAMILY 
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="", Ent Channel
+#EXTINF:-1 tvg-logo="", ETN CHANNEL 
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 
@@ -517,27 +517,27 @@ http://177.10.184.193:8000/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
 http://177.10.184.193:8000/play/a09v/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Marvel 24/7
+#EXTINF:-1 tvg-logo="", MARVEL 24/7
 http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
 
 
-#EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7",El chavo 24/7
+#EXTINF:-1 tvg-id="El CHAVO DEL 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7", EL CHAVO 24/7
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
 
-#EXTINF:0 type="stream" channelId="-1" group-title="⏩24/7⏪" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB Esponja 24/7
+#EXTINF:0 type="stream" channelId="-1" group-title="⏩24/7⏪" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB ESPONJA 24/7
 http://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
-#EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 Los Simpson 
+#EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 LOS SIMPSON 
 https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
 
-#EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 Dragon Ball Z 
+#EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 DRAGÓN BALL Z - SAGA DE MAJIN BOO" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",DRAGÓN BALL Z 24/7
 http://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="-",adult swim
+#EXTINF:-1 group-title="-", ADULT SWIM 
 http://138.59.227.20:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
@@ -553,7 +553,7 @@ http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01
 
 http://jmp2.uk/stvp-USBD3300004RH
 
-#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="MÚSICALES🎶", MTV Rocks
+#EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="MÚSICALES🎶", MTV ROCKS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
@@ -572,7 +572,7 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Animal_Planet_logo_2018.svg" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Animal_Planet_logo_2018.svg" group-title="Documentales", ANIMAL PLANET 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
@@ -582,26 +582,26 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(animalplanet_arg)/varia
  
 
 
-#EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades",Discovery Science
+#EXTINF:1 CUID="162" tvg-name="Discovery Science" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/800/542/0/0/9654717907493.png" tvg-id="DiscoveryScience.ar" group-title="Variedades", DISCOVERY SCIENCE 
 http://181.78.8.199:8000/play/a0hv/index.m3u8
 
 
-#EXTINF:1 CUID="163" tvg-name="Discovery Theater HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/800/542/0/0/72670030071181.png" tvg-id="DiscoveryTheater.ar" group-title="Variedades",Discovery Theater 
+#EXTINF:1 CUID="163" tvg-name="Discovery Theater HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/800/542/0/0/72670030071181.png" tvg-id="DiscoveryTheater.ar" group-title="Variedades", DISCOVERY THEATER
 http://138.59.227.20:8000/play/a074/index.m3u8 
 
 
 
-#EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades",Discovery World
+#EXTINF:1 CUID="165" tvg-name="Discovery World HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/800/542/0/0/24981309071389.png" tvg-id="DiscoveryWorld.ar" group-title="Variedades", DISCOVERY WORLD
 http://177.10.184.193:8000/play/a0a5/index.m3u8
 
 
-#EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="Variedades",History 2 
+#EXTINF:1 CUID="201" tvg-name="History 2" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/800/542/0/0/16627153073621.png" tvg-id="History2.ar" group-title="Variedades", HISTORY 2 
 http://138.59.227.20:8000/play/a06n/index.m3u8 
 
 
-#EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades",History Channel 
+#EXTINF:1 CUID="202" tvg-name="History Channel" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/103/CH_LOGO/800/542/0/0/9019422407178.png" tvg-id="History.ar" group-title="Variedades", HISTORY CHANNEL 
 http://177.10.184.193:8000/play/a040/index.m3u8
 
 
-#EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades",Nat Geo
+#EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades", NAT GEO 
 http://138.59.227.20:8000/play/a09f/index.m3u8 
