@@ -330,16 +330,20 @@ http://177.10.184.193:8000/play/a058/index.m3u8
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 
 
-#EXTINF:11,UNIVERSAL CINEMA 
-http://177.10.184.193:8000/play/a0a9/index.m3u8
-#EXTINF:0,UNIVERSAL COMEDY 
-http://177.10.184.193:8000/play/a09x/index.m3u8
-#EXTINF:0,UNIVERSAL CRIME 
-http://177.10.184.193:8000/play/a09w/index.m3u8
-#EXTINF:0,UNIVERSAL PREMIERE
-http://177.10.184.193:8000/play/a09u/index.m3u8
-#EXTINF:0,UNIVERSAL REALITY
-http://177.10.184.193:8000/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/111421.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY 
+http://190.105.128.198:5800/play/a062/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFx/Universal_Crime.png" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME 
+http://190.105.128.198:5800/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE
+http://190.105.128.198:5800/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
+http://190.105.128.198:5800/play/a060/index.m3u8
 
 
 #EXTINF:7200,WARNER CHANNEL
