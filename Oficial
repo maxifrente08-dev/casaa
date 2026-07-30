@@ -501,13 +501,13 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
-http://177.10.184.193:8000/play/a0a9/index.m3u8
+http://45.5.117.57:8999/play/a04s
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY 
-http://177.10.184.193:8000/play/a09x/index.m3u8
+http://190.105.128.198:5800/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFx/Universal_Crime.png" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME 
-http://177.10.184.193:8000/play/a09w/index.m3u8
+http://190.105.128.198:5800/play/a061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE
 http://177.10.184.193:8000/play/a09u/index.m3u8
