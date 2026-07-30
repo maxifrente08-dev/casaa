@@ -501,7 +501,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
-http://45.5.117.57:8999/play/a04s
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/111421.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY 
 http://190.105.128.198:5800/play/a062/index.m3u8
