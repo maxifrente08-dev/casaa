@@ -1,3 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Hispano" tvg-logo="" group-title="Cine",Cine Hispano
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Premium" tvg-logo="" group-title="Cine",Cine Premium
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Familiar" tvg-logo="" group-title="Cine",Cine Familiar
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="" group-title="Cine",HBO Pop
+https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbopop.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="" group-title="Cine",Cinemax
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="" group-title="Cine",HBO
+https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central" tvg-logo="" group-title="Variedades",Comedy Central
+https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Comedy_Central/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic" tvg-logo="" group-title="Documentales",National Geographic
+https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NAT-GEO-Key/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" tvg-id="CNN en Español.ar" group-title="Noticias",CNN EN ESPAÑOL
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
