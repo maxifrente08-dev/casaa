@@ -198,10 +198,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 
 #EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="⚽Deportes",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce5f0570b7f89e2efe19c7bf3c77dae7:d17fdbc7f72e68adf298b71d935864ba
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
+http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 
 
 #EXTINF:1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/68625850072785.png" group-title="⚽Deportes",FOX SPORTS 2
