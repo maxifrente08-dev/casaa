@@ -1,12 +1,3 @@
-#EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4da9d532e89c8d7f6cba837ede7f3a1:8d568a2838a7c03f3cf2e206e76a3012
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(volver_arg)/variant.mpd
-
-
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" tvg-id="CNN en Español.ar" group-title="Noticias",CNN EN ESPAÑOL
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
