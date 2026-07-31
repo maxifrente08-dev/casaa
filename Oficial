@@ -1,14 +1,3 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Hispano" tvg-logo="" group-title="Cine",Cine Hispano
-http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Premium" tvg-logo="" group-title="Cine",Cine Premium
-http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Familiar" tvg-logo="" group-title="Cine",Cine Familiar
-http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="" group-title="Cine",HBO Pop
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbopop.stream/playlist.m3u8
 
