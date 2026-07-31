@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Hispano" tvg-logo="" group-title="Cine",Cine Hispano
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Premium" tvg-logo="" group-title="Cine",Cine Premium
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine Familiar" tvg-logo="" group-title="Cine",Cine Familiar
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="" group-title="Cine",HBO Pop
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbopop.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/hbopop.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="Cinemax" tvg-logo="" group-title="Cine",Cinemax
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO" tvg-logo="" group-title="Cine",HBO
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central" tvg-logo="" group-title="Variedades",Comedy Central
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Comedy_Central/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Comedy_Central/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="National Geographic" tvg-logo="" group-title="Documentales",National Geographic
-https://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NAT-GEO-Key/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/NAT-GEO-Key/playlist.m3u8
 
 
 
@@ -113,7 +113,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="⚽Deportes",ESPN PREMIUM opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://miotv.cc:8080/live/Sarita/Sarita/273602.ts
+http://miotv.cc:8080/live/Sarita/Sarita/273602.ts
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS
 #HTTP-REFERER=https://zapster.trapemn.tv/
