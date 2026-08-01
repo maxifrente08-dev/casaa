@@ -239,7 +239,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 #EXTINF:0,Studio Universal 
 http://177.10.184.193:8000/play/a05q/index.m3u8
 #EXTINF:1, Novelas y Series" - A&E
-http://190.7.19.197:232/play/a00c/index.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=3537398349&_cdn_token=3134ff1855562b69f41459473c17c90fa6cd4a17
 
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
