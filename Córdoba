@@ -1,13 +1,17 @@
 #EXTM3U
 #EXTINF:0, Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 Argentina" group-title="Noticias",A24 Argentina
 https://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+
 #EXTINF:0, America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 #EXTINF:0,CRONICA TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8 
+
 #EXTINF:0, C5N
 http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
@@ -51,11 +55,14 @@ http://138.59.227.20:8000/play/a08k/index.m3u8
 #EXTINF:7200,Argentina 12 (S)
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+
 #EXTINF:0,EL TRECE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
+
 #EXTINF:0, La Nacion +
 http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
+
 #EXTINF:0,TN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -219,12 +226,6 @@ http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
 http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORT
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a5e4bb046f274791c52cd4b73956b82e:ae51f5539228fcdf04fa13f4bdd8b7b3
-#EXTVLCOPT:network-caching=4000
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(dsports_arg)/variant.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="⚽Deportes",DSPORT opc2
 http://zapster.trapemn.tv:1935/Zapster-hls/dsports1/playlist.m3u8
