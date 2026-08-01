@@ -219,7 +219,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/cinecanal.stream/playlist.m3u8
 
 #EXTINF:0, FX 
 #EXTVLCOPT:network-caching=1000
-http://177.10.184.193:8000/play/a0d2/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=3534419949&_cdn_token=bac12bbb4231517533cc4ecabd6d669cce58fbd8
 
 
 #EXTINF:0,TNT
