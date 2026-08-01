@@ -305,7 +305,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 
 #EXTINF:0,Studio Universal 
 http://177.10.184.193:8000/play/a05q/index.m3u8
-#EXTINF:1, Novelas y Series" - A&E
+#EXTINF:1, A&E
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=3537398349&_cdn_token=3134ff1855562b69f41459473c17c90fa6cd4a17
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
@@ -325,12 +325,12 @@ http://190.105.128.198:5800/play/a05y/index.m3u8
 http://190.105.128.198:5800/play/a060/index.m3u8
 
 
-#EXTINF:0, Novelas y Series" - Film & Arts 
+#EXTINF:0, Film & Arts 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 
 
-#EXTINF:0, Novelas y Series" - Golden 
+#EXTINF:0, Golden 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENLATINO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENLATINO_stream_br&_cdn_session=3548294076&_cdn_token=2a04d01af27252f9b03ccf8715eebf36d9efbee2
 
@@ -375,11 +375,11 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 
-#EXTINF:0, Novelas y Series" - Pasiones
+#EXTINF:0, Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=3534424581&_cdn_token=c07bcf36958cd7a82e8d982411beeacb20b0e363
 
-#EXTINF:0, Novelas y Series" - Kanal D Drama
+#EXTINF:0, Kanal D Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 
@@ -397,16 +397,16 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="Canal12" tvg-name="Tln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Televisa_logo.svg/512px-Televisa_logo.svg.png" group-title="TV",Tln
 http://138.59.227.20:8000/play/a07y/index.m3u8
 
-#EXTINF:0, Novelas y Series" - Novelisima
+#EXTINF:0, Novelisima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
 
 
-#EXTINF:0, Novelas y Series" - A3Series 
+#EXTINF:0, A3Series 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
 
-#EXTINF:0, Novelas y Series" - A3Cine 
+#EXTINF:0, A3Cine 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
@@ -415,11 +415,11 @@ https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMCSERIES_stream_sp&_cdn_session=3537396333&_cdn_token=668508f038b201d5682049a9f463a59844f52211
 
 
-#EXTINF:0, Novelas y Series" - TNT Series 
+#EXTINF:0, TNT Series 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
 
-#EXTINF:0, Novelas y Series" - TNT Novelas 
+#EXTINF:0, TNT Novelas 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNTNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNTNOVELAS_stream_rn&_cdn_session=3534425173&_cdn_token=46880975a3954dbff50e91a7e68f60eadcdae495
 
