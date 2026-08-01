@@ -287,7 +287,7 @@ http://45.188.229.33:8000/play/a0x5/index.m3u8
 
 #EXTINF:0, Sony Channel
 #EXTVLCOPT:network-caching=1000
-http://177.10.184.193:8000/play/a058/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=3534419605&_cdn_token=5342695c2c8c06bef01ab1e6eb6eab87bd766e9f
 
 #EXTINF:0, Novelas y Series" - Kanal D Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
