@@ -386,7 +386,7 @@ https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
 #EXTINF:0, Novelas y Series" - TNT Series 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-http://138.59.227.20:8000/play/a08c/index.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
 
 #EXTINF:0, Novelas y Series" - TNT Novelas 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
