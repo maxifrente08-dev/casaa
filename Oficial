@@ -9,12 +9,12 @@ https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNN_ESPANOL_stream_di&_cdn_session=3534428829&_cdn_token=9e7ae6b8e5299c9cfb2e5aabb223b96fa4a5720c
 
 
-#EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="argentina",Argentina 12
+#EXTINF:1 CUID="205" tvg-name="Argentina 12" tvg-logo="https://i.ibb.co/mC9DHS0V/arg12.png" tvg-id="Argentina12.ar" group-title="argentina", AR|12
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", CRÓNICA TV
 http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 
 
@@ -52,7 +52,7 @@ http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=4000
 http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:0,canal 5 rosario
+#EXTINF:0, CANAL 5 ROSARIO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
@@ -76,14 +76,14 @@ http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Nacionales",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Nacionales", EL TRECE 
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://www.eltrecetv.com.ar/","Origin":"https://www.eltrecetv.com.ar"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.eltrecetv.com.ar/
 #EXTVLCOPT:network-caching=3000
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
-#EXTINF:0,el 3
+#EXTINF:0, EL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
@@ -456,10 +456,6 @@ http://jmp2.uk/stvp-USBD3300004RH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-
-
-#EXTINF:-1 tvg-id="BTVMusicaRetro" tvg-name="BTV Música Retro" tvg-logo="" group-title="Música",BTV Música Retro
-http://zapster.trapemn.tv:1935/zapster-hls/BTV_Musica_Retro/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="MUSIC TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="MÚSICALES🎶", MUSIC TOP
