@@ -245,7 +245,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=3537382501&_cdn_token=a664e33a8afe8a0a4183ba76ed65d10a2248f05d
 
-
+#EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://zapster.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
@@ -284,10 +286,22 @@ http://45.188.229.33:8000/play/a0x5/index.m3u8
 #EXTINF:0, Sony Channel
 #EXTVLCOPT:network-caching=1000
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/SONY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=3534419605&_cdn_token=5342695c2c8c06bef01ab1e6eb6eab87bd766e9f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png", PARAMOUNT+ - COMEDIA
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 
-#EXTINF:0, Novelas y Series" - Kanal D Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png", PARAMOUNT+ - ACCIÓN
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png", PARAMOUNT+ - TERROR
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT FAMILY 
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT CHANNEL 
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
@@ -358,6 +372,10 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.
 #EXTINF:0, Novelas y Series" - Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=3534424581&_cdn_token=c07bcf36958cd7a82e8d982411beeacb20b0e363
+
+#EXTINF:0, Novelas y Series" - Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 
 
 #EXTINF:-1 tvg-id="Regionales" tvg-name="Univision" group-title="TV",Univisión
