@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-id="" tvg-name="Canal HD" tvg-logo="" group-title="General",Canal HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9XTkfpkMtxCunPOuRoyfqJ-f5e7DnTeOEYsnnm9igkRd/m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal HD" tvg-logo="" group-title="General",Canal HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://apphd.net:25461/play/0RZzlfACV5sSWrvsns-z9XTkfpkMtxCunPOuRoyfqJ-f5e7DnTeOEYsnnm9igkRd/m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", HBO EXTREME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
