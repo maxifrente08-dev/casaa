@@ -232,7 +232,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/800/542/0/0/46888977071492.png" group-title="Infantil",PAKAPAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
+http://138.59.227.20:8000/play/a05t/index.m3u8
 
 
 #EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
@@ -297,7 +297,7 @@ http://zapster.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 #EXTINF:0 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="ALTERNATIVOS 2",CINEAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 
-http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
+http://138.59.227.20:8000/play/a069/index.m3u8
 
 
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
