@@ -104,6 +104,9 @@ http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="⚽Deportes", TYC SPORTS 
+http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="⚽Deportes", TYC SPORTS opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 http://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
