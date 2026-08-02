@@ -488,3 +488,23 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel_id=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5352&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=08a655cd-479d-4546-ae2b-051feb4b5bd4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:0, XITE Hits
 
+#EXTINF:-1 tvg-id="RadioMaria.ar" tvg-name="Radio María Argentina" tvg-logo="https://radiomaria.org.ar/wp-content/uploads/2020/09/logo-radio-maria.png" group-title="Radio",Radio María Argentina 
+https://radiomaria.inovanex.stream/stream.m3u8 
+
+#EXTINF:-1 tvg-id="La100.ar" tvg-name="La 100" tvg-logo="https://la100.cienradios.com/wp-content/themes/la100/assets/images/logo.svg" group-title="Radio",LA 100 FM
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8  
+
+
+#EXTINF:-1 tvg-id="cadena3.cordoba" tvg-name="Cadena 3 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="Radios Argentina",Cadena 3 Córdoba 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783831435/ei/K8dSarOAD7Hw1sQPrfeZsAY/ip/200.105.105.242/id/E7x6X18NO9w.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEVEx-qkGbvaIaCt6vTaja-jrtAvENJpxYwP5MQxX4-WVomz_tPuzlGUbXTnsjvbBpYx51-6dZxZ/spc/SQ-umlcOvB_LEaFS4w-tQVyTsxTa2AeWZ6pcxeRBVAm1PbD9oQ/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgayrg3sUEqTbtk_B5Mdh2bSyJI903IWqwuonINlOxSEYCIDCoer2kmxulwTmlj-XDTzoi8zCBNdLpyiksHt4d0N51/file/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioMitre" tvg-name="Radio Mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Mitre_SA.svg" group-title="RADIOS ARGENTINA",Radio Mitre 
+https://26643.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_other_app_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=777d93ec-b48b-4acc-dcd0-c3664843191a 
+
+
+#EXTINF:-1 tvg-id="RadioNacional" tvg-name="Radio Nacional Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_de_Radio_Nacional.svg" group-title="RADIOS ARGENTINA",Radio Nacional
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783836256/ei/ANpSasHOJOeL-LAP7IOQwQY/ip/200.105.105.242/id/0epaS1TA718.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEUxbdFfr69Eg1toM5PEiG3iXxpkhc3H_c7OwBw_XPaphblPJf94BT959a56o5rbH4FKKVgxbdtP/spc/SQ-umnhswObTf955tAhihm7dF2Xeu2qnXBFFgnnRGPOFZHSK_w/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgNQMzIffFnHlofAyHF-FkWi5-p-3BX5QlN0AeL74mlZYCIQC6bFw1yQ9394nMZD36hgXMY6tAn5q1hjh7V6UdOBnEhw%3D%3D/file/index.m3u8
+  
+
+
