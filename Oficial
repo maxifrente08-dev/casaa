@@ -1,3 +1,8 @@
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAWlBMVEXsHCTsGyPsDxrsFR7uQUf82tz70tTtKjHxYWb////96OnsBBTzf4P71NXrAA/2pKf5wML3r7L3q67ydHfrAADwUVbtLzb/9/fvSE384uP6y830gobyeHzwWFzD1SbZAAAAj0lEQVR4AcXSNQKEQAAEQdx93f7/zHOZiQjptGA9u7KcYssLrCQtqxprWtSi67EhQxwnwnlEXFbCbcmgYtqPf7soEHNJjWTZNjdz82pu5lqVuBNtaE5LaMmMfiFv033yvM3w2vq4jK+Kl/E2nYjvUkm40ZzrgjsZZ8JppG0OhF2B2DY1VtGceVlg+fkjuaY7LXoMIxMy1FEAAAAASUVORK5CYII=" group-title="Deportes",ESPN PREMIUM ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://181.209.96.155:10000/play/a15c/index.m3u8
+
+
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine y Series",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://181.78.7.90:12500/play/a0ga/index.m3u8
