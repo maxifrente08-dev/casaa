@@ -401,7 +401,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Studio universal" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png" group-title="General", UNIVERSAL TV
-http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/59.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
 http://181.78.50.91:8000/play/a05y/index.m3u8
