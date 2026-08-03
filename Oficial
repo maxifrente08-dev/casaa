@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="" group-title="Cine",Universal Cinema*
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="" group-title="Cine",Universal Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
 
