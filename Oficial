@@ -512,3 +512,22 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m
 
 #EXTINF:1 CUID="213" tvg-name="Nat Geo HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/110/CH_LOGO/800/542/0/0/83674247072710.png" tvg-id="NationalGeographic.ar" group-title="Variedades", NAT GEO
 http://cdn4.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=3534492261&_cdn_token=565d33a1e4fc0513628987b11f48f353aac4593c
+
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0ct/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0h5/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0h9/index.m3u8
+#EXTINF:0,HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0cs/index.m3u8
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0ht/index.m3u8
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://38.210.3.64:8090/play/a0j0/index.m3u8
