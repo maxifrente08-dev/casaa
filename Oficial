@@ -358,7 +358,7 @@ http://38.52.208.106:8000/play/a00l/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://168.228.44.241:9998/play/a018/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="" group-title="Cine y Series",HBO POP
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
 
