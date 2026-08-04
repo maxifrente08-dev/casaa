@@ -55,7 +55,7 @@ http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 #EXTVLCOPT:network-caching=4000
 http://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:0, CANAL 5 ROSARIO 
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Córdoba", CANAL 5 ROSARIO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
@@ -95,7 +95,7 @@ http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 #EXTVLCOPT:network-caching=3000
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
-#EXTINF:0, EL 3
+#EXTINF:0, tvg-logo="" group-title="Córdoba" EL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
