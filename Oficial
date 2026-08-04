@@ -265,7 +265,7 @@ http://181.209.105.115:2525/play/ae/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
+http://181.209.105.115:2525/play/amc/index.m3u8
 
 
 
