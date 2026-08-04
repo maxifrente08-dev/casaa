@@ -277,12 +277,12 @@ http://zapster.trapemn.tv:1935/zapster-hls/cartoonnetwork.stream/playlist.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCARTOONITO_stream_pm&_cdn_session=3547998956&_cdn_token=e6551ac560af9e5ae5e169d18eadd5c91ff2f397
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/111/CH_LOGO/800/542/0/0/46888977071492.png" group-title="Infantil",PAKAPAKA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png" group-title="Infantil",PAKAPAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://138.59.227.20:8000/play/a05t/index.m3u8
 
 
-#EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/501/CH_LOGO/800/542/0/0/5456596307880.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
+#EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
 
 
