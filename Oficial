@@ -106,7 +106,7 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8113ca483fed6872a8db8c1e32b48cb2:895fe3b51a531a69afcef8eb1417aed5
+#KODIPROP:inputstream.adaptive.license_key=c29b4e05389dc0493aa29d0debbe5a76:bbccac68c01477eed726fb1c11d54560
 https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(espnpr_arg)/variant.mpd
 
 
