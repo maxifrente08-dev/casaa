@@ -442,11 +442,8 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",UNIVERSAL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.primevideo.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41cb9973a47158b13da621c0494611d3:8c72d7121972c0edc3f7e0e029d1bbd6
-https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(universal_arg)/variant.mpd
+http://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=3547942204&_cdn_token=f05d906d6d49ee7f3ef913d62a4e6e06d85b0440
+
 
 
 
