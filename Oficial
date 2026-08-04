@@ -515,7 +515,7 @@ http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 
-#EXTINF:-1 tvg-id="TotalmusicConcerts" tvg-name="Totalmusic Concerts" tvg-logo="" group-title="Música",Totalmusic Concerts
+#EXTINF:-1 tvg-id="TotalmusicConcerts" tvg-name="Totalmusic Concerts" tvg-logo="https://www.40mediagroup.com/images/channels/totalmusic-concerts.png" group-title="Música", TOTALMUSIC CONCERTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
 
