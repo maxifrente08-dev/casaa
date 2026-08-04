@@ -95,9 +95,10 @@ http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 #EXTVLCOPT:network-caching=3000
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="El3Cordoba" tvg-name="EL 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ud6GyxxjkyDMK_zjhu28TV_7NQyC1mo16U3KqxZ2DYtQA3bHHJYvzKl1&s=10" group-title="Santa Fe",EL 3
+#EXTINF:-1 tvg-id="El3Rosario.ar" tvg-name="EL TRES ROSARIO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ud6GyxxjkyDMK_zjhu28TV_7NQyC1mo16U3KqxZ2DYtQA3bHHJYvzKl1&s=10" group-title="Santa Fe", EL TRES ROSARIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
+
 
 
 
@@ -429,8 +430,10 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png" group-title="Cine y Series", GOLDEN EDGE
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png" group-title="Cine y Series",GOLDEN EDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
+
 
 #EXTINF:-1 tvg-id="GoldenPremier.ar" tvg-name="Golden Premier" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/goldenpremier_estandar.jpg" group-title="Cine y Series", GOLDEN PREMIER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
