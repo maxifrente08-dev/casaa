@@ -95,7 +95,7 @@ http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 #EXTVLCOPT:network-caching=3000
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
-#EXTINF:0, tvg-logo="" group-title="Córdoba" EL 3
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Ud6GyxxjkyDMK_zjhu28TV_7NQyC1mo16U3KqxZ2DYtQA3bHHJYvzKl1&s=10" group-title="Córdoba" EL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
