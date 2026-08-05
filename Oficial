@@ -356,7 +356,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
+http://181.209.105.115:2525/play/amc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD"  tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine y Series",AMC SERIES 
