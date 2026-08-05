@@ -238,7 +238,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png" group-title="Infantil",PAKAPAKA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-http://138.59.227.20:8000/play/a05t/index.m3u8
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
 
 
 #EXTINF:1 CUID="244" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
@@ -467,11 +467,6 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="MÚSICA", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="EEntertainment.la" tvg-name="E! Entertainment TV" tvg-logo="https://images.seeklogo.com/logo-png/20/2/e-entertainment-logo-png_seeklogo-209325.png" group-title="Variedades",E! ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://38.210.3.64:8090/play/a0js/index.m3u8
 
 
 
