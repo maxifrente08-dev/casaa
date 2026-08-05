@@ -393,7 +393,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #KODIPROP:inputstream.adaptive.license_key=103cc11d061c3bb8aff8dbafbfc5a5a1:e42eb93eb51e8ea78828ccfbb31f4d60
 https://dish-arg.ses.ioriver-vcdn.net/Content/DASH/Live/channel(dnehd)/variant.mpd
 
-#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/AXN_logo.svg" group-title="Cine y Series",AXN HD
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://181.209.105.115:2525/play/axn/index.m3u8
 
