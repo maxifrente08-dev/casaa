@@ -62,7 +62,7 @@ http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox.co tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="CCC", TELEFE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+http://181.209.105.115:2525/play/telefe/index.m3u8
 
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36  
@@ -89,13 +89,16 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="⚽Deportes",ESPN PREMIUM opc2
-http://br1.urutelam.com:8073/Espn%20Premium%20HD%2E?u=GONZALOVERON:p=9577263913:server_ip_port=br1.urutelam.com:8073
+http://181.209.105.115:2525/play/espnpremium/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS 
+http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS opc2
 #HTTP-REFERER=https://zapster.trapemn.tv/
 #HTTP-ORIGIN=https://zapster.trapemn.tv
-http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
+http://181.209.105.115:2525/play/tntsports/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="⚽Deportes", TNT SPORTS opc2
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
@@ -104,8 +107,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 
-
-#EXTINF:0,TyC Sports Play
+#EXTINF:0,TyC Sports opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 #EXTVLCOPT:http-referrer=https://play.tycsports.com/
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
@@ -227,9 +229,6 @@ http://zapster.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 
-#EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO opc2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://s2.bufaloweb.com/bufalo15/index.m3u8
 
 #EXTINF:0 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="ALTERNATIVOS 2",HBO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
