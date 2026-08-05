@@ -469,7 +469,7 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="EEntertainment.la" tvg-name="E! Entertainment TV" tvg-logo="" group-title="Variedades",E! Entertainment TV
+#EXTINF:-1 tvg-id="EEntertainment.la" tvg-name="E! Entertainment TV" tvg-logo="https://images.seeklogo.com/logo-png/20/2/e-entertainment-logo-png_seeklogo-209325.png" group-title="Variedades",E! ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://38.210.3.64:8090/play/a0js/index.m3u8
 
