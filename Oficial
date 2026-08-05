@@ -397,7 +397,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://zapster.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
+http://38.210.3.64:8090/play/a0is/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
