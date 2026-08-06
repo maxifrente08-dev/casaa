@@ -19,9 +19,10 @@ http://zapster.trapemn.tv:1935/zapster-hls/CronicaTV/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/c5n-new.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="argentina",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="argentina",A24*
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
-http://g2.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_540p.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
 
 #EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="argentina",LN+
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
