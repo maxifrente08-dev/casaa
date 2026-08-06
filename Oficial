@@ -229,7 +229,7 @@ http://181.209.105.115:2525/play/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="Infantil",CARTOON NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/playlist.m3u8
+http://181.209.105.115:2525/play/cartoonnetwork/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA | Cartoonito" tvg-name="USA | Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/330px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", CARTOONITO
