@@ -311,7 +311,7 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOLDENEDGE_stream_wi&_cdn_session=3547942820&_cdn_token=6b645c7b28721da09903a14760bf495bef5ef63b
 
-#EXTINF:-1 tvg-id="Canal.la" tvg-name="Nombre del Canal" group-title="General", GOLDEN PLUS 
+#EXTINF:-1 tvg-id="Canal.la" tvg-name="Nombre del Canal" tvg-logo="https://www.nicepng.com/png/detail/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="General", GOLDEN PLUS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.preferred_audio_language=spa
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/29.m3u8
