@@ -420,7 +420,7 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO", ANIMAL PLANET 
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=3534495453&_cdn_token=0dd94ee63d4d3c3dde299c79d483e6d6b08822a4
+http://38.210.3.64:8090/play/a0j4/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="USA | Discovery Home & Health" tvg-name="USA | Discovery Home & Health" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png" group-title="ESTILOS DE VIDA", DISCOVERY H&H
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=3547981500&_cdn_token=26a4e26c19220642c59fc7f6cb633fa36435daac
@@ -484,10 +484,6 @@ http://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-
 http://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8?ads_amagi_channel_id=1033&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.48&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6994&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=75c457fa-036d-4637-bc61-48af6d50542d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
-#EXTINF:-1 tvg-id="6868152657543d1f8be4ece3" tvg-logo="https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png" group-title="Música",Concert Channel
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6868152657543d1f8be4ece3/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=c56fc610-8e72-11f1-9424-7ced8d54d138&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=c56fc610-8e72-11f1-9424-7ced8d54d138&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=c5789715-8e72-11f1-80c0-9e7f23f140dd&sid=c5789715-8e72-11f1-80c0-9e7f23f140dd&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRhZTZkN2UzLTk1YmItNGVhZS05OTgwLWEwZWMyZTc4ZGM4ZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjNTc4OTcxNS04ZTcyLTExZjEtODBjMC05ZTdmMjNmMTQwZGQiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6ImM1NmZjNjEwLThlNzItMTFmMS05NDI0LTdjZWQ4ZDU0ZDEzOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjNTZmYzYxMC04ZTcyLTExZjEtOTQyNC03Y2VkOGQ1NGQxMzgiLCJmd1ZjSUQyQ29wcGEiOiJjNTZmYzYxMC04ZTcyLTExZjEtOTQyNC03Y2VkOGQ1NGQxMzgiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImM1NmZjNjEwLThlNzItMTFmMS05NDI0LTdjZWQ4ZDU0ZDEzOCIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3ODU2NzU5MDE1NjIsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZelUyWm1NMk1UQXRPR1UzTWkweE1XWXhMVGswTWpRdE4yTmxaRGhrTlRSa01UTTQiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1NzYyMzAxLCJpYXQiOjE3ODU2NzU5MDEsImp0aSI6ImYwY2U0YTQwLTRkYTctNDI3Zi04ZGMyLTkxZjExMDVkYjY1OSJ9.cih0DSEvAV3gRlNAqm9ycT30hSF_J9ECFVBljb9wrq0&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
-
-
 #EXTINF:-1 tvg-id="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png" group-title="MÚSICALES🎶", MTV ROCKS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -503,23 +499,11 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioMaria.ar" tvg-name="Radio María Argentina" tvg-logo="https://radiomaria.org.ar/wp-content/uploads/2020/09/logo-radio-maria.png" group-title="Radio",Radio María Argentina 
-https://radiomaria.inovanex.stream/stream.m3u8 
 
 #EXTINF:-1 tvg-id="La100.ar" tvg-name="La 100" tvg-logo="https://la100.cienradios.com/wp-content/themes/la100/assets/images/logo.svg" group-title="Radio",LA 100 FM
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8  
 
-
-#EXTINF:-1 tvg-id="cadena3.cordoba" tvg-name="Cadena 3 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="Radios Argentina",Cadena 3 Córdoba 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783831435/ei/K8dSarOAD7Hw1sQPrfeZsAY/ip/200.105.105.242/id/E7x6X18NO9w.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEVEx-qkGbvaIaCt6vTaja-jrtAvENJpxYwP5MQxX4-WVomz_tPuzlGUbXTnsjvbBpYx51-6dZxZ/spc/SQ-umlcOvB_LEaFS4w-tQVyTsxTa2AeWZ6pcxeRBVAm1PbD9oQ/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgayrg3sUEqTbtk_B5Mdh2bSyJI903IWqwuonINlOxSEYCIDCoer2kmxulwTmlj-XDTzoi8zCBNdLpyiksHt4d0N51/file/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioMitre" tvg-name="Radio Mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Logo_Mitre_SA.svg" group-title="RADIOS ARGENTINA",Radio Mitre 
 https://26643.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_other_app_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=777d93ec-b48b-4acc-dcd0-c3664843191a 
-
-
-#EXTINF:-1 tvg-id="RadioNacional" tvg-name="Radio Nacional Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_de_Radio_Nacional.svg" group-title="RADIOS ARGENTINA",Radio Nacional
-
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1783836256/ei/ANpSasHOJOeL-LAP7IOQwQY/ip/200.105.105.242/id/0epaS1TA718.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEUxbdFfr69Eg1toM5PEiG3iXxpkhc3H_c7OwBw_XPaphblPJf94BT959a56o5rbH4FKKVgxbdtP/spc/SQ-umnhswObTf955tAhihm7dF2Xeu2qnXBFFgnnRGPOFZHSK_w/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52017147/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgNQMzIffFnHlofAyHF-FkWi5-p-3BX5QlN0AeL74mlZYCIQC6bFw1yQ9394nMZD36hgXMY6tAn5q1hjh7V6UdOBnEhw%3D%3D/file/index.m3u8
-  
 
 
