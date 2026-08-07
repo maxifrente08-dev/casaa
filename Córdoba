@@ -53,6 +53,13 @@ http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/ElTreceHD.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-name="El Doce Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/El_Doce_C%C3%B3rdoba_logo.png/960px-El_Doce_C%C3%B3rdoba_logo.png" group-title="Noticias y Var. (AR)",El Doce Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.preferred_audio_language=spa
+http://router.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
+
+
 #EXTINF:0, La Nacion +
 http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 
@@ -60,14 +67,25 @@ http://zapster.trapemn.tv:1935/zapster-hls/LaNacion.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-name="Canal 10 Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_10_C%C3%B3rdoba_logo_2018.png/960px-Canal_10_C%C3%B3rdoba_logo_2018.png" group-title="Noticias y Var. (AR)",Canal 10 Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.preferred_audio_language=spa
+http://router.cdn.rcs.net.ar/iptelva/ch10cba/output.mpd
 
-#EXTINF:-1 tvg-id="Fox.co tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="CCC", TELEFE
+
+#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Telefe_C%C3%B3rdoba_logo_2018.png/960px-Telefe_C%C3%B3rdoba_logo_2018.png" group-title="Noticias y Var. (AR)",Telefe Córdoba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.preferred_audio_language=spa
+http://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
+
+
+
+#EXTINF:-1 tvg-id="Fox.co tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="CCC", TELEFE BS AS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ARG - TELEFE " tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="argentina", TELEFE opc2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36  
-http://181.209.105.115:2525/play/telefe/index.m3u8
 
 #EXTINF:0,Canal Rural 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
