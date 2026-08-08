@@ -372,7 +372,7 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m3
 
 #EXTINF:-1 tvg-id="Canal.ve" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
+http://168.228.44.241:9998/play/a02p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TCM.ar" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1280px-TCM_Latam_logo.svg.png" group-title="Cine y Series",TCM
