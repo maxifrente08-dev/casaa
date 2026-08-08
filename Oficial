@@ -261,7 +261,7 @@ http://38.210.3.64:8090/play/a0gt/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Cine y Series", CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://cdn5.eco.cdn.moderntv.eu/econocable/stream/CINECANALHD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCINECANALHD_stream_1m&_cdn_session=3534425493&_cdn_token=0e7866de691e2001b83eb2f96239b9b75dc4a64b
+http://38.210.3.64:8090/play/a0iy/index.m3u8?hls
 
 
 
