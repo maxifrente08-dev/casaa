@@ -220,10 +220,11 @@ http://zapster.trapemn.tv:1935/zapster-hls/disney_jr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Infantil", NICKELODEON 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-http://38.210.3.64:8090/play/a0et/index.m3u8?hls
+http://zapster.trapemn.tv:1935/zapster-hls/nickelodeon.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Infantil", NICK jr
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://38.210.3.64:8090/play/a0nx/index.m3u8?hls
 
