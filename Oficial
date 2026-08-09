@@ -384,7 +384,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TCM/40-hls/live-media.m3u8?_c
 
 #EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine y Series",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
+http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
+
 
 
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" tvg-logo="https://i.postimg.cc/L866QpLb/Fondo_Oscuro.png" group-title="Cine y Series", COMEDY CENTRAL 
