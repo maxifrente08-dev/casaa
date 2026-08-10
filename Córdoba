@@ -369,38 +369,39 @@ https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDREAMWORKS_stream_ge&_cdn_session=3548007396&_cdn_token=cbb27b2855f35594ccf5c076feb0a554aca58770
 
-#EXTINF:0, PASIONES 
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/93318670071976.png" Group-title="novela", PASIONES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=3534424581&_cdn_token=c07bcf36958cd7a82e8d982411beeacb20b0e363
 
-#EXTINF:0, KANAL D DRAMA 
+
+#EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1720111155/uja0cmn8jgkhlnaj0ylf.png" Group-title="novela", KANAL D DRAMA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 
 
-#EXTINF:-1 tvg-id="Regionales" tvg-name="Univision" group-title="TV", UNIVISIÓN 
+#EXTINF:-1 tvg-id="Regionales" tvg-name="Univision" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/nmasforo.png"  group-title="TV", UNIVISIÓN 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=3534490741&_cdn_token=20c6f636730c8f3b3b66653cf481e053dfe208ab
 
 
-#EXTINF:-1 tvg-id="WKAQDT1" tvg-name="Telemundo Puerto Rico" group-title="Puerto Rico", TELEMUNDO PUERTO RICO 
+#EXTINF:-1 tvg-id="WKAQDT1" tvg-name="Telemundo Puerto Rico" tvg-logo="https://git.io/JOTtz"  group-title="Puerto Rico", TELEMUNDO PUERTO RICO 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_540.m3u8
 
-#EXTINF:-1 tvg-id="Canal01" tvg-name="Canal de las Estrellas" group-title="TV", CANAL DE LAS ESTRELLAS 
+#EXTINF:-1 tvg-id="Canal01" tvg-name="Canal de las Estrellas" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/800/542/0/0/17581646072235.png" group-title="TV", CANAL DE LAS ESTRELLAS 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
-#EXTINF:-1 tvg-id="Canal12" tvg-name="Tln" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Televisa_logo.svg/512px-Televisa_logo.svg.png" group-title="TV",Tln
+#EXTINF:-1 tvg-id="Canal12" tvg-name="Tln" tvg-logo="https://i.postimg.cc/Hcd31vF5/Tlnovelas.png" group-title="TV",TLN
 http://138.59.227.20:8000/play/a07y/index.m3u8
 
-#EXTINF:0, NOVELISIMA 
+#EXTINF:0  tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750785888/tbxfsnmbgjbsielt5job.png" Group-title="novela", NOVELISIMA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
 
 
-#EXTINF:0, A3SERIES 
+#EXTINF:0, tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169146/ztlcxgcuqiquwpljsfut.png"  Group-title="novela", A3SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
 
-#EXTINF:0, A3CINE 
+#EXTINF:0 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169336/gwe0estuudnrotgm0a1t.png" Group-title="cine", A3CINE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
@@ -409,16 +410,16 @@ https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMCSERIES_stream_sp&_cdn_session=3537396333&_cdn_token=668508f038b201d5682049a9f463a59844f52211
 
 
-#EXTINF:0, TNT SERIES 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" Group-title="serie", TNT SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
 
-#EXTINF:0, TNT NOVELAS 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KY1B1VcV/Logo.png" Group-title="serie", TNT NOVELAS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNTNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNTNOVELAS_stream_rn&_cdn_session=3534425173&_cdn_token=46880975a3954dbff50e91a7e68f60eadcdae495
 
 
-#EXTINF:0, EL GOURMET
+#EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRMT.png?raw=true" Group-title="cocina", EL GOURMET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_sj&_cdn_session=3547982372&_cdn_token=547885d1aa366add5036da4ad0e1fface003ad9e
 
