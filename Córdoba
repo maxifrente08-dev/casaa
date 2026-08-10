@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTINF:0, TELEMAX
+#EXTINF:-1  tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/BbwCJ6zd/Telemax.png" group-title="Variedades", TELEMAX 
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="argentina",A24
@@ -29,12 +28,12 @@ http://zapster.trapemn.tv:1935/CD-LATAM/26tv.stream/playlist.m3u8
 http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8 
 
 
-#EXTINF:0, ENCUENTRO 
+tvg-id="Encuentro.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png" group-title="Interés General", ENCUENTRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://raw.githubusercontent.com/HelmerLuzo/TDT_Argentina/main/logos/ciudad-magazine.png", CIUDAD MAGAZINE 
+#EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://i.postimg.cc/mDHT4mgR/Logo-2.png", CIUDAD MAGAZINE 
 http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="volver",VOLVER
@@ -76,20 +75,19 @@ http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 
-#EXTINF:0, CANAL RURAL 
+#EXTINF:0, tvg-logo="https://i.postimg.cc/YSphQFCM/Logo.png" group-title="Variedades", CANAL RURAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://138.59.227.20:8000/play/a06k/index.m3u8
-#EXTINF:0, Bravo TV | AR
+
+#EXTINF:-1  tvg-id="BRAVO TV.ar" tvg-logo="https://i.postimg.cc/QxSJWzvc/Bravo-TV.png" group-title="Interés General", BRAVOTV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-name="Terra Mia TV" group-title="Música Internacional", TERRA MIA TV
+#EXTINF:-1 tvg-name="Terra Mia TV" tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="Música Internacional", TERRA MIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=676bf06b14af8a55efbf676b4990cc0d
-#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" group-title="Motor",Garage TV
+
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" tvg-logo"https://i.imgur.com/FqFxog1.png" group-title="Motor",GARAJE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
