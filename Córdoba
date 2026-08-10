@@ -75,7 +75,7 @@ http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.postimg.cc/YSphQFCM/Logo.png" group-title="Variedades", CANAL RURAL 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/YSphQFCM/Logo.png" group-title="Variedades", CANAL RURAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://138.59.227.20:8000/play/a06k/index.m3u8
 
