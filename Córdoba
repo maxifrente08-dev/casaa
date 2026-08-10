@@ -82,7 +82,7 @@ http://138.59.227.20:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-name="Terra Mia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qN-nokWm5anOGG7NF4H3zMdsk2byebWB4UYm5WkbYNPaCw4349sfGBo&s=10" group-title="Música Internacional", TIERRA MIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=676bf06b14af8a55efbf676b4990cc0d
 
-#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true" group-title="Motor",GARAJE TV
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true" group-title="Motor",GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM
