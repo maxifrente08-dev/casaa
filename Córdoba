@@ -460,7 +460,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8
 
 
 
-#EXTINF:0, Novelas y Series" - EUROPA EUROPA 
+#EXTINF:0 tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" Group-title"algo", EUROPA EUROPA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/EUROPAEUROPA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEUROPAEUROPA_stream_gf&_cdn_session=3534425941&_cdn_token=ea47581bba60bf095c72bf58f392431076bef985
 
