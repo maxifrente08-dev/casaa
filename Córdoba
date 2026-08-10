@@ -482,8 +482,9 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 #EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 DRAGÓN BALL Z 
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
-#EXTINF:-1 group-title="-", ADULT SWIM 
-http://138.59.227.20:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://38.210.3.64:8090/play/a0jx/index.m3u8 
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
