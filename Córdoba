@@ -2,7 +2,8 @@
 #EXTINF:0, Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 Argentina" group-title="Noticias",A24 Argentina
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="argentina",A24
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:0, America
