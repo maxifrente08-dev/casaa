@@ -275,11 +275,11 @@ https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8 
 
 
-#EXTINF:0,TNT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://zapster.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 
-#EXTINF:0, Space
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
@@ -295,30 +295,31 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT CHANNEL 
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:1, A&E
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://181.209.105.115:2525/play/ae/index.m3u8
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png"  group-title="Cine y Series",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://190.108.80.138:8000/play/a07p/index.m3u8
 
 #EXTINF:0,Studio Universal 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 http://zapster.trapemn.tv:1935/CD-LATAM/Universal_Channel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="CANALES DE CABLE",UNIVERSAL CINEMA 
-http://181.209.105.115:2525/play/universal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7dS3Dcf/Universal_Cinema.png" tvg-name="UNIVERSAL CINEMA ESTE HD" group-title="Cine y Series",UNIVERSAL CINEMA 
+http://181.78.50.91:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" tvg-name="UNIVERSAL COMEDY HD" group-title="Cine y Series",UNIVERSAL COMEDY*
+http://168.228.44.241:9998/play/a058/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wTL8HbcV/Universal_Comedy.png" tvg-name="UNIVERSAL COMEDY HD" group-title="CANALES DE CABLE",UNIVERSAL COMEDY 
-http://190.105.128.198:5800/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFx/Universal_Crime.png" tvg-name="UNIVERSAL CRIME HD" group-title="Cine y Series",UNIVERSAL CRIME 
+http://168.228.44.241:9998/play/a057/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFx/Universal_Crime.png" tvg-name="UNIVERSAL CRIME HD" group-title="CANALES DE CABLE",UNIVERSAL CRIME 
-http://190.105.128.198:5800/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png" tvg-name="UNIVERSAL PREMIERE O HD" group-title="CANALES DE CABLE",UNIVERSAL PREMIERE
-http://190.105.128.198:5800/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yYc4BrXj/Universal_Premiere.png" tvg-name="UNIVERSAL PREMIERE O HD" group-title="Cine y Series",UNIVERSAL PREMIERE
+http://168.228.44.241:9998/play/a054/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" tvg-name="UNIVERSAL REALITY HD" group-title="CANALES DE CABLE",UNIVERSAL REALITY
-http://190.105.128.198:5800/play/a060/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZKptZDFj/Universal_Reality.png" tvg-name="UNIVERSAL REALITY HD" group-title="Cine y Series",UNIVERSAL REALITY
+http://168.228.44.241:9998/play/a056/index.m3u8
 
 #EXTINF:0, Film & Arts 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
