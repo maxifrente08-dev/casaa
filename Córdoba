@@ -78,9 +78,6 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TelefeHD.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://138.59.227.20:8000/play/a06k/index.m3u8
 
-#EXTINF:-1  tvg-id="BRAVO TV.ar" tvg-logo="https://i.postimg.cc/QxSJWzvc/Bravo-TV.png" group-title="Interés General", BRAVOTV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-name="Terra Mia TV" tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="Música Internacional", TERRA MIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=676bf06b14af8a55efbf676b4990cc0d
