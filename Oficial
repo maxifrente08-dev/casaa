@@ -87,9 +87,10 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
-#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM opc2
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",ESPN PREMIUM opc2
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=3000
 http://miotv.cc:8080/live/Sarita/Sarita/273602.m3u8
-
 
 
 
@@ -453,8 +454,11 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 http://38.210.3.64:8090/play/a0jx/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas",MARVEL 24/7
-http://todotv.net:80/live/Casimiro6363/7273nrnnf/317137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MARVEL 24/7*
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=3000
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/317137.m3u8?hls
+
 
 
 
