@@ -363,7 +363,7 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m
 
 #EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="Cine y Series",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8?hls
+http://zapster.trapemn.tv:1935/CD-LATAM/Warner/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png" group-title="Cine y Series", ENT FAMILY 
@@ -452,7 +452,7 @@ http://38.210.3.64:8090/play/a0jx/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas",MARVEL 24/7
-http://todotv.net:80/live/Casimiro6363/7273nrnnf/317137.ts
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/317137.m3u8
 
 
 
