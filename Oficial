@@ -108,7 +108,13 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="Deportes", TYC SPORTS 
+#EXTVLCOPT:http-referrer=https://play.tycsports.com/
+https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="Deportes", TYC SPORTS opc2
 http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="ARGENTINA", TYC SPORTS FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
