@@ -468,10 +468,10 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 http://38.210.3.64:8090/play/a0jx/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MARVEL 24/7*
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MARVEL 24/7
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
-http://todotv.net:80/live/Casimiro6363/7273nrnnf/317137.m3u8?hls
+http://elpapanatas.space:8080/live/AsaelSegovia/C2EzEypFWs/415627.m3u8?hls
 
 
 
