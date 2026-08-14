@@ -342,7 +342,7 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m
 #EXTINF:-1 tvg-id="Canal.la" tvg-name="Nombre del Canal" tvg-logo="https://www.nicepng.com/png/detail/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",GOLDEN PLUS
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
-http://todotv.net:80/live/Casimiro6363/7273nrnnf/53941.m3u8?hls
+http://orbeplayer.com/live/220296/pabloz/1148196.m3u8?hls
 
 
 
