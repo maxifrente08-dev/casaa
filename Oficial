@@ -286,7 +286,7 @@ http://orbeplayer.com/live/220296/pabloz/1290745.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://todotv.net:80/live/Casimiro6363/7273nrnnf/435991.m3u8
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/435991.m3u8?hls
 
 
 
@@ -299,7 +299,6 @@ http://45.5.117.46:8000/play/a0hq/index.m3u8
 
 #EXTINF:-1 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="Cine y Series",CINEAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
 http://zapster.trapemn.tv:1935/zapster-hls/CineAR.stream/playlist.m3u8
 
 
@@ -321,11 +320,6 @@ http://168.228.44.241:9998/play/a018/index.m3u8?hls
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-hbopop.playlist.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
 http://168.228.44.241:9998/play/a0ce/index.m3u8
 
@@ -333,8 +327,6 @@ http://168.228.44.241:9998/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/playlist.m3u8
-
-
 
 
 
@@ -354,7 +346,6 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
 http://orbeplayer.com/live/220296/pabloz/1148196.m3u8?hls
-
 
 
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
@@ -391,7 +382,6 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m
 #EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="Cine y Series",WARNER CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://205.235.6.29:8000/play/a0ys/index.m3u8?hls
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT FAMILY 
