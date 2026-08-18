@@ -287,7 +287,7 @@ http://todotv.net:80/live/Casimiro6363/7273nrnnf/435991.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Cine y Series", CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://38.210.3.64:8090/play/a0iy/index.m3u8?hls
+http://45.5.117.46:8000/play/a0hq/index.m3u8
 
 
 
@@ -326,7 +326,7 @@ http://168.228.44.241:9998/play/a0ce/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="Cine y Series",HBO FAMILY
-http://38.210.3.64:8090/play/a0h5/index.m3u8?hls
+http://45.5.117.46:8000/play/a0l5/index.m3u8
 
 
 
@@ -361,19 +361,19 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://38.210.3.64:8090/play/a0iu/index.m3u8?hls
+http://45.5.117.46:8000/play/a0iz/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://38.210.3.64:8090/play/a0iw/index.m3u8?hls
+http://45.5.117.46:8000/play/a0hn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://38.210.3.64:8090/play/a0is/index.m3u8
+http://45.5.117.46:8000/play/a0hu/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
@@ -394,7 +394,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-http://38.210.3.64:8090/play/a0hp/index.m3u8
+http://45.5.117.46:8000/play/a0gu/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD"  tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine y Series",AMC SERIES 
