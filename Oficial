@@ -128,7 +128,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn3.png",  ESPN 3
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/ESPN3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn4.png",  ESPN 4
 http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
