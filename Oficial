@@ -181,15 +181,15 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8?hls
 
 #EXTINF:-1 CUID="188" tvg-name="Fox Sports HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="Deportes",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports1.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports1/playlist.m3u8
 
 
 #EXTINF:-1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/68625850072785.png" group-title="Deportes",FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports2.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports2/playlist.m3u8
 
 #EXTINF:-1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" tvg-id="FOXSports3.ar" group-title="Deportes",FOX SPORTS 3 
-http://zapster.trapemn.tv:1935/zapster-hls/FoxSports3.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Deportes",DSPORTS
