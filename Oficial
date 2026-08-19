@@ -128,10 +128,14 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn3.png",  ESPN 3
-http://zapster.trapemn.tv:1935/CD-LATAM/ESPN3.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN4" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn4.png",  ESPN 4
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn4-mux/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Deportes" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png", ESPN 5
