@@ -475,10 +475,10 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://45.5.117.46:8000/play/a051/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MARVEL 24/7
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MARVEL 24/7*
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
-http://redworld.pro:8880/live/XBP2RMkmVtev/FdyXCD7RQXnG/526363.m3u8
+http://flamatv.online:80/live/2222/2222/549541.m3u8
 
 
 
