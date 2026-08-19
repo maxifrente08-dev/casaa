@@ -118,23 +118,27 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNHD.stream/playlist.m3u8
 
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN opc2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://bantel-cdn3.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=3534410893&_cdn_token=1884d58e6acae25ab3c3c096cc4b3cefd5a2bc39
+
 
 
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn2.png", ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/playlist.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=3534411101&_cdn_token=ee00dd3a3222822b3858d31e6d5f06f9d4e6ee54
+
 
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn3.png",  ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn3-mux/playlist.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=3534411405&_cdn_token=85d83da943d5b336577e79d59a5d1633b7776e67
+
 
 
 #EXTINF:-1 tvg-id="ESPN4" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn4.png",  ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn4-mux/playlist.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=3534411533&_cdn_token=6756f5b914b973227dc69f3c77cadf4418d4290f
+
 
 
 
@@ -162,10 +166,6 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN7/40-hls/live-media.m3u8?_
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://38.224.231.47:8000/play/a03s/index.m3u8?hls
 
-
-#EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG", ESPN EXTRA 2
-#EXTVLCOPT:network-caching=2000
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=3534411101&_cdn_token=ee00dd3a3222822b3858d31e6d5f06f9d4e6ee54
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png", ESPN PLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
