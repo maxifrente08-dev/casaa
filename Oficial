@@ -179,8 +179,8 @@ https://si.tudeporteshoy.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.242.12&toke
 
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",DAZN F1
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=10000
-http://plataoplomo.neoezao.top:8080/live/kang/71267133/57486.m3u8?hls
+#EXTVLCOPT:network-caching=4000
+http://todotv.net:80/live/Casimiro6363/7273nrnnf/125364.m3u8
 
 
 
