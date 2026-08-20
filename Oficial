@@ -172,12 +172,11 @@ http://38.224.231.47:8000/play/a03s/index.m3u8?hls
 http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Infantiles" http-user-agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36" http-referrer="https://streamtp-golden1.click/",Disney F1*
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Infantiles" http-referrer="https://streamtp-golden1.click/",Disney F1*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
-#EXTHTTP:{"urls":["https://s2.tudeporteshoy.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.242.128&token=e8eeddb004b280c94529f07f83b317c2b880010b-82-1787298074-1787244074"],"headers":{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36","Referer":"https://streamtp-golden1.click/"}}
 http://s2.tudeporteshoy.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.242.128&token=e8eeddb004b280c94529f07f83b317c2b880010b-82-1787298074-1787244074
 
 
