@@ -358,7 +358,7 @@ http://cdn5.eco.cdn.moderntv.eu/econocable/stream/GOLDENEDGE/20-hls/live-media.m
 #EXTINF:-1 tvg-id="Canal.la" tvg-name="Nombre del Canal" tvg-logo="https://www.nicepng.com/png/detail/434-4344309_golden-plus-golden-plus-logo-png.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",GOLDEN PLUS
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=3000
-http://netlat.xyz:8080/live/Carla1234/Carla1234/494064.m3u8
+http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/414515.m3u8
 
 
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
