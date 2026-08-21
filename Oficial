@@ -303,7 +303,7 @@ http://190.61.43.118:45000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD"  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png" group-title="Cine y Series", CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://45.5.117.46:8000/play/a0hq/index.m3u8
+http://177.53.153.207:8000/play/a00y/index.m3u8
 
 
 
@@ -379,12 +379,11 @@ http://45.5.117.46:8000/play/a0iz/index.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" tvg-logo="https://i.postimg.cc/28BbwZBS/Fondo_Oscuro.png" group-title="Cine y Series", STAR CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://45.5.117.46:8000/play/a0hn/index.m3u8
-
+http://168.228.44.241:9998/play/a02m/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://45.5.117.46:8000/play/a0hu/index.m3u8
+http://177.53.153.207:8000/play/a00z/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
@@ -408,7 +407,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-http://45.5.117.46:8000/play/a0gu/index.m3u8
+http://168.228.44.241:9998/play/a024/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD"  tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine y Series",AMC SERIES 
@@ -498,7 +497,8 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://45.5.117.46:8000/play/a051/index.m3u8
+http://168.228.44.241:9998/play/a01r/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | MARVEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marvel_Cinematic_Universe.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="24/7 Horas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",MARVEL 24/7
 #EXTVLCOPT:http-reconnect=true
