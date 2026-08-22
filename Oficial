@@ -385,7 +385,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD"  tvg-logo="https://static.flow.com.ar/images/50839683074230/CH_LOGO/500/500/50839683074230.png" group-title="Cine y Series",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://177.53.153.207:8000/play/a00z/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_stream_hg&_cdn_session=3534420813&_cdn_token=c1e99ef39884bb87d604968c5a032c54e204f4ff
+
 
 
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
@@ -414,7 +415,8 @@ http://168.228.44.241:9998/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCSeries.ar" tvg-name="AMC Series HD"  tvg-logo="https://i.postimg.cc/Hcd31vF7/AMC-Series.png" group-title="Cine y Series",AMC SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://190.60.37.126:58002/play/a0ac/index.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMCSERIES_stream_sp&_cdn_session=3537396333&_cdn_token=668508f038b201d5682049a9f463a59844f52211
+
 
 
 #EXTINF:-1 tvg-id="Canal.ve" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
