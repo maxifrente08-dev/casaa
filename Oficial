@@ -174,11 +174,11 @@ http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Formula1", Disney F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://si.tudeporteshoy.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.242.12&token=ec07a72f75cdafb762b5d39f16840eed7ce572a4-ad-1787341496-1787287496
+https://po.tudeporteshoy.xyz/disney1/tracks-v1a1/mono.m3u8?ip=179.37.242.12&token=0c3267a1cf4469fdae24dfdfa2d614cf5f3fa856-3d-1787416919-1787362919
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Formula1", Disney 2 f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://s2.tudeporteshoy.xyz/disney2/tracks-v1a1/mono.m3u8?ip=179.37.242.128&token=a2e9b7109b405fe2ab650f2b7b0f137ba1b7d7a6-13-1787341129-1787287129
+https://si.tudeporteshoy.xyz/disney2/tracks-v1a1/mono.m3u8?ip=179.37.242.12&token=96471d6fc35f72f25e2abc571db3d6d09ee74710-fe-1787416974-1787362974
 
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", DAZN F1 ESPERAR
 #EXTVLCOPT:http-reconnect=true
