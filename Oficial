@@ -172,9 +172,9 @@ http://38.224.231.47:8000/play/a03s/index.m3u8?hls
 http://38.224.231.47:8000/play/a03w/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Formula1", Disney F1
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Formula1", Disney F1*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://po.tudeporteshoy.xyz/disney4/tracks-v1a1/mono.m3u8?ip=179.37.242.12&token=05d6b010260082ada51181d79e692636b272d9a3-14-1787450252-1787396252
+https://s2.tudeporteshoy.xyz/disney4/tracks-v1a1/mono.m3u8?ip=179.37.242.12&token=7df252740361efdf80f97383f6cf09dc22e16c49-7d-1787422530-1787368530
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Formula1", Disney 2 f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
