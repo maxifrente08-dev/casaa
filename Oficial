@@ -168,8 +168,7 @@ http://190.95.11.223:8000/play/212/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png", ESPN PLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://190.119.112.28:8000/play/a067/index.m3u8
-
+http://190.95.11.223:8000/play/209/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" group-title="Formula1", Disney F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
