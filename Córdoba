@@ -140,7 +140,7 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-ll-hls/live-media.m3
 
 #EXTINF:-1 tvg-id="ESPN4" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn4.png",  ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN4/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN4_stream_jg&_cdn_session=3534411533&_cdn_token=6756f5b914b973227dc69f3c77cadf4418d4290f
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 
 
