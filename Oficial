@@ -274,13 +274,13 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/FX/40-hls/live-media.m3u8?_cd
 
 #EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="https://fmh.la/img/logo_movies.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",FMH MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/movies_nuevo.stream/playlist.m3u8
+http://190.95.11.223:8000/play/130/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmh.la/img/logo_family.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)", FMH FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-http://orbeplayer.com/live/220296/pabloz/1290745.m3u8
+http://190.95.11.223:8000/play/090/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
