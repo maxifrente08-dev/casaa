@@ -351,7 +351,7 @@ http://starlatino.tv:8880/live/Claudia_44/4XrbaXCMNh7G/414515.m3u8
 
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://168.228.44.241:9998/play/a04f/index.m3u8
+http://181.209.38.115:8000/play/a016/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY CINE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE
