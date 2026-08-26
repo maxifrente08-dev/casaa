@@ -383,9 +383,11 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNT/40-hls/live-media.m3u8?_c
 
 
 
-#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES* 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://168.228.44.241:9998/play/a01v/index.m3u8
+http://190.60.37.115:8001/play/a0id/index.m3u8?hls
+
+
 
 
 
