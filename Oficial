@@ -385,7 +385,8 @@ https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNT/40-hls/live-media.m3u8?_c
 
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" tvg-logo="https://i.postimg.cc/25gvhw3X/Fondo_Oscuro.png" group-title="Cine y Series",TNT SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
+http://168.228.44.241:9998/play/a01v/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="Cine y Series",WARNER CHANNEL
