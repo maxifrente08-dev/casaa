@@ -142,7 +142,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn3.png",  ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=3534411405&_cdn_token=85d83da943d5b336577e79d59a5d1633b7776e67
+http://zapster.trapemn.tv:1935/CD-LATAM/espn3.stream/playlist.m3u8
 
 
 
