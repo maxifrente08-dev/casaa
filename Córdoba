@@ -246,12 +246,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/HBO/playlist.m3u8
 http://38.52.208.106:8000/play/a00l/index.m3u8
 
 
-#EXTINF:0 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO +
+#EXTINF:0 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO+
 http://168.228.44.241:9998/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8?hls
+http://190.60.37.115:8001/play/a0ww/index.m3u8
 
 
 #EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="Cine y Series",HBO XTREME
