@@ -192,7 +192,7 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="", DAZN F1 opc2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://s1.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.234.53&token=439238317ae8d77a07c361a657ea9f6424ffc450-3d-1788631480-1788577480
+https://s2.envivoslatam99.sbs/daznf1/tracks-v1a1/mono.m3u8?ip=179.37.234.53&token=a5a1e615d4bb6b13a10b02b57fca94c73e2da0a4-78-1788710982-1788656982
 
 #EXTINF:-1 CUID="188" tvg-name="Fox Sports HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="Deportes",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
