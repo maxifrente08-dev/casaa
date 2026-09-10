@@ -449,9 +449,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/AMCSERIES/40-hls/live-media.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/KY1B1VcV/Logo.png" Group-title="serie", TNT NOVELAS 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/KY1B1VcV/Logo.png" Group-title="serie", TNT NOVELAS* 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TNTNOVELAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNTNOVELAS_stream_rn&_cdn_session=3534425173&_cdn_token=46880975a3954dbff50e91a7e68f60eadcdae495
+http://zapster.trapemn.tv:1935/zapster/TNT_Novelas.stream/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRMT.png?raw=true" Group-title="cocina", EL GOURMET
