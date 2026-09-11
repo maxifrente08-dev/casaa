@@ -239,11 +239,33 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TNTHD.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TNT_SERIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTNT_SERIES_stream_p6&_cdn_session=3534423085&_cdn_token=3872f7a8e2274a2eae6ea166ab111caf571bfc26
 
+#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="Cine y Series" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+http://190.61.43.118:45000/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.ve" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://168.228.44.241:9998/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fx-key/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+
+http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/250px-USA_Network_2020.svg.png" group-title="PELICULAS Y SERIES", USA NETWORK 
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=3537474005&_cdn_token=30c30524b5637719dc61388418ba37736d255ee9
+
+#EXTINF:-1 tvg-id="Golden.co" tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png" group-title="Cine y Series", GOLDEN 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://i.postimg.cc/Y0Q4pc7b/Fondo_Oscuro.png" group-title="Cine y Series",AMC
@@ -303,14 +325,7 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Space.ar" tvg-name="Space HD" tvg-logo="https://i.postimg.cc/MG8GqQQR/Logo_1.png" group-title="Cine y Series", SPACE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-
-http://zapster.trapemn.tv:1935/CD-LATAM/Starchannel.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Ent_Channel_Logo.png", ENT FAMILY 
@@ -323,10 +338,6 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://190.108.80.138:8000/play/a07p/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.ve" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://168.228.44.241:9998/play/a02p/index.m3u8
-
 
 
 
@@ -335,8 +346,7 @@ http://168.228.44.241:9998/play/a02p/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://181.224.255.210:8001/play/a0m8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="USA | USA Network" tvg-name="USA | USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/250px-USA_Network_2020.svg.png" group-title="PELICULAS Y SERIES", USA NETWORK 
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/USA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSA_stream_97&_cdn_session=3537474005&_cdn_token=30c30524b5637719dc61388418ba37736d255ee9
+
 
 
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-name="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",UNIVERSAL TV
@@ -363,11 +373,6 @@ http://168.228.44.241:9998/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-id="USA | Film & Arts" tvg-name="USA | Film & Arts" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/26/FILM%26ARTS_%28Print_White%29.svg/revision/latest/scale-to-width-down/1000?cb=20231023134645" group-title="Cine y series", FILM & ARTS 
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=3547945228&_cdn_token=9ccc44567626c2cdbbb489660336b720016f3b29
-
-
-#EXTINF:-1 tvg-id="Golden.co" tvg-logo="https://i.postimg.cc/KjMgzy0F/Fondo_Oscuro_1.png" group-title="Cine y Series", GOLDEN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.215 Safari/537.36 LG Browser/8.3.0
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/golden.stream/playlist.m3u8
 
 
 
