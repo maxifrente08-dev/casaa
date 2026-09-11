@@ -35,6 +35,9 @@ http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 
+#EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="" group-title="argentina", ARGENTINISIMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://zapster.trapemn.tv:1935/zapster-internet/argentinisima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine" tvg-logo="https://i.postimg.cc/mDHT4mgR/Logo-2.png", CIUDAD MAGAZINE 
 http://zapster.trapemn.tv:1935/zapster-hls/ciudadmagazine.stream/playlist.m3u8
@@ -203,6 +206,11 @@ http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports2/playlist.m3u8
 
 #EXTINF:-1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" tvg-id="FOXSports3.ar" group-title="Deportes",FOX SPORTS 3 
 http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
+
+
+#EXTINF:-1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="" tvg-id="FOXSports3.ar" group-title="Deportes",CLARO SPORTS
+http://zapster.trapemn.tv:1935/Zapster/claro_sports.stream/PLAYLISt.m3u8
+
 
 
 #EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="Garage TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/el-garage-tv-ar.png?raw=true" group-title="Motor",GARAGE TV
