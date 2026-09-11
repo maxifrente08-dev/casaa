@@ -485,11 +485,23 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/DREAMWORKS/40-hls/live-media.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=3534424581&_cdn_token=c07bcf36958cd7a82e8d982411beeacb20b0e363
 
+#EXTINF:-1 tvg-id="PlutoTVDramasCoreanos.us@LatAm",Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDramasCoreanosTeen.us@LatAm",Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
 
 #EXTINF:-1 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1720111155/uja0cmn8jgkhlnaj0ylf.png" Group-title="novela", KANAL D DRAMA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=3547991596&_cdn_token=e287c933ec6e8c906d1c45bd98bc91a777da6b9d
 
+
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us@LatAm",Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us@LatAm",Novelas de México
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeVenezuela.us@LatAm",Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
 
 #EXTINF:-1 tvg-id="Regionales" tvg-name="Univision" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/28/Univision2020.png/revision/latest?cb=20201130233221"  group-title="TV", UNIVISIÓN 
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/UNIVISION/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVISION_stream_ft&_cdn_session=3534490741&_cdn_token=20c6f636730c8f3b3b66653cf481e053dfe208ab
@@ -513,9 +525,6 @@ https://pubads.g.doubleclick.net/ssai/event/8QpjAnHCQQqBxFVRdDQXCA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://200.115.96.61:9090/play/a0jw/index.m3u8
 
-#EXTINF:0 tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169336/gwe0estuudnrotgm0a1t.png" Group-title="cine", A3CINE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
-https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
 
 #EXTINF:-1 tvg-id="NOW80s.uk@Default" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" group-title="⏩MUSICALES|NOW⏪", NOW 80s
 
@@ -559,6 +568,9 @@ https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@LatAm", CINE ESTELAR 
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us@SD", CINE Estrellas de Acción
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCineAccion.us@LatAm", CINE ACCIÓN 
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
