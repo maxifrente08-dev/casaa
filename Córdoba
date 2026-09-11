@@ -88,7 +88,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-name="Terra Mia TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qN-nokWm5anOGG7NF4H3zMdsk2byebWB4UYm5WkbYNPaCw4349sfGBo&s=10" group-title="Música Internacional", TIERRA MIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8?uid=676bf06b14af8a55efbf676b4990cc0d
 
-#EXTINF:0 tvg-chno="140" group-title="INTERÉS GENERAL",NET TV
+#EXTINF:0 tvg-chno="" group-title="INTERÉS GENERAL",NET TV
 #EXTVLCOPT:network-caching=1000
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
