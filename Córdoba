@@ -362,6 +362,17 @@ http://zapster.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=3547945228&_cdn_token=9ccc44567626c2cdbbb489660336b720016f3b29
 
 
+#EXTINF:-1 tvg-id="",Archivos Extraterrestres
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoriasdeUltratumba.us@SD",Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+
+#EXTINF:-1 tvg-id="Misteriossinresolver.us@SD",Misterios
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png", PARAMOUNT+ - COMEDIA
 https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 
@@ -460,9 +471,11 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
 
 
-
 #EXTINF:-1 CUID="244" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
+
+#EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD",El Reino Infantil
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
 
 #EXTINF:-1 tvg-id="DreamWorks.us" tvg-name="DreamWorks HD"  tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/36735087077133.png" group-title="Cine", DREAMWORKS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
