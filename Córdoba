@@ -742,6 +742,9 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="TVPublicaFueguina" tvg-name="TV PÚBLICA FUEGUINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_TV_P%C3%BAblica_Fueguina.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Argentina | Tierra del Fuego",TV PÚBLICA FUEGUINA
+https://nd106.republicaservers.com/hls/c8094/index.m3u8
+
 #EXTINF:-1 tvg-name="Canal 13 La Rioja" group-title="La Rioja", Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
