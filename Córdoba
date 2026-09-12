@@ -57,6 +57,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CNN_ESPANOL/40-hls/live-media
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 http://zapster.trapemn.tv:1935/CD-LATAM/LaNacionPlusHD.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="PERFIL TV" tvg-logo="https://i.ytimg.com/vi/03QzhU12iLA/hqdefault.jpg" group-title="Argentina",PERFIL TV
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8 
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="argentina", EL TRECE 
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36","Referer":"https://www.eltrecetv.com.ar/","Origin":"https://www.eltrecetv.com.ar"}
@@ -218,6 +221,9 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us@LatAm",Velocidad
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RED BULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pa_nyWGYrziSWNIOoJKX5kL05ogmmOqS2bBop-OXuw&s=10" group-title="Deportes",RED BULL TV https://play.redbull.com/main/v1/rbtv/es_ES/ar/personal_computer/http/rrn:content:video-channels:fd4ed3c9-1800-477b-9909-53255da06632.m3u8?device_group=group_5
+ 
 
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us@LatAm",Peleas
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
@@ -558,6 +564,12 @@ http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
 http://srv6.zcast.com.br/unpocoderuido/unpocoderuido/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CumbiaMix" tvg-name="CUMBIA MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Music_icon.svg" group-title="Música",CUMBIA MIX
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8  
+
+#EXTINF:-1 tvg-id="AzaharesRadioMultimedia" tvg-name="AZAHARES RADIO MULTIMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7KjPs65uoQWDbk-B1i9502032ySwTV2oIFuhbkEk1-w&s=10" group-title="Argentina | Nacional",AZAHARES RADIO MULTIMEDIA
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8 
+
 
 #EXTINF:-1 tvg-id="La100.ar" tvg-name="La 100" tvg-logo="https://la100.cienradios.com/wp-content/themes/la100/assets/images/logo.svg" group-title="Radio",LA 100 FM
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8  
@@ -606,6 +618,17 @@ https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCineRomance.us@LatAm",Cine Romance
 https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+
+#EXTINF:-1 tvg-id="XTREMACARTOONS" tvg-name="XTREMA CARTOONS" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA CARTOONS
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="XTREMACINECLASICO" tvg-name="XTREMA CINE CLASICO" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA CINE CLASICO
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+ 
+ #EXTINF:-1 tvg-id="XTREMATERROR" tvg-name="XTREMA TERROR" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA TERROR
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ZNation.us@SD",Z Nation
 https://jmp2.uk/plu-66b3af1c3a4ad200081c7d03.m3u8
@@ -664,6 +687,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?Playl
 #EXTINF:-1 tvg-name="Urbana Más" group-title="Buenos Aires", Urbana Más
 https://stmv1.voxtvhd.com.br/urbanamas/urbanamas/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="AlternaTV" tvg-name="ALTERNA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27PXoGgp57tKX3wNaEQLff_tEYMbFBR_G78db7dfFbg&s=10" group-title="Argentina | Nacional",ALTERNA TV
+https://tv.alterna.ar/stream/hls/live.m3u8
+
 
 #EXTINF:-1 tvg-name="Canal 5 Rosario" group-title="Santa Fe", Canal 5 Rosario
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
@@ -673,6 +699,15 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-name="Aire de Santa Fe" group-title="Santa Fe", Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cadena103" tvg-name="CADENA 103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6iFE_-WeUuKjhXxNGvIs8mKb-Y312gAAkHol6BOm-w&s=10" group-title="Argentina | Nacional",CADENA 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="CableImagenArmstrong" tvg-name="CABLE IMAGEN ARMSTRONG" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Argentina | Santa Fe",CABLE IMAGEN ARMSTRONG
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8 
+ 
+#EXTINF:-1 tvg-id="BVC" tvg-name="BVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSvi0_iPJZ2atRDXWVMSTZhlPav48pVqw2r5VOAZdgQ&s=10" group-title="Argentina | Nacional",BVC 
+HTTPS://VIVO.SOLUMEDIA.COM:19360/BVNET/BVNET.M3U8
 
 
 #EXTINF:-1 tvg-name="Catamarca TV" group-title="Catamarca", Catamarca TV
@@ -721,6 +756,8 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-name="El 11 Salta" group-title="Salta", El 11 Salta
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="TIVTelevision" tvg-name="TIV TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dUxXoFpTHZAPK1LuKst9hOiVRLOEFY_-BPrkxW-HJQ&s=10" group-title="Argentina | Nacional",TIV TELEVISION
+https://videohd.live:19360/8008/8008.m3u8
 
 #EXTINF:-1 tvg-name="Canal 8 San Juan" group-title="San Juan", Canal 8 San Juan
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
@@ -736,10 +773,8 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-name="Canal 13 San Luis" group-title="San Luis", Canal 13 San Luis
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
-
 #EXTINF:-1 tvg-name="Canal 7 Santiago del Estero" group-title="Santiago del Estero", Canal 7 Santiago del Estero
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="Retro Plus TV" group-title="Chile", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
