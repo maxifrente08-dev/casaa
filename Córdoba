@@ -222,8 +222,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us@LatAm",Velocidad
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RED BULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pa_nyWGYrziSWNIOoJKX5kL05ogmmOqS2bBop-OXuw&s=10" group-title="Deportes",RED BULL TV*
-https://play.redbull.com/streams/v1/rbtv/mxmor/m/video/1280x720.m3u8
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RED BULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pa_nyWGYrziSWNIOoJKX5kL05ogmmOqS2bBop-OXuw&s=10" group-title="Deportes",RED BULL TV
+https://play.redbull.com/streams/v1/stv/sports_de/fmp4/master.m3u8
 
  
 
