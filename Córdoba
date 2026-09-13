@@ -222,15 +222,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us@LatAm",Velocidad
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RED BULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pa_nyWGYrziSWNIOoJKX5kL05ogmmOqS2bBop-OXuw&s=10" group-title="Deportes",RED BULL TV
-https://play.redbull.com/streams/v1/stv/sports_de/fmp4/master.m3u8
-
-#EXTINF:-1 tvg-id="redbulltv" tvg-name="World of Redbull" tvg-logo="https://logo.laobaitv.net/redbulltv" group-title="体育",World of Redbull
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="RED BULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pa_nyWGYrziSWNIOoJKX5kL05ogmmOqS2bBop-OXuw&s=10" group-title="Deportes",RED BULL Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="redbullwinter" tvg-name="Redbull TV Winter" tvg-logo="https://logo.laobaitv.net/redbulltv" group-title="体育",Redbull Winter
-https://play.redbull.com/main/v1/rbtv/en_US/cn/personal_computer/http/rrn:content:video-channels:f4aa4fe4-5ce6-4b1c-a60b-abc6f21f16d0.m3u8?device_group=group_5
-#EXTINF:-1 tvg-id="redbullactionreel" tvg-name="Redbull TV Action Reel" tvg-logo="https://logo.laobaitv.net/redbulltv" group-title="体育",Redbull Action Reel
-https://play.redbull.com/main/v1/rbtv/en_US/cn/personal_computer/http/rrn:content:video-channels:69a66f02-21fd-42a1-be5b-6965541cfe6a.m3u8?device_group=group_5
 
 
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us@LatAm",Peleas
