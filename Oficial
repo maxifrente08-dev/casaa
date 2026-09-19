@@ -383,7 +383,7 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knw
 
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel HD" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png" group-title="Cine y Series", SONY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-http://38.210.3.64:8090/play/a0it/index.m3u8?hls
+http://181.209.38.115:8000/play/a016/index.m3u8
 
 
 
