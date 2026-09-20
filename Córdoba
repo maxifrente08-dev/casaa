@@ -38,9 +38,7 @@ https://amg00556-nbafastchannel-xumo.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://ciades.providers.com.ar/DISCOVERY_KIDS/tracks-v1/seg-1789193037-925214.m4v?token=Sf72kl98hw16kx40vb32qu63%C3%B1z61th25&t=665908285
 
-#EXTINF:-1 tvg-name="TyC Sports / Free Live Sports", TyC Sports / Free Live Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="My Cloud Stream", My Cloud Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -184,10 +182,10 @@ http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="Deportes", TYC SPORTS
 http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg" group-title="Deportes", TYC SPORTS opc2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#EXTVLCOPT:http-referrer=https://play.tycsports.com/
-https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8
+
+#EXTINF:-1 tvg-name="TyC Sports / Free Live Sports", TyC Sports / Free Live Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
