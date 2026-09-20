@@ -1,45 +1,26 @@
-
-
-#EXTINF:-1 tvg-name="Rakuten TV / Hola Play", Rakuten TV / Hola Play
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/aa29bd3e-0471-47d8-b694-d4e6f14a35a8/5.m3u8
-
-#EXTINF:-1 tvg-name="Canal Mediatailor 2", Canal Mediatailor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/ae8d7fd0-b2eb-4b47-8f25-ce8f01d63556/5.m3u8
-
-
-
 #EXTINF:-1 tvg-name="Amazon Nitro Segment 1", Amazon Nitro Segment 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/qhi3aitwuj/out/v1/188aaa2e1fce4dfa809d22d690795df5/cenc_video_12_0_38116759.mp4?m=1713364762
 
 
-#EXTINF:-1 tvg-name="Discovery Kids (Segmento)", Discovery Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Discovery Kid", Discovery Kids
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://ciades.providers.com.ar/DISCOVERY_KIDS/tracks-v1/seg-1789193037-925214.m4v?token=Sf72kl98hw16kx40vb32qu63%C3%B1z61th25&t=665908285
 
 
 
 #EXTINF:-1 tvg-name="Amazon Nitro Segment 2", Amazon Nitro Segment 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc_video_6_0_8038873.mp4?m=1772622555
 
 
 #EXTINF:-1 tvg-name="Amazon Nitro Segment 4", Amazon Nitro Segment 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc_video_5_0_38114515.mp4?m=1713364632
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1  tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/BbwCJ6zd/Telemax.png" group-title="Variedades", TELEMAX 
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.ibb.co/tT42fk7G/a24logo.png" group-title="argentina",A24
