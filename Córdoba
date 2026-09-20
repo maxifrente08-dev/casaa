@@ -1,20 +1,20 @@
-#EXTINF:-1 tvg-name="Amazon Nitro Segment 1", Amazon Nitro Segment 1
+#EXTINF:0 tvg-name="Amazon Nitro Segment 1", Amazon Nitro Segment 1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/qhi3aitwuj/out/v1/188aaa2e1fce4dfa809d22d690795df5/cenc_video_12_0_38116759.mp4?m=1713364762
 
 
-#EXTINF:-1 tvg-name="Discovery Kid", Discovery Kids
+#EXTINF:0 tvg-name="Discovery Kid", Discovery Kids
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://ciades.providers.com.ar/DISCOVERY_KIDS/tracks-v1/seg-1789193037-925214.m4v?token=Sf72kl98hw16kx40vb32qu63%C3%B1z61th25&t=665908285
 
 
 
-#EXTINF:-1 tvg-name="Amazon Nitro Segment 2", Amazon Nitro Segment 2
+#EXTINF:0 tvg-name="Amazon Nitro Segment 2", Amazon Nitro Segment 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc_video_6_0_8038873.mp4?m=1772622555
 
 
-#EXTINF:-1 tvg-name="Amazon Nitro Segment 4", Amazon Nitro Segment 4
+#EXTINF:0 tvg-name="Amazon Nitro Segment 4", Amazon Nitro Segment 4
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc_video_5_0_38114515.mp4?m=1713364632
 
@@ -417,7 +417,7 @@ http://zapster.trapemn.tv:1935/Zapster/Comedi_Central.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Film & Arts" tvg-name="USA | Film & Arts" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/2/26/FILM%26ARTS_%28Print_White%29.svg/revision/latest/scale-to-width-down/1000?cb=20231023134645" group-title="Cine y series", FILM & ARTS 
 http://cdn5.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=3547945228&_cdn_token=9ccc44567626c2cdbbb489660336b720016f3b29
 
-#EXTINF:-1 tvg-name="Canal Mediatailor 1", Canal Mediatailor 1
+#EXTINF:-1 tvg-name="Canal Mediatailor 1", rekuten tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
