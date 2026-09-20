@@ -1,4 +1,23 @@
+
 #EXTM3U
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 1", Amazon Nitro Segment 1
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/qhi3aitwuj/out/v1/188aaa2e1fce4dfa809d22d690795df5/cenc_video_12_0_38116759.mp4?m=1713364762
+
+#EXTINF:-1 tvg-name="Discovery Kids", Discovery Kids
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+https://ciades.providers.com.ar/DISCOVERY_KIDS/tracks-v1/seg-1789193037-925214.m4v?token=Sf72kl98hw16kx40vb32qu63%C3%B1z61th25&t=665908285
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 2", Amazon Nitro Segment 2
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc_video_6_0_8038873.mp4?m=1772622555
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 4", Amazon Nitro Segment 4
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc_video_5_0_38114515.mp4?m=1713364632
+
+
 
 #EXTINF:-1 tvg-name="Amazon Nitro Segment 1", Amazon Nitro Segment 1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
