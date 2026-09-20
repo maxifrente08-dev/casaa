@@ -1,3 +1,72 @@
+#EXTINF:-1 tvg-name="Caras TV", Caras TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal Mediatailor 1", Canal Mediatailor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 tvg-name="Rakuten TV / Hola Play", Rakuten TV / Hola Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/aa29bd3e-0471-47d8-b694-d4e6f14a35a8/5.m3u8
+
+#EXTINF:-1 tvg-name="Canal Mediatailor 2", Canal Mediatailor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/ae8d7fd0-b2eb-4b47-8f25-ce8f01d63556/5.m3u8
+
+#EXTINF:-1 tvg-name="Cine Familiar", Cine Familiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine Hispano", Cine Hispano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinehispano.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cine Premium", Cine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinepremium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 1", Amazon Nitro Segment 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/qhi3aitwuj/out/v1/188aaa2e1fce4dfa809d22d690795df5/cenc_video_12_0_38116759.mp4?m=1713364762
+
+#EXTINF:-1 tvg-name="NBA Fast Channel", NBA Fast Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://amg00556-nbafastchannel-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Kids (Segmento)", Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://ciades.providers.com.ar/DISCOVERY_KIDS/tracks-v1/seg-1789193037-925214.m4v?token=Sf72kl98hw16kx40vb32qu63%C3%B1z61th25&t=665908285
+
+#EXTINF:-1 tvg-name="TyC Sports / Free Live Sports", TyC Sports / Free Live Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-name="My Cloud Stream", My Cloud Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 2", Amazon Nitro Segment 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc_video_6_0_8038873.mp4?m=1772622555
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 3", Amazon Nitro Segment 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc_video_6_0_8031800.mp4?m=1771592298
+
+#EXTINF:-1 tvg-name="Amazon Nitro Segment 4", Amazon Nitro Segment 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc_video_5_0_38114515.mp4?m=1713364632
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/BbwCJ6zd/Telemax.png" group-title="Variedades", TELEMAX 
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8?PlaylistM3UCL
 
