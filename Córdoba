@@ -275,6 +275,10 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us@LatAm",Velocidad
 https://jmp2.uk/plu-5dd6dc7480e3550009133d4a.m3u8
 
+#EXTINF:-1 tvg-name="NBA Fast Channel", NBA Fast Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://amg00556-nbafastchannel-xumo.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RedBullTV" tvg-name="RED BULL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pa_nyWGYrziSWNIOoJKX5kL05ogmmOqS2bBop-OXuw&s=10" group-title="Deportes",RED BULL Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
@@ -621,6 +625,11 @@ http://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8#t=0.1
+
+#EXTINF:-1 tvg-name="My Cloud Stream", My Cloud Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/killxd26/Ote/refs/heads/main/logo/unpocoderuido.png" group-title="CCC", UN POCO DE RUIDO
 #KODIPROP:inputstream.adaptive.stream_headers=Origin="[https://portal.app.flow.com.ar]https://portal.app.flow.com.ar"&User-Agent="Mozilla/5.0 (Linux; Android 10; SM-G973F AppleWebKit/537.36 KHTML, like Gecko Chrome/120.0.0.0 Mobile Safari/537.36)"&x-flow-origin="Android"
