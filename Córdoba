@@ -272,10 +272,10 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-66ccac69fdf9cd3a568ef135.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=dHYy65fboxaJFhtV-4bE&auto=0
 
 #EXTINF:-1 tvg-name="Canal de Tenis 1", Canal de Tenis 1
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6a90b2b5c0870218305e909b/variant.m3u8?x-plex-token=dHYy65fboxaJFhtV-4bE&x-plex-advertising-identifier=&x-plex-client-identifier=c350e27f-5dfd-4b3e-a8a2-8b3efd34d281&x-plex-playback-id=p_f069eedb-68fb-46c7-a23b-db4f33a57f11&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Opera&x-plex-platform-version=136.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1790470035&auto=0&url=8bf0b050f8f654f0a2bdcaf5d6459f7f-e62be88d51bed9f142e1db0fac0e67c555621dadd0ea432aee627faa93d37e107633f13dc80c6d607897b1e1ad25bb6bdac259b126146632c9b5f20f86bd8a9b74bbe1c1e254c49b0fe176597bae077e9e2344abe3dad71e793512373ad98890b2e8befe3b52c404262d67ab1d907b1374520360cd70a08c30ff77c790279c2f7099ebfb29fb58feebb9d75353d79b281ac8f9ee4a6b7b9b9e59aae72595c130f76945f516b9e3b9d67152f36e6d18f24e8db73cde36a955e080acf896c1e966
 
-#EXTINF:-1 tvg-name="Canal de Tenis 2", Canal de Tenis 2
+#EXTINF:-1 tvg-name="Canal de Tenis 2", Canal de Tenis 
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=dHYy65fboxaJFhtV-4bE&auto=0
 
