@@ -336,7 +336,7 @@ http://38.52.208.106:8000/play/a00l/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="Cine y Series",HBO +
-http://190.60.37.115:8001/play/a0nv/index.m3u8?hls
+http://45.5.117.46:8000/play/a0l4/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/q775tmnF/HBO_POP.png" group-title="Cine y Series",HBO POP
