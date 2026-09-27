@@ -323,7 +323,7 @@ http://190.61.43.118:45000/play/a07b/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.ve" tvg-name="CANAL VE" tvg-logo="https://i.postimg.cc/kXrk53s4/Logo-1.png" group-title="Variedades",DHE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://168.228.44.241:9998/play/a02p/index.m3u8
+http://45.5.117.46:8000/play/a0gy/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png"  group-title="Cine y Series",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
