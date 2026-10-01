@@ -280,6 +280,9 @@ https://cdn5.eco.cdn.moderntv.eu/econocable/stream/CARTOONITO/40-hls/live-media.
 http://zapster.trapemn.tv:1935/zapster-hls/PakaPaka.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="AR | Plim Plim TV" tvg-name="AR | Plim Plim TV" tvg-logo="https://static.wikia.nocookie.net/plim-plim-tv/images/4/4b/Large.ElCanaldelPayasoPlimPlim%282023-%29.png.86c6cbf2fc741312e0c244f84eec14e6.png/revision/latest/scale-to-width-down/276?cb=20250906030459" group-title="INFANTILES", Plim Plim TV
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PLIMPLIM/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPLIMPLIM_stream_63&_cdn_session=3548004412&_cdn_token=6b1997c94aaae5a3cc0a2bcd97297b0eb1ccccc6
+
 
 #EXTINF:-1 CUID="244" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" tvg-id="Tooncast.ar" group-title="Infantil",TOONCAST
 https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TOONCAST/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTOONCAST_stream_ot&_cdn_session=3534428069&_cdn_token=df2a716a2d33c126691bc75d0f7c7af2d3be5839
