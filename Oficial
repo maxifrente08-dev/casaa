@@ -90,13 +90,13 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes" ,ESPN PREMIUM opc2
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
-http://181.209.38.115:8000/play/a00f/index.m3u8?hls
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS 
 #HTTP-REFERER=https://zapster.trapemn.tv/
-#HTTP-ORIGIN=https://zapster.trapemn.tv
+#HTTP-ORIGIN=https://zapster.trapemn.tv 
 http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
 
 
@@ -105,7 +105,7 @@ http://zapster.trapemn.tv:1935/CD-LATAM/TNT_SPORTS/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 
- 
+
 
 
 
@@ -129,13 +129,17 @@ http://zapster.trapemn.tv:1935/CD-LATAM/ESPNHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn2.png", ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn2-mux/playlist.m3u8
 
+EXTINF:-1 tvg-id="ESPN2" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn2.png", ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN2.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="Deportes" tvg-logo="https://logo.m3uassets.com/espn3.png",  ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://zapster.trapemn.tv:1935/CD-LATAM/espn3.stream/playlist.m3u8
+http://zapster.trapemn.tv:1935/zapster-hls/ESPN3.stream/playlist.m3u8
+
 
 
 
@@ -148,33 +152,32 @@ http://zapster.trapemn.tv:1935/zapster-hls/ESPN4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Deportes" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png", ESPN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN5/40-ll-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN5_stream_t7&_cdn_session=3534411813&_cdn_token=e90396c923b38a788fe7cdbfadd84c1e077110dc
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn5-mux/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN 6" group-title="Deportes" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png", ESPN 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN6/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN6_stream_0n&_cdn_session=3534412037&_cdn_token=838a4c3501f854001a1b2a14cd50ec8a07f2121f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn6-mux/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESPN 7" group-title="Deportes" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png", ESPN 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://cdn5.eco.cdn.moderntv.eu/econocable/stream/ESPN7/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN7_stream_hu&_cdn_session=3534412477&_cdn_token=f1651ec4d9fe391d3c2fb7239c904ce251c247fa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn7-mux/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESPN.cl" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG", ESPN EXTRA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://201.240.104.137:8000/play/a0av/index.m3u8
- 
+http://216.155.91.47:8000/play/a0r6/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png", ESPN PLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://181.78.211.244:8005/play/a0b5/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8
 
 EXTINF:-1 tvg-id="ESPN 2 A" group-title="Deportes" tvg-logo="", DISNEY F1 PRUEBA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
