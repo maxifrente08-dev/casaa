@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1  tvg-id="Telemax.ar" tvg-logo="https://i.postimg.cc/BbwCJ6zd/Telemax.png" group-title="Variedades", TELEMAX 
@@ -31,7 +30,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/1239356307477.png" group-title="Interés General", ENCUENTRO
+#EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Canal_encuentro_2020.png" group-title="Interés General", ENCUENTRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
 
@@ -125,7 +124,7 @@ http://zapster.trapemn.tv:1935/zapster/dsports2/playlist.m3u8
 http://zapster.trapemn.tv:1935/Zapster-hls/TyC_Sports/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg", TyC Sports / Free Live Sports
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2024/08/tyc.jpg", TYC SPORTS FAN  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
@@ -134,8 +133,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 http://zapster.trapemn.tv:1935/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
 
 #EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="Deportes",ESPN PREMIUM opc2
-http://181.209.38.115:8000/play/a00f/index.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
 
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Deportes", TNT SPORTS
@@ -149,7 +148,7 @@ http://zapster.trapemn.tv:1935/zapster/TNT_Sports.stream/playlist.m3u8
 
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 
-http://bantel-cdn3.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 
 
 #EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN opc2
@@ -209,16 +208,16 @@ http://181.78.211.244:8005/play/a0b5/index.m3u8
  
 
 
-#EXTINF:-1 CUID="188" tvg-name="Fox Sports HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/5772683307979.png" group-title="Deportes",FOX SPORTS
+#EXTINF:-1 CUID="188" tvg-name="Fox Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports1/playlist.m3u8
 
 
-#EXTINF:-1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/68625850072785.png" group-title="Deportes",FOX SPORTS 2
+#EXTINF:-1 CUID="188" tvg-name="Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; Samsung; LGNetCast.TV; LG Smart TV)
 http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports2/playlist.m3u8
 
-#EXTINF:-1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/33795984072366.png" tvg-id="FOXSports3.ar" group-title="Deportes",FOX SPORTS 3 
+#EXTINF:-1 CUID="189" tvg-name="Fox Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="FOXSports3.ar" group-title="Deportes",FOX SPORTS 3 
 http://zapster.trapemn.tv:1935/CD-LATAM/FoxSports3/playlist.m3u8
 
 
