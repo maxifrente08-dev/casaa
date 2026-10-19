@@ -808,15 +808,18 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 
 
 #EXTINF:-1 tvg-name="Canal 5 Rosario" group-title="Santa Fe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 5 ROSARIO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="El 3 Rosario" group-title="Santa Fe" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/1280px-Eltres_RGB-grad_%28positivo%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail", EL 3 ROSARIO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 5 Santa Fe" group-title="Santa Fe" tvg-logo="https://play-lh.googleusercontent.com/8co0RLKjtRwKD5ZJ-brlUdM_1jqVYP2KECCgK_DbzSwVv-d-jgxlv-_z4ODOQl1AZsqcMZc_dDgYz4G7MPBvXw", CANAL 5 SANTA FE 
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aire de Santa Fe" group-title="Santa Fe" tvg-logo="https://defensadelpublico.gob.ar/wp-content/uploads/2018/01/airelibre.jpg", AIRE DE SANTA FE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster/airelibre_rosario.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cadena103" tvg-name="CADENA 103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6iFE_-WeUuKjhXxNGvIs8mKb-Y312gAAkHol6BOm-w&s=10" group-title="Argentina | Nacional",CADENA 103
@@ -874,8 +877,9 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-name="Misiones Cuatro" group-title="Misiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Misiones_Cuatro_%28Logo_2023%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", MISIONES CUATRO 
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 2 Misiones" group-title="Misiones"https://upload.wikimedia.org/wikipedia/commons/5/52/Canal_2_Posadas_%28Logo_2022%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 2 MISIONES 
+#EXTINF:-1 tvg-name="Canal 2 Misiones" group-title="Misiones" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Canal_2_Posadas_%28Logo_2022%29.png", CANAL 2 MISIONES 
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="Canal 7 Salta" group-title="Salta" tvg-logo="https://play-lh.googleusercontent.com/wqC28g5axDfQhkUhcALzgqvyF8bCwyCr06knFxa0FS0d0zy5lQG_9uC_ZQu-HJ-f9oXdFr4QJjGPZAUscuEwSQ", CANAL 7 SALTA 
