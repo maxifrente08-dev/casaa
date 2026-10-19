@@ -816,7 +816,7 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 Santa Fe" group-title="Santa Fe" tvg-logo="https://play-lh.googleusercontent.com/8co0RLKjtRwKD5ZJ-brlUdM_1jqVYP2KECCgK_DbzSwVv-d-jgxlv-_z4ODOQl1AZsqcMZc_dDgYz4G7MPBvXw", CANAL 5 SANTA FE 
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Aire de Santa Fe" group-title="Santa Fe" tvg-logo=", AIRE DE SANTA FE 
+#EXTINF:-1 tvg-name="Aire de Santa Fe" group-title="Santa Fe" tvg-logo="https://defensadelpublico.gob.ar/wp-content/uploads/2018/01/airelibre.jpg", AIRE DE SANTA FE 
 http://zapster.trapemn.tv:1935/zapster/airelibre_rosario.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cadena103" tvg-name="CADENA 103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6iFE_-WeUuKjhXxNGvIs8mKb-Y312gAAkHol6BOm-w&s=10" group-title="Argentina | Nacional",CADENA 103
@@ -825,87 +825,88 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1 tvg-id="CableImagenArmstrong" tvg-name="CABLE IMAGEN ARMSTRONG" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Argentina | Santa Fe",CABLE IMAGEN ARMSTRONG
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8 
  
-#EXTINF:-1 tvg-id="BVC" tvg-name="BVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSvi0_iPJZ2atRDXWVMSTZhlPav48pVqw2r5VOAZdgQ&s=10" group-title="Argentina | Nacional",BVC 
-HTTPS://VIVO.SOLUMEDIA.COM:19360/BVNET/BVNET.M3U8
+EXTINF:-1 tvg-id="BVC" tvg-name="BVC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSvi0_iPJZ2atRDXWVMSTZhlPav48pVqw2r5VOAZdgQ&s=10" group-title="Argentina | Nacional",BVC 
+https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 
 
-#EXTINF:-1 tvg-name="Catamarca TV" group-title="Catamarca" tvg-logo=", CATAMARCA TV
+#EXTINF:-1 tvg-name="Catamarca TV" group-title="Catamarca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Catamarca_Radio_y_Televisi%C3%B3n.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CATAMARCA TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
 
-#EXTINF:-1 tvg-name="Chaco TV" group-title="Chaco" tvg-logo=", CHACO TV
+EXTINF:-1 tvg-name="Chaco TV" group-title="Chaco" tvg-logo=", CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Telenord Corrientes" group-title="Corrientes" tvg-logo=", TELENORD CORRIENTES 
+EXTINF:-1 tvg-name="Telenord Corrientes" group-title="Corrientes" tvg-logo=", TELENORD CORRIENTES 
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Corrientes TV" group-title="Corrientes" tvg-logo=", Corrientes TV
+#EXTINF:-1 tvg-name="Corrientes TV" group-title="Corrientes" tvg-logo="https://play-lh.googleusercontent.com/YaUFuwSqIvP0VrSdEbnoZzjHYXj5S0vmYiJUpP5MSQ7l2xEz2F-xAhcPHvyc_e6STfaDRX92UpeJHgTpHmoorQ=w526-h296-rw", CORRIENTES TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 
-#EXTINF:-1 tvg-name="5TV Corrientes" group-title="Corrientes" tvg-logo=", 5TV CORRIENTES 
+#EXTINF:-1 tvg-name="5TV Corrientes" group-title="Corrientes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6Sb6x72TgEEcgCZqw7td08mXB41TF9p3ly0Y1lhdKH-xi_hPnd9cbz4&s=10", 5TV CORRIENTES 
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Canal 3 Formosa" group-title="Formosa" tvg-logo=", CANAL 3 FORMOSA 
+#EXTINF:-1 tvg-name="Canal 3 Formosa" group-title="Formosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6CEcTy5GPHVBQFtxR6BsL7T1EMgWU97qkYiNOmIjN8LXFKYr3E_TyQwd&s=10", CANAL 3 FORMOSA 
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Canal 7 Jujuy" group-title="Jujuy" tvg-logo=", CANAL 7 JUJUY 
+#EXTINF:-1 tvg-name="Canal 7 Jujuy" group-title="Jujuy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canal_Siete_Jujuy_%28Logo_2026%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 7 JUJUY 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 4 Jujuy" group-title="Jujuy" tvg-logo=", CANAL 4 JUJUY 
+EXTINF:-1 tvg-name="Canal 4 Jujuy" group-title="Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EAM41_qe5V5QBy6ebUp8ICaqwnAjO9nE3SkJDX3EtMt_nP8nPGz3PZ0&s=10", CANAL 4 JUJUY 
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 13 Jujuy TV" group-title="Jujuy" tvg-logo=", CANAL 13 JUJUY TV
+#EXTINF:-1 tvg-name="Canal 13 Jujuy TV" group-title="Jujuy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EAM41_qe5V5QBy6ebUp8ICaqwnAjO9nE3SkJDX3EtMt_nP8nPGz3PZ0&s=10", CANAL 13 JUJUY TV
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
-#EXTINF:-1 tvg-name="Canal 3 La Pampa" group-title="La Pampa" tvg-logo=", CANAL 3 LA PAMPA 
+#EXTINF:-1 tvg-name="Canal 3 La Pampa" group-title="La Pampa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/800px-Canal_3_Santa_Rosa_%28Logo_2016%29.png/revision/latest?cb=20210526012521&path-prefix=es", CANAL 3 LA PAMPA 
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVPublicaFueguina" tvg-name="TV PÚBLICA FUEGUINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_TV_P%C3%BAblica_Fueguina.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Argentina | Tierra del Fuego",TV PÚBLICA FUEGUINA
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 13 La Rioja" group-title="La Rioja" tvg-logo=", CANAL 13 LA RIOJA 
+#EXTINF:-1 tvg-name="Canal 13 La Rioja" group-title="La Rioja" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/C13_logo_2020.png/revision/latest?cb=20210526010959&path-prefix=es", CANAL 13 LA RIOJA 
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Misiones Cuatro" group-title="Misiones" tvg-logo=", MISIONES CUATRO 
+#EXTINF:-1 tvg-name="Misiones Cuatro" group-title="Misiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Misiones_Cuatro_%28Logo_2023%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", MISIONES CUATRO 
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 2 Misiones" group-title="Misiones", CANAL 2 MISIONES 
+
+#EXTINF:-1 tvg-name="Canal 2 Misiones" group-title="Misiones"https://upload.wikimedia.org/wikipedia/commons/5/52/Canal_2_Posadas_%28Logo_2022%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 2 MISIONES 
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Canal 7 Salta" group-title="Salta" tvg-logo=", CANAL 7 SALTA 
+#EXTINF:-1 tvg-name="Canal 7 Salta" group-title="Salta" tvg-logo="https://play-lh.googleusercontent.com/wqC28g5axDfQhkUhcALzgqvyF8bCwyCr06knFxa0FS0d0zy5lQG_9uC_ZQu-HJ-f9oXdFr4QJjGPZAUscuEwSQ", CANAL 7 SALTA 
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
-#EXTINF:-1 tvg-name="El 11 Salta" group-title="Salta" tvg-logo=", EL 11 SALTA 
+#EXTINF:-1 tvg-name="El 11 Salta" group-title="Salta" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_11_Salta.jpeg/250px-Canal_11_Salta.jpeg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", EL 11 SALTA 
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TIVTelevision" tvg-name="TIV TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dUxXoFpTHZAPK1LuKst9hOiVRLOEFY_-BPrkxW-HJQ&s=10" group-title="Argentina | Nacional",TIV TELEVISION
 https://videohd.live:19360/8008/8008.m3u8
 
-#EXTINF:-1 tvg-name="Canal 8 San Juan" group-title="San Juan" tvg-logo=", CANAL 8 SAN JUAN 
+#EXTINF:-1 tvg-name="Canal 8 San Juan" group-title="San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 8 SAN JUAN 
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canal 4 San Juan" group-title="San Juan" tvg-logo=", CANAL 4 SAN JUAN 
+#EXTINF:-1 tvg-name="Canal 4 San Juan" group-title="San Juan" tvg-logo="https://yt3.googleusercontent.com/vji1NUb08pDU3hQo-izXmJie8yOWmBxmontb0sLBMxbFJyA5lInJH3gX1D3jYhshqY2SyJABzQ=s900-c-k-c0x00ffffff-no-rj", CANAL 4 SAN JUAN 
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cosmos TV" group-title="San Juan" tvg-logo=", COSMOS TV
+#EXTINF:-1 tvg-name="Cosmos TV" group-title="San Juan" tvg-logo="https://static-media.streema.com/media/cache/69/97/6997013b3a318f51319bf58a5b93efa7.jpg", COSMOS TV
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-name="San Luis +" group-title="San Luis" tvg-logo=", SAN LUIS +
+EXTINF:-1 tvg-name="San Luis +" group-title="San Luis" tvg-logo=", SAN LUIS +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 tvg-name="Canal 13 San Luis" group-title="San Luis" tvg-logo=", CANAL 13 SAN LUIS 
+EXTINF:-1 tvg-name="Canal 13 San Luis" group-title="San Luis" tvg-logo=", CANAL 13 SAN LUIS 
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 tvg-name="Canal 7 Santiago del Estero" group-title="Santiago del Estero" tvg-logo=", CANAL 7 SANTIAGO DEL ESTERO 
+#EXTINF:-1 tvg-name="Canal 7 Santiago del Estero" group-title="Santiago del Estero" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Canal_7_Santiago_del_Estero_%28Logo_2000%29.png/revision/latest?cb=20210525204404&path-prefix=es", CANAL 7 SANTIAGO DEL ESTERO 
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Retro Plus TV" group-title="Chile" tvg-logo=", RETRO PLUS TV
+EXTINF:-1 tvg-name="Retro Plus TV" group-title="Chile" tvg-logo=", RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 
