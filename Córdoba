@@ -38,7 +38,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/Zapster/Canal9.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="ARGENTINISIMA" CUID="16" tvg-logo="https://image.roku.com/developer_channels/prod/ff4d9d408680e266c5a2fc72124e83107f5fc4b0cf31bd37fd81d224606661fe.png" group-title="argentina", ARGENTINISIMA
+#EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="ARGENTINISIMA" CUID="16" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7N2d7gB4yC7fyXUe6lqqD6rEVL7-0OprZ0EvCewElz1wniBTnnyteonTX&s=10" group-title="argentina", ARGENTINISIMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://zapster.trapemn.tv:1935/zapster-internet/argentinisima/playlist.m3u8
 
