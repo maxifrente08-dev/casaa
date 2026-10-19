@@ -235,7 +235,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-66ccac69fdf9cd3a568ef135.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=dHYy65fboxaJFhtV-4bE&auto=0
 
 
-#EXTINF:-1 tvg-name="Canal de Tenis 2", CANAL DE TENIS
+#EXTINF:-1 tvg-name="Canal de Tenis 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1lsFGkrGmv2Nbj9iCN7UHZ78EwZhJweVpg&s", CANAL DE TENIS
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us)
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-6761f91555e174e95ccc4e4c.m3u8?includeAllStreams=1&x-plex-product=Plex+Mediaverse&x-plex-token=dHYy65fboxaJFhtV-4bE&auto=0
 
