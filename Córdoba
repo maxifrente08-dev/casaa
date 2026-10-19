@@ -817,7 +817,7 @@ http://zapster.trapemn.tv:1935/zapster/El3HD.stream/playlist.m3u8
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aire de Santa Fe" group-title="Santa Fe" tvg-logo=", AIRE DE SANTA FE 
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+http://zapster.trapemn.tv:1935/zapster/airelibre_rosario.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cadena103" tvg-name="CADENA 103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6iFE_-WeUuKjhXxNGvIs8mKb-Y312gAAkHol6BOm-w&s=10" group-title="Argentina | Nacional",CADENA 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
