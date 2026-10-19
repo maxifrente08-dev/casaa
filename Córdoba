@@ -30,7 +30,7 @@ http://zapster.trapemn.tv:1935/zapster-hls/InformacionPeriodistica.stream/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://es.wikipedia.org/wiki/Archivo:Canal_encuentro_2020.png" group-title="Interés General", ENCUENTRO
+#EXTINF:-1 tvg-id="Encuentro.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Interés General", ENCUENTRO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://zapster.trapemn.tv:1935/zapster-hls/encuentro.stream/playlist.m3u8
 
