@@ -903,7 +903,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 4 San Juan" group-title="San Juan" tvg-logo="https://yt3.googleusercontent.com/vji1NUb08pDU3hQo-izXmJie8yOWmBxmontb0sLBMxbFJyA5lInJH3gX1D3jYhshqY2SyJABzQ=s900-c-k-c0x00ffffff-no-rj", CANAL 4 SAN JUAN 
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cosmos TV" group-title="San Juan" tvg-logo="https://static-media.streema.com/media/cache/69/97/6997013b3a318f51319bf58a5b93efa7.jpg", COSMOS TV
+EXTINF:-1 tvg-name="Cosmos TV" group-title="San Juan" tvg-logo="https://static-media.streema.com/media/cache/69/97/6997013b3a318f51319bf58a5b93efa7.jpg", COSMOS TV
 https://canaletaplus.com:3922/hybrid/play.m3u8
 
 
