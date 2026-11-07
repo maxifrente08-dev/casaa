@@ -1,22 +1,12 @@
 
-#EXTINF:-1 tvg-name="VS SPORTS" tvg-logo="https://i.ibb.co/CpxTmNvM/vs-sports.png" group-title="🏆 EVENTOS PY",eldoce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1794060072/ei/yNruapuRLYTq1AGq0-lQ/ip/2803:9800:900f:b8dc:b151:275b:7d61:20ed/id/nndzeKDSjuc.2/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-ja5gv5g-5x2e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AZFAFb-472-Q7IA92Bgq7Ape1KSQq54-ypMUJP2Mz8mLafDYf--mOXgr3dSEC2NimIgbNQukPHCVNvO2/spc/mpRQ_xWJ3HeBgFFEvNYQZi7dtYxzthY-ypAvG-EosTNtwjh0EOmSDYCoFpz5/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1709500/met/1794038473,/mh/6s/mm/44/mn/sn-ja5gv5g-5x2e/ms/lva/mv/m/mvi/3/pl/48/rms/lva,lva/dover/13/pacing/0/epbp/1/short_key/1/keepalive/yes/fexp/51565115,52338435/mt/1794037975/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgMvr9xk4212QEkXGyxcPl0ihTM4t_Y4M3QdxvBkpEgoQCIQDjYouD6oGMhjyJKnDieeFrv3bzhhifpnZizt-rsEZPRw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPiu7Wq5yDLiR0-p0RxWq1DBkHULINTw00VWDNgWmHs4AiAXu9Xll3elgGJllxmG0t2oqKaWNDuAut4nBS1_ze94mg%3D%3D/playlist/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="YouTube" tvg-name="YouTube" group-title="Apps", YouTube
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce (YouTube Live)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://192.168.100.5:8009/apps/YouTube
+https://www.youtube.com/@ElDoceTV/live
 
-
-
-#EXTINF:-1 tvg-id="YouTube" tvg-name="YouTube" group-title="Apps", YouTube (Cast / Local)
-#EXTVLCOPT:http-user-agent=com.google.android.youtube/21.44.529 (Linux; U; Android 11; es_AR; moto g(20) Build/RTAS31.68-66-3) gzip
-#EXTVLCOPT:http-origin=package:com.google.android.youtube
-http://192.168.100.5:8009/apps/YouTube
-
-
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce (YouTube Live)2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://www.youtube.com/@ElDoceTV/live
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
