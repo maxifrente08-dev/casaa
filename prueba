@@ -1,6 +1,9 @@
-#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce
-https://pipedapi.kavin.rocks/streams/nndzeKDSjuc
+#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce1
+https://invidious.nerdvpn.de/latest_version?id=nndzeKDSjuc&itag=22
 
+
+#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce2
+https://pipedapi.privacy.com.de/streams/nndzeKDSjuc
 
 
 
