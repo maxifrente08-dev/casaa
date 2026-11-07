@@ -1,30 +1,260 @@
+#EXTM3U
+
+# ==========================================
+# 🏆 EVENTOS PY
+# ==========================================
+
+#EXTINF:-1 tvg-name="VS SPORTS" tvg-logo="https://i.ibb.co/CpxTmNvM/vs-sports.png" group-title="🏆 EVENTOS PY", VS SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/VS-SPORTS_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="🏆 EVENTOS PY", EVENTOS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_wl/Eventos_PY.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS 2" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="🏆 EVENTOS PY", EVENTOS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/EVENTOS-_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc/Eventos2_PY.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS 3" tvg-logo="https://i.ibb.co/3WZtzG3/eventos-py.png" group-title="🏆 EVENTOS PY", EVENTOS 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/EVENTOS-3_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/Canal2_PY/SA_Live_dash_enc/Canal2_PY.mpd
+
+#EXTINF:-1 tvg-name="TIGO SPORTS" tvg-logo="https://i.ibb.co/5X20hxjL/KN-copia-4.png" group-title="🏆 EVENTOS PY", TIGO SPORTS
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="N SPORTS (C. DEL ESTE)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="🏆 EVENTOS PY", N SPORTS (C. DEL ESTE)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8
+
+
+# ==========================================
+# 🇵🇾 TV PARAGUAY
+# ==========================================
+
+#EXTINF:-1 tvg-name="SNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="🇵🇾 TV PARAGUAY", SNT
+https://d2h2wh04y3aqtb.cloudfront.net/hls/25646ipbno2g/4_3/index.m3u8
+
+#EXTINF:-1 tvg-name="TELEFUTURO" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="🇵🇾 TV PARAGUAY", TELEFUTURO
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="MONUMENTAL 1080 AM" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="🇵🇾 TV PARAGUAY", MONUMENTAL 1080 AM
+https://rds3gen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="NPY" tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png" group-title="🇵🇾 TV PARAGUAY", NPY
+https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="TRECE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2g_asOsN2SyRS2jBzWLyuHtCjNAjYIVNRn-hiqu0zw&s=10" group-title="🇵🇾 TV PARAGUAY", TRECE
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+
+#EXTINF:-1 tvg-name="UNICANAL" tvg-logo="https://iptvstudio.pages.dev/logos/paraguay/unicanal.png" group-title="🇵🇾 TV PARAGUAY", UNICANAL
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
+
+#EXTINF:-1 tvg-name="MEGA TV" tvg-logo="https://i.ibb.co/hfFmYXz/WW.jpg" group-title="🇵🇾 TV PARAGUAY", MEGA TV
+https://www.desde-paraguay.com/mega.m3u8
+
+#EXTINF:-1 tvg-name="PARAGUAY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KeH_DRcDH-my7B90GpKy2o_pg0yhVCwnC-AfTgKPOg&s=10" group-title="🇵🇾 TV PARAGUAY", PARAGUAY TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+
+#EXTINF:-1 tvg-name="CANAL PRO" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/pro.png" group-title="🇵🇾 TV PARAGUAY", CANAL PRO
+https://www.desde-paraguay.com/pro.m3u8
+
+#EXTINF:-1 tvg-name="SURTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png" group-title="🇵🇾 TV PARAGUAY", SURTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8
+
+#EXTINF:-1 tvg-name="PARAVISIÓN" tvg-logo="https://i.ibb.co/FXnvNPk/paravision.png" group-title="🇵🇾 TV PARAGUAY", PARAVISIÓN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+
+#EXTINF:-1 tvg-name="C9N" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZgi3dH4dGXTmCnl2WIU5_FDruZHUYhHE1yQNdJpEow&s=10" group-title="🇵🇾 TV PARAGUAY", C9N
+https://ddycmnicl95kp.cloudfront.net/live/qnxsy62odjyb/master.m3u8
+
+#EXTINF:-1 tvg-name="GEN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpW0nrQmGCRDxjlu3vedbv8JTwSvinBoemAZYpTIOMKQ&s=10" group-title="🇵🇾 TV PARAGUAY", GEN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1847.m3u8
+
+#EXTINF:-1 tvg-name="POPU TV" tvg-logo="https://www.popular.com.py/wp-content/themes/popu/assets/img/popu-tv.png" group-title="🇵🇾 TV PARAGUAY", POPU TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/POPU_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd
+
+#EXTINF:-1 tvg-name="LA TELE" tvg-logo="https://i.ibb.co/Zg861M4/latele.png" group-title="🇵🇾 TV PARAGUAY", LA TELE
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="ÑANDUTI TV" tvg-logo="https://i.ibb.co/3TJQVdt/nandutitv.png" group-title="🇵🇾 TV PARAGUAY", ÑANDUTI TV
+https://nanduti.b-cdn.net/Source.m3u8
+
+#EXTINF:-1 tvg-name="ABC TV" tvg-logo="https://i.ibb.co/dGqjksf/descarga.png" group-title="🇵🇾 TV PARAGUAY", ABC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+
+#EXTINF:-1 tvg-name="AMERICA PY" tvg-logo="https://i.ibb.co/FbvZ6t5t/america-py.png" group-title="🇵🇾 TV PARAGUAY", AMERICA PY
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/AMERICA_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c7eds/America_PY/SA_Live_dash_enc/America_PY.mpd
+
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://i.ibb.co/ZpPpv9tJ/a24-py.png" group-title="🇵🇾 TV PARAGUAY", A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/A24_PY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.37
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c7eds/A24_PY/SA_Live_dash_enc_wl/A24_PY.mpd
+
+#EXTINF:-1 tvg-name="HEI" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="🇵🇾 TV PARAGUAY", HEI
+https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-name="EDUCANAL" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="🇵🇾 TV PARAGUAY", EDUCANAL
+https://cloudtv.streaming.com.py/educanalpy/educanalpy/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VENUS MEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2fu92BzpGT51fo_D33BCXw0LOQGYsLebIrQtFQKwgQ&s=10" group-title="🇵🇾 TV PARAGUAY", VENUS MEDIA
+https://copacogen.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ROCK & POP" tvg-logo="https://i.ibb.co/MMYLRZV/rocka.png" group-title="🇵🇾 TV PARAGUAY", ROCK & POP
+https://rds3gen.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8
+
+#EXTINF:-1 tvg-name="E40" tvg-logo="https://i.ibb.co/jz9XkvP/e40.png" group-title="🇵🇾 TV PARAGUAY", E40
+https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-name="RADIO FARRA" tvg-logo="https://i.ibb.co/99DzY4J/farra-play.png" group-title="🇵🇾 TV PARAGUAY", RADIO FARRA
+https://stream.farra.com.py/live/farra.m3u8
+
+#EXTINF:-1 tvg-name="BRUNO MASI TV" tvg-logo="https://i.ibb.co/pK5SNMT/bruno-masi-tv.png" group-title="🇵🇾 TV PARAGUAY", BRUNO MASI TV
+https://rds3gen.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NEXT" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="🇵🇾 TV PARAGUAY", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-name="4D MÁS NOTICIAS" tvg-logo="https://i.ibb.co/Vw7gVWz/4d-noticias.png" group-title="🇵🇾 TV PARAGUAY", 4D MÁS NOTICIAS
+https://rds3gen.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ASPEN" tvg-logo="https://i.ibb.co/sJRyc31/aspen-classic.png" group-title="🇵🇾 TV PARAGUAY", ASPEN
+https://rds3gen.desdeparaguay.net/aspentv/aspentv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="UNIÓN TV" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="🇵🇾 TV PARAGUAY", UNIÓN TV
+https://rds3gen.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RADIO/TV REPÚBLICA 101.3 FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsocfQtHbssuQB49mOi3jkeR8oH-sHddE5Ry2HH_nxmo_lhZ3U7nU107P&s=10" group-title="🇵🇾 TV PARAGUAY", RADIO/TV REPÚBLICA 101.3 FM
+https://rds3gen.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PRODUCTIVA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUBbH49dP7YGSmYaWY_Vwgg7OKvJ4QTnaJ1gvCW5jOw&s=10" group-title="🇵🇾 TV PARAGUAY", PRODUCTIVA TV
+https://rds3gen.desdeparaguay.net/productivatv/productivatv_baja/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="CANAL 12  REGIONAL TV" tvg-logo="https://i.ibb.co/0nRfZNd/canal12regional.png" group-title="🇵🇾 TV PARAGUAY", CANAL 12 REGIONAL TV
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+
+#EXTINF:-1 tvg-name="MI TV ITAPÚA" tvg-logo="https://i.ibb.co/6RqpxYR/mitv.png" group-title="🇵🇾 TV PARAGUAY", MI TV ITAPÚA
+https://rds3gen.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua
+
+#EXTINF:-1 tvg-name="VISIÓN TV VILLARRICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHa-ueinqVx_A96FyJeTczE56yKBGrTFtyg8PA_k0eg&s=10" group-title="🇵🇾 TV PARAGUAY", VISIÓN TV VILLARRICA
+https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="CÁRITAS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUBbH49dP7YGSmYaWY_Vwgg7OKvJ4QTnaJ1gvCW5jOw&s=10" group-title="🇵🇾 TV PARAGUAY", CÁRITAS TV
+https://rds3gen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ÑANDEJARA ÑE´E TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtnV_mSgh3_41dMG3e1Wyv09S6uEI6NGb5DKBsITumA&s=10" group-title="🇵🇾 TV PARAGUAY", ÑANDEJARA ÑE´E TV
+https://rds3gen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RCC" tvg-logo="https://yt3.googleusercontent.com/XOx7P3g2qonS4NFT7LfAZWBazUKoXUo6liMfqM2wP0SSafroFtQ5ylOg1-wn_pmNWip3eaDaU2o=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇾 TV PARAGUAY", RCC
+https://rds3.desdeparaguay.net/rcctv/rcctv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV CHAQUEÑA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsCH8N-gMcDgYciwiqMYruF8qq4-RRg28QqgcfpZ8rjw&s=10" group-title="🇵🇾 TV PARAGUAY", TV CHAQUEÑA
+https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVA CORONEL OVIEDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjoxPHrtLcDBykodEc3e9IMjpLm4zzyF3LBrAvAOJg&s=10" group-title="🇵🇾 TV PARAGUAY", TVA CORONEL OVIEDO
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+
+
+# ==========================================
+# 🏆 ESPN & FOX
+# ==========================================
+
+#EXTINF:-1 tvg-name="FOX SPORTS" tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/979.png" group-title="🏆 ESPN & FOX", FOX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS-FLOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2785.png" group-title="🏆 ESPN & FOX", FOX SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_2-FLOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/2366.png" group-title="🏆 ESPN & FOX", FOX SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/FOX_SPORTS_3-FLOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+
+#EXTINF:-1 tvg-name="ESPN LPF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjb8xYYksAq7ZqpK1h_34Y4TtSblkFF10pnhH8_o3XPR8IqGbYwivYZU4&s=10" group-title="🏆 ESPN & FOX", ESPN LPF
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd
+
+#EXTINF:-1 tvg-name="ESPN ARG" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163" group-title="🏆 ESPN & FOX", ESPN ARG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_ARG
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163" group-title="Deportes", ESPN ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
 https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
+#EXTINF:-1 tvg-name="ESPN 2 ARG" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163" group-title="🏆 ESPN & FOX", ESPN 2 ARG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_2_ARG
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163" group-title="Deportes", ESPN 2 ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
 https://edge-mix01-ros.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-name="ESPN 3 ARG" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5252/5252WHORIZONTAL.jpg?size=290x163" group-title="🏆 ESPN & FOX", ESPN 3 ARG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_ARG
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/3528/3528WHORIZONTAL.jpg?size=290x163" group-title="Deportes", ESPN ARG3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_3_ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd
 
+#EXTINF:-1 tvg-name="ESPN 4 ARG" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/1132/1132WHORIZONTAL.jpg?size=290x163" group-title="🏆 ESPN & FOX", ESPN 4 ARG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_2_ARG
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://clarovideocdn7.clarovideo.net/EPG/REPORTTV/LOGOS/5256/5256WHORIZONTAL.jpg?size=290x163" group-title="Deportes", ESPN 2 ARG4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://edge-mix01-ros.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_4_ARG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.py
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
+https://edge-mix01-ros.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+
 
 
 
