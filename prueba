@@ -9,6 +9,13 @@ https://www.youtube.com/embed/nndzeKDSjuc
 #EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce (Web Embed)
 https://www.youtube.com/embed/nndzeKDSjuc|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36&Origin=https://www.youtube.com&Referer=https://www.youtube.com/embed/nndzeKDSjuc?controls=0&modestbranding=1&rel=0&showinfo=0&autoplay=1&playsinline=1&enablejsapi=1&origin=https%3A%2F%2Feldoce.tv&widgetid=1
 
+#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce (En vivo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://pipedapi.kavin.rocks/streams/nndzeKDSjuc
+
+#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://www.youtube.com/embed/nndzeKDSjuc?autoplay=1
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
