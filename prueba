@@ -1,8 +1,10 @@
-#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce1
+#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://invidious.nerdvpn.de/latest_version?id=nndzeKDSjuc&itag=22
 
 
-#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce2
+#EXTINF:-1 tvg-id="eldoce" tvg-name="El Doce" tvg-logo="https://i.postimg.cc/mD8v9p6v/el-doce.png" group-title="argentina", El Doce23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://pipedapi.privacy.com.de/streams/nndzeKDSjuc
 
 
