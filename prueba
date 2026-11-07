@@ -11,6 +11,12 @@ http://192.168.100.5:8009/apps/YouTube
 
 
 
+#EXTINF:-1 tvg-id="YouTube" tvg-name="YouTube" group-title="Apps", YouTube (Cast / Local)
+#EXTVLCOPT:http-user-agent=com.google.android.youtube/21.44.529 (Linux; U; Android 11; es_AR; moto g(20) Build/RTAS31.68-66-3) gzip
+#EXTVLCOPT:http-origin=package:com.google.android.youtube
+http://192.168.100.5:8009/apps/YouTube
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
