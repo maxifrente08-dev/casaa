@@ -5,6 +5,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1794060072/ei/
 
 
 
+#EXTINF:-1 tvg-id="YouTube" tvg-name="YouTube" group-title="Apps", YouTube
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://192.168.100.5:8009/apps/YouTube
 
 
 
