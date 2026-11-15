@@ -725,10 +725,10 @@ https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
  
  
-#EXTINF:-1 tvg-id="XTREMACINECLASICO" tvg-name="XTREMA CINE CLASICO" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA CINE CLASICO
+EXTINF:-1 tvg-id="XTREMACINECLASICO" tvg-name="XTREMA CINE CLASICO" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA CINE CLASICO
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
  
- #EXTINF:-1 tvg-id="XTREMATERROR" tvg-name="XTREMA TERROR" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA TERROR
+EXTINF:-1 tvg-id="XTREMATERROR" tvg-name="XTREMA TERROR" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/cropped-LOGO-2023-XT-chico.png" group-title="Canales Exclusivos",XTREMA TERROR
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 
 
@@ -779,7 +779,7 @@ https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
 
 
-#EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7", EL CHAVO 24/7 
+EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7", EL CHAVO 24/7 
 http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩24/7⏪" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB ESPONJA 24/7 
@@ -788,7 +788,7 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 LOS SIMPSON 
 http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 
-#EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 DRAGÓN BALL Z 
+EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 DRAGÓN BALL Z 
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
@@ -821,7 +821,7 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://cdn-zapster-ros.trapemn.tv:1935/zapster/airelibre_rosario.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cadena103" tvg-name="CADENA 103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6iFE_-WeUuKjhXxNGvIs8mKb-Y312gAAkHol6BOm-w&s=10" group-title="Argentina | Nacional",CADENA 103
+EXTINF:-1 tvg-id="Cadena103" tvg-name="CADENA 103" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH6iFE_-WeUuKjhXxNGvIs8mKb-Y312gAAkHol6BOm-w&s=10" group-title="Argentina | Nacional",CADENA 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CableImagenArmstrong" tvg-name="CABLE IMAGEN ARMSTRONG" tvg-logo="https://i.imgur.com/U9NuJQC.png" group-title="Argentina | Santa Fe",CABLE IMAGEN ARMSTRONG
@@ -887,10 +887,10 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-name="El 11 Salta" group-title="Salta" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_11_Salta.jpeg/250px-Canal_11_Salta.jpeg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail", EL 11 SALTA 
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TIVTelevision" tvg-name="TIV TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dUxXoFpTHZAPK1LuKst9hOiVRLOEFY_-BPrkxW-HJQ&s=10" group-title="Argentina | Nacional",TIV TELEVISION
+EXTINF:-1 tvg-id="TIVTelevision" tvg-name="TIV TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dUxXoFpTHZAPK1LuKst9hOiVRLOEFY_-BPrkxW-HJQ&s=10" group-title="Argentina | Nacional",TIV TELEVISION
 https://videohd.live:19360/8008/8008.m3u8
 
-#EXTINF:-1 tvg-name="Canal 8 San Juan" group-title="San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 8 SAN JUAN 
+EXTINF:-1 tvg-name="Canal 8 San Juan" group-title="San Juan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original", CANAL 8 SAN JUAN 
 https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canal 4 San Juan" group-title="San Juan" tvg-logo="https://yt3.googleusercontent.com/vji1NUb08pDU3hQo-izXmJie8yOWmBxmontb0sLBMxbFJyA5lInJH3gX1D3jYhshqY2SyJABzQ=s900-c-k-c0x00ffffff-no-rj", CANAL 4 SAN JUAN 
