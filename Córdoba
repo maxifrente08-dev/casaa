@@ -779,8 +779,8 @@ https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
 https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
 
 
-EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7", EL CHAVO 24/7 
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
+#EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7", EL CHAVO 24/7 
+https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="⏩24/7⏪" tvg-logo="https://i.imgur.com/nmZ2nId.png", BOB ESPONJA 24/7 
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
@@ -788,8 +788,8 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 xui-id="286672" tvg-id="" tvg-name="24/7 Los Simpson 8-14" tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7 EXCLUSIVOS",24/7 LOS SIMPSON 
 http://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv
 
-EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 DRAGÓN BALL Z 
-https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1 xui-id="317264" tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="https://xl.movieposterdb.com/11_02/1996/214341/xl_214341_867af9a4.jpg" group-title="24/7 EXCLUSIVOS",24/7 DRAGÓN BALL Z 
+https://183.giatvcdn.com/giatv/giatv-dball/dball/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png"  group-title="Cine y Series", ADULT SWIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
